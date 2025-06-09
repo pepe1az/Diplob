@@ -1,0 +1,143 @@
+[
+  {
+    "frequency": 1,
+    "route": "внутрь",
+    "dosage": "300.0 мг",
+    "total": "300.0 мг",
+    "name": "Плавикс",
+    "period": "1-1"
+  },
+  {
+    "route": "п/к",
+    "total": "0.5 мл",
+    "concentration": "5 МГ/мл",
+    "name": "Арикстра",
+    "period": "1-8"
+  },
+  {
+    "frequency": 1,
+    "route": "внутрь",
+    "dosage": "10.0 мг",
+    "total": "10.0 мг",
+    "name": "Лизиноприл",
+    "period": "1-7"
+  },
+  {
+    "frequency": 1,
+    "route": "внутрь",
+    "dosage": "40.0 мг",
+    "total": "40.0 мг",
+    "name": "Липримар",
+    "period": "1-2"
+  },
+  {
+    "frequency": 0,
+    "route": "в/в капельно",
+    "dosage": "10.0 мл",
+    "total": "0.0 мл",
+    "name": "Изокет",
+    "period": "1-1"
+  },
+  {
+    "frequency": 0,
+    "route": "в/в капельно",
+    "dosage": "10.0 мл",
+    "total": "0.0 мл",
+    "name": "Натрия хлорид",
+    "period": "1-1"
+  },
+  {
+    "route": "промыв катетера",
+    "total": "4.0 дозсмеси",
+    "concentration": "5000 ЕД/мл",
+    "name": "Гепарин",
+    "period": "1-2"
+  },
+  {
+    "route": "промыв катетера",
+    "total": "4.0 дозсмеси",
+    "concentration": "5000 ЕД/мл",
+    "name": "Натрия хлорид",
+    "period": "1-2"
+  },
+  {
+    "frequency": 1,
+    "route": "внутрь",
+    "dosage": "100.0 мг",
+    "total": "75.0 мг",
+    "name": "Коплавикс",
+    "period": "2-10"
+  },
+  {
+    "frequency": 0,
+    "route": "внутрь",
+    "dosage": "40.0 мг",
+    "total": "20.0 мг",
+    "name": "Липримар",
+    "period": "3-10"
+  },
+  {
+    "frequency": 1,
+    "route": "внутрь",
+    "dosage": "20.0 мг",
+    "total": "20.0 мг",
+    "name": "Омепразол",
+    "period": "3-10"
+  },
+  {
+    "frequency": 1,
+    "route": "внутрь",
+    "dosage": "1.0 мг",
+    "total": "1.0 мг",
+    "name": "Фенорелаксан",
+    "period": "3-10"
+  },
+  {
+    "frequency": 1,
+    "route": "внутрь",
+    "dosage": "5.0 мг",
+    "total": "5.0 мг",
+    "name": "Норваск",
+    "period": "6-10"
+  },
+  {
+    "frequency": 32,
+    "route": "внутрь",
+    "dosage": "5.0 мг",
+    "total": "160.0 мг",
+    "name": "Эксфорж",
+    "period": "8-10"
+  },
+  {
+    "frequency": 3,
+    "route": "в/в",
+    "dosage": "10.0 мл",
+    "total": "30.0 мл",
+    "name": "Калия хлорида",
+    "period": "9-10"
+  },
+  {
+    "frequency": 1,
+    "route": "в/в",
+    "dosage": "5.0 мл",
+    "total": "5.0 мл",
+    "name": "Магния сульфат",
+    "period": "9-10"
+  },
+  {
+    "frequency": 1,
+    "route": "в/в",
+    "dosage": "250.0 мл",
+    "total": "250.0 мл",
+    "name": "Натрия хлорид",
+    "period": "9-10"
+  },
+  {
+    "frequency": 1,
+    "route": "п/к",
+    "dosage": "0.4 мл",
+    "total": "0.4 мл",
+    "name": "Клексан",
+    "period": "9-10"
+  }
+]

@@ -1,0 +1,71 @@
+[
+  {
+    "frequency": 1,
+    "route": "нет",
+    "dosage": "40.0 мг",
+    "total": "40.0 мг",
+    "name": "Аторвастатин",
+    "period": "1-2"
+  },
+  {
+    "route": "не указан",
+    "total": "5.0 мл",
+    "concentration": "50 МГ/мл",
+    "name": "Амиодарон",
+    "period": "2-3"
+  },
+  {
+    "route": "не указан",
+    "total": "2.0 мл",
+    "concentration": "2 МГ/мл",
+    "name": "Норадреналин Агетан",
+    "period": "2-2"
+  },
+  {
+    "route": "не указан",
+    "total": "1.0 мл",
+    "concentration": "100 МЕ/мл",
+    "name": "Протафан НМ Пенфилл",
+    "period": "2-2"
+  },
+  {
+    "frequency": 1,
+    "route": "нет",
+    "dosage": "75.0 мг",
+    "total": "75.0 мг",
+    "name": "Плавикс",
+    "period": "2-3"
+  },
+  {
+    "frequency": 1,
+    "route": "нет",
+    "dosage": "100.0 мг",
+    "total": "100.0 мг",
+    "name": "Тромбо АСС",
+    "period": "2-3"
+  },
+  {
+    "frequency": 1,
+    "route": "нет",
+    "dosage": "10.0 мг",
+    "total": "10.0 мг",
+    "name": "Торасемид-СЗ",
+    "period": "2-3"
+  },
+  {
+    "frequency": 1,
+    "route": "нет",
+    "dosage": "20.0 мг",
+    "total": "20.0 мг",
+    "name": "Омез",
+    "period": "2-2"
+  },
+  {
+    "frequency": 2,
+    "route": "нет",
+    "dosage": "40.0 мг",
+    "total": "60.0 мг",
+    "name": "Фуросемид",
+    "period": "3-3"
+  }
+]

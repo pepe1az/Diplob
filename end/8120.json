@@ -1,0 +1,129 @@
+[
+  {
+    "frequency": 1,
+    "route": "внутрь",
+    "dosage": "20.0 мг",
+    "total": "20.0 мг",
+    "name": "Омепразол",
+    "period": "1-5"
+  },
+  {
+    "frequency": 2,
+    "route": "в/в",
+    "dosage": "2.0 мл",
+    "total": "4.0 мл",
+    "name": "Фуросемид",
+    "period": "1-1"
+  },
+  {
+    "frequency": 0,
+    "route": "в/в",
+    "dosage": "50.0 мл",
+    "total": "2.0 мл",
+    "name": "Натрия хлорид",
+    "period": "1-5"
+  },
+  {
+    "frequency": 0,
+    "route": "в/в",
+    "dosage": "50.0 мл",
+    "total": "2.0 мл",
+    "name": "Эдицин",
+    "period": "1-5"
+  },
+  {
+    "frequency": 2,
+    "route": "в/в",
+    "dosage": "2.0 мл",
+    "total": "3.0 мл",
+    "name": "Гентамицин",
+    "period": "1-2"
+  },
+  {
+    "frequency": 2,
+    "route": "в/в",
+    "dosage": "2.0 мл",
+    "total": "3.0 мл",
+    "name": "Натрия хлорид",
+    "period": "1-2"
+  },
+  {
+    "frequency": 0,
+    "route": "в/в",
+    "dosage": "6.0 мл",
+    "total": "2.0 мл",
+    "name": "Фуросемид",
+    "period": "1-4"
+  },
+  {
+    "frequency": 0,
+    "route": "в/в",
+    "dosage": "6.0 мл",
+    "total": "2.0 мл",
+    "name": "Натрия хлорид",
+    "period": "1-4"
+  },
+  {
+    "frequency": 1,
+    "route": "внутрь",
+    "dosage": "1000.0 мл",
+    "total": "1000.0 мл",
+    "name": "Изосурс Энерджи Файбер",
+    "period": "1-5"
+  },
+  {
+    "route": "в/в",
+    "total": "2.0 мл",
+    "concentration": "2 МГ/мл",
+    "name": "Латран",
+    "period": "1-1"
+  },
+  {
+    "frequency": 0,
+    "route": "в/в",
+    "dosage": "6.0 мл",
+    "total": "1.0 мл",
+    "name": "Гентамицин",
+    "period": "3-5"
+  },
+  {
+    "frequency": 0,
+    "route": "в/в",
+    "dosage": "6.0 мл",
+    "total": "1.0 мл",
+    "name": "Натрия хлорид",
+    "period": "3-5"
+  },
+  {
+    "frequency": 0,
+    "route": "в/в",
+    "dosage": "400.0 мг",
+    "total": "2.0 мг",
+    "name": "Гептрал",
+    "period": "3-5"
+  },
+  {
+    "frequency": 0,
+    "route": "в/в",
+    "dosage": "400.0 мг",
+    "total": "2.0 мг",
+    "name": "Натрия хлорид",
+    "period": "3-5"
+  },
+  {
+    "frequency": 1,
+    "route": "в/м",
+    "dosage": "1.0 мл",
+    "total": "1.0 мл",
+    "name": "Платифиллин",
+    "period": "4-4"
+  },
+  {
+    "frequency": 2,
+    "route": "внутрь",
+    "dosage": "10.0 мг",
+    "total": "20.0 мг",
+    "name": "Торасемид-СЗ",
+    "period": "5-5"
+  }
+]

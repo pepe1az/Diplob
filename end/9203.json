@@ -1,0 +1,235 @@
+[
+  {
+    "frequency": 1,
+    "route": "внутрь",
+    "dosage": "20.0 мг",
+    "total": "20.0 мг",
+    "name": "Омепразол",
+    "period": "1-1"
+  },
+  {
+    "frequency": 1,
+    "route": "внутрь",
+    "dosage": "100.0 мг",
+    "total": "100.0 мг",
+    "name": "Ацекардол",
+    "period": "1-1"
+  },
+  {
+    "frequency": 3,
+    "route": "внутрь",
+    "dosage": "90.0 мг",
+    "total": "270.0 мг",
+    "name": "Брилинта",
+    "period": "1-1"
+  },
+  {
+    "frequency": 4,
+    "route": "промыв катетера",
+    "dosage": "50.0 мл",
+    "total": "200.0 мл",
+    "name": "Натрия хлорид",
+    "period": "1-13"
+  },
+  {
+    "route": "промыв катетера",
+    "total": "4.0 дозсмеси",
+    "concentration": "5000 ЕД/мл",
+    "name": "Гепарин",
+    "period": "1-13"
+  },
+  {
+    "route": "промыв катетера",
+    "total": "4.0 дозсмеси",
+    "concentration": "5000 ЕД/мл",
+    "name": "Натрия хлорид",
+    "period": "1-13"
+  },
+  {
+    "frequency": 4,
+    "route": "внутрь",
+    "dosage": "10.0 мг",
+    "total": "40.0 мг",
+    "name": "Аторвастатин",
+    "period": "1-8"
+  },
+  {
+    "frequency": 1,
+    "route": "п/к",
+    "dosage": "0.4 мл",
+    "total": "0.4 мл",
+    "name": "Эниксум нти-Ха",
+    "period": "1-2"
+  },
+  {
+    "route": "в/в",
+    "total": "30.0 мл",
+    "concentration": "50 МГ/мл",
+    "name": "Амиодарон",
+    "period": "1-1"
+  },
+  {
+    "route": "в/в",
+    "total": "40.0 мл",
+    "concentration": "2 МГ/мл",
+    "name": "Норадреналин Агетан",
+    "period": "1-1"
+  },
+  {
+    "frequency": 0,
+    "route": "внутрь",
+    "dosage": "20.0 мг",
+    "total": "0.0 мг",
+    "name": "Омепразол",
+    "period": "2-2"
+  },
+  {
+    "frequency": 0,
+    "route": "внутрь",
+    "dosage": "100.0 мг",
+    "total": "0.0 мг",
+    "name": "Ацекардол",
+    "period": "2-2"
+  },
+  {
+    "frequency": 2,
+    "route": "внутрь",
+    "dosage": "90.0 мг",
+    "total": "180.0 мг",
+    "name": "Брилинта",
+    "period": "2-13"
+  },
+  {
+    "route": "в/в",
+    "total": "9.0 мл",
+    "concentration": "50 МГ/мл",
+    "name": "Амиодарон",
+    "period": "2-2"
+  },
+  {
+    "route": "в/в",
+    "total": "12.0 мл",
+    "concentration": "2 МГ/мл",
+    "name": "Норадреналин Агетан",
+    "period": "2-2"
+  },
+  {
+    "route": "в/в",
+    "total": "30.0 мл",
+    "concentration": "40 МГ/мл",
+    "name": "Калия хлорид",
+    "period": "2-13"
+  },
+  {
+    "frequency": 2,
+    "route": "в/в капельно",
+    "dosage": "500.0 мл",
+    "total": "1000.0 мл",
+    "name": "Стерофундин изотонический",
+    "period": "2-6"
+  },
+  {
+    "route": "п/к",
+    "total": "48.0 ЕД",
+    "concentration": "100 МЕ/мл",
+    "name": "Ринсулин Р",
+    "period": "2-3"
+  },
+  {
+    "frequency": 1,
+    "route": "в/в",
+    "dosage": "20.0 мг",
+    "total": "20.0 мг",
+    "name": "Фамотидин с растворителем",
+    "period": "2-13"
+  },
+  {
+    "route": "п/к",
+    "total": "93.0 ЕД",
+    "concentration": "100 МЕ/мл",
+    "name": "Ринсулин Р",
+    "period": "4-13"
+  },
+  {
+    "frequency": 1,
+    "route": "в/в капельно",
+    "dosage": "5.0 мл",
+    "total": "5.0 мл",
+    "name": "Беталок",
+    "period": "4-6"
+  },
+  {
+    "route": "в/в капельно",
+    "total": "250.0 мл",
+    "concentration": "6 МГ/мл",
+    "name": "Моксифлоксацин",
+    "period": "6-6"
+  },
+  {
+    "route": "в/в капельно",
+    "total": "100.0 мл",
+    "concentration": "10 МГ/мл",
+    "name": "Парацетамол",
+    "period": "6-13"
+  },
+  {
+    "frequency": 0,
+    "route": "в/в",
+    "dosage": "50.0 мл",
+    "total": "3.0 мл",
+    "name": "Натрия хлорид",
+    "period": "6-8"
+  },
+  {
+    "frequency": 0,
+    "route": "в/в",
+    "dosage": "50.0 мл",
+    "total": "3.0 мл",
+    "name": "Меропенем",
+    "period": "6-8"
+  },
+  {
+    "route": "в/в капельно",
+    "total": "100.0 мл",
+    "concentration": "5 МГ/мл",
+    "name": "Левофлоксацин",
+    "period": "8-13"
+  },
+  {
+    "frequency": 2,
+    "route": "внутрь",
+    "dosage": "10.0 мг",
+    "total": "20.0 мг",
+    "name": "Аторвастатин",
+    "period": "9-13"
+  },
+  {
+    "frequency": 1,
+    "route": "парентерально",
+    "dosage": "0 мл",
+    "total": "0 мл",
+    "name": "Меропенем",
+    "period": "9-13"
+  },
+  {
+    "route": "не указан",
+    "total": "15.0 мл",
+    "concentration": "1 МГ/мл",
+    "name": "Адреналин-СОЛОфарм",
+    "period": "13-13"
+  },
+  {
+    "route": "в/в",
+    "total": "2.0 дозсмеси",
+    "concentration": "2 МГ/мл",
+    "name": "Норадреналин Агетан",
+    "period": "13-13"
+  },
+  {
+    "route": "в/в",
+    "total": "2.0 дозсмеси",
+    "concentration": "2 МГ/мл",
+    "name": "Натрия хлорид",
+    "period": "13-13"
+  }
+]

@@ -1,0 +1,112 @@
+[
+  {
+    "frequency": 1,
+    "route": "внутрь",
+    "dosage": "300.0 мг",
+    "total": "300.0 мг",
+    "name": "Плавикс",
+    "period": "1-1"
+  },
+  {
+    "frequency": 1,
+    "route": "п/к",
+    "dosage": "0.8 мл",
+    "total": "1.2 мл",
+    "name": "Клексан",
+    "period": "1-6"
+  },
+  {
+    "frequency": 2,
+    "route": "промыв катетера",
+    "dosage": "25.0 мл",
+    "total": "50.0 мл",
+    "name": "Натрия хлорид",
+    "period": "1-6"
+  },
+  {
+    "frequency": 1,
+    "route": "внутрь",
+    "dosage": "10.0 мг",
+    "total": "10.0 мг",
+    "name": "Крестор",
+    "period": "1-6"
+  },
+  {
+    "frequency": 1,
+    "route": "внутрь",
+    "dosage": "5.0 мг",
+    "total": "5.0 мг",
+    "name": "Лизиноприл",
+    "period": "1-5"
+  },
+  {
+    "frequency": 3,
+    "route": "в/в",
+    "dosage": "10.0 мл",
+    "total": "30.0 мл",
+    "name": "Изокет",
+    "period": "1-2"
+  },
+  {
+    "frequency": 3,
+    "route": "в/в",
+    "dosage": "10.0 мл",
+    "total": "30.0 мл",
+    "name": "Натрия хлорид",
+    "period": "1-2"
+  },
+  {
+    "frequency": 1,
+    "route": "в/в",
+    "dosage": "6.0 мл",
+    "total": "6.0 мл",
+    "name": "Фуросемид",
+    "period": "1-1"
+  },
+  {
+    "frequency": 1,
+    "route": "внутрь",
+    "dosage": "100.0 мг",
+    "total": "75.0 мг",
+    "name": "Коплавикс",
+    "period": "2-6"
+  },
+  {
+    "frequency": 1,
+    "route": "внутрь",
+    "dosage": "10.0 мг",
+    "total": "10.0 мг",
+    "name": "Тригрим",
+    "period": "2-6"
+  },
+  {
+    "frequency": 1,
+    "route": "внутрь",
+    "dosage": "5.0 мг",
+    "total": "5.0 мг",
+    "name": "Бисопролол - Прана",
+    "period": "3-6"
+  },
+  {
+    "route": "в/в",
+    "total": "150.0 мл",
+    "concentration": "20 МГ/мл",
+    "name": "Ликферр",
+    "period": "5-5"
+  },
+  {
+    "route": "в/в",
+    "total": "150.0 мл",
+    "concentration": "20 МГ/мл",
+    "name": "Натрия хлорид",
+    "period": "5-5"
+  },
+  {
+    "frequency": 2,
+    "route": "внутрь",
+    "dosage": "10.0 мг",
+    "total": "20.0 мг",
+    "name": "Лизиноприл",
+    "period": "6-6"
+  }
+]

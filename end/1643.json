@@ -1,0 +1,63 @@
+[
+  {
+    "frequency": 1,
+    "route": "п/к",
+    "dosage": "0 мл",
+    "total": "2.0 мл",
+    "name": "Sol. Tramadoli l",
+    "period": "1-1"
+  },
+  {
+    "route": "п/к",
+    "total": "0.0 ЕД",
+    "concentration": "100 МЕ/мл",
+    "name": "Актрапид НМ",
+    "period": "1-1"
+  },
+  {
+    "route": "в/м",
+    "total": "4.0 мл",
+    "concentration": "50 МГ/мл",
+    "name": "Кетонал",
+    "period": "1-1"
+  },
+  {
+    "route": "в/в капельно",
+    "total": "40.0 мл",
+    "concentration": "75 МГ/мл",
+    "name": "Калия хлорид",
+    "period": "1-1"
+  },
+  {
+    "frequency": 2,
+    "route": "в/в капельно",
+    "dosage": "10.0 мл",
+    "total": "20.0 мл",
+    "name": "Магния сульфат",
+    "period": "1-1"
+  },
+  {
+    "frequency": 3,
+    "route": "в/в капельно",
+    "dosage": "500.0 мл",
+    "total": "1500.0 мл",
+    "name": "Натрия хлорид",
+    "period": "1-1"
+  },
+  {
+    "frequency": 2,
+    "route": "в/в",
+    "dosage": "1000.0 мг",
+    "total": "2000.0 мг",
+    "name": "Цефаксон",
+    "period": "1-1"
+  },
+  {
+    "frequency": 0,
+    "route": "в/м",
+    "dosage": "1.0 мл",
+    "total": "0.0 мл",
+    "name": "Элзепам",
+    "period": "1-1"
+  }
+]

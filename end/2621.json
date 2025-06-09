@@ -1,0 +1,82 @@
+[
+  {
+    "frequency": 1,
+    "route": "внутрь",
+    "dosage": "20.0 мг",
+    "total": "20.0 мг",
+    "name": "Омепразол",
+    "period": "1-2"
+  },
+  {
+    "frequency": 1,
+    "route": "п/к",
+    "dosage": "0.8 мл",
+    "total": "0.8 мл",
+    "name": "Клексан",
+    "period": "1-1"
+  },
+  {
+    "frequency": 1,
+    "route": "внутрь",
+    "dosage": "5.0 мг",
+    "total": "5.0 мг",
+    "name": "Лизиноприл",
+    "period": "1-2"
+  },
+  {
+    "frequency": 3,
+    "route": "промыв катетера",
+    "dosage": "50.0 мл",
+    "total": "150.0 мл",
+    "name": "Натрия хлорид",
+    "period": "1-1"
+  },
+  {
+    "frequency": 1,
+    "route": "в/в капельно",
+    "dosage": "2.0 мл",
+    "total": "2.0 мл",
+    "name": "Адреналин",
+    "period": "1-1"
+  },
+  {
+    "frequency": 1,
+    "route": "в/в капельно",
+    "dosage": "2.0 мл",
+    "total": "2.0 мл",
+    "name": "Натрия хлорид",
+    "period": "1-1"
+  },
+  {
+    "frequency": 2,
+    "route": "п/к",
+    "dosage": "0.8 мл",
+    "total": "1.6 мл",
+    "name": "Клексан",
+    "period": "2-2"
+  },
+  {
+    "frequency": 4,
+    "route": "промыв катетера",
+    "dosage": "50.0 мл",
+    "total": "200.0 мл",
+    "name": "Натрия хлорид",
+    "period": "2-2"
+  },
+  {
+    "frequency": 1,
+    "route": "внутрь",
+    "dosage": "100.0 мг",
+    "total": "100.0 мг",
+    "name": "Ацекардол",
+    "period": "2-2"
+  },
+  {
+    "frequency": 3,
+    "route": "внутрь",
+    "dosage": "90.0 мг",
+    "total": "270.0 мг",
+    "name": "Брилинта",
+    "period": "2-2"
+  }
+]

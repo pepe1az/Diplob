@@ -1,0 +1,112 @@
+[
+  {
+    "frequency": 1,
+    "route": "внутрь",
+    "dosage": "10.0 мг",
+    "total": "10.0 мг",
+    "name": "Лизиноприл",
+    "period": "1-2"
+  },
+  {
+    "frequency": 1,
+    "route": "внутрь",
+    "dosage": "20.0 мг",
+    "total": "20.0 мг",
+    "name": "Омепразол",
+    "period": "1-1"
+  },
+  {
+    "frequency": 0,
+    "route": "в/в капельно",
+    "dosage": "10.0 мл",
+    "total": "3.0 мл",
+    "name": "Изокет",
+    "period": "1-1"
+  },
+  {
+    "frequency": 0,
+    "route": "в/в капельно",
+    "dosage": "10.0 мл",
+    "total": "3.0 мл",
+    "name": "Натрия хлорид",
+    "period": "1-1"
+  },
+  {
+    "frequency": 1,
+    "route": "внутрь",
+    "dosage": "100.0 мг",
+    "total": "75.0 мг",
+    "name": "Коплавикс",
+    "period": "1-2"
+  },
+  {
+    "frequency": 4,
+    "route": "в/в",
+    "dosage": "25.0 мл",
+    "total": "100.0 мл",
+    "name": "Натрия хлорид",
+    "period": "1-2"
+  },
+  {
+    "frequency": 1,
+    "route": "п/к",
+    "dosage": "0.8 мл",
+    "total": "0.8 мл",
+    "name": "Клексан",
+    "period": "1-1"
+  },
+  {
+    "frequency": 1,
+    "route": "внутрь",
+    "dosage": "40.0 мг",
+    "total": "40.0 мг",
+    "name": "Аторис",
+    "period": "1-2"
+  },
+  {
+    "frequency": 1,
+    "route": "в/в",
+    "dosage": "2.0 мл",
+    "total": "2.0 мл",
+    "name": "Фуросемид",
+    "period": "1-1"
+  },
+  {
+    "frequency": 3,
+    "route": "в/м",
+    "dosage": "1.0 мл",
+    "total": "3.0 мл",
+    "name": "Галоперидол-Рихтер",
+    "period": "1-1"
+  },
+  {
+    "route": "в/м",
+    "total": "2.0 мл",
+    "concentration": "50 МГ/мл",
+    "name": "Кетонал",
+    "period": "1-1"
+  },
+  {
+    "route": "в/в капельно",
+    "total": "100.0 мл",
+    "concentration": "10 МГ/мл",
+    "name": "Парацетамол",
+    "period": "1-1"
+  },
+  {
+    "frequency": 2,
+    "route": "внутрь",
+    "dosage": "20.0 мг",
+    "total": "40.0 мг",
+    "name": "Омепразол",
+    "period": "2-2"
+  },
+  {
+    "frequency": 2,
+    "route": "п/к",
+    "dosage": "0.8 мл",
+    "total": "1.6 мл",
+    "name": "Клексан",
+    "period": "2-2"
+  }
+]

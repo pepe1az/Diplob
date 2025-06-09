@@ -1,0 +1,66 @@
+[
+  {
+    "frequency": 1,
+    "route": "внутрь",
+    "dosage": "5.0 мг",
+    "total": "5.0 мг",
+    "name": "Амлодипин - Боримед",
+    "period": "1-1"
+  },
+  {
+    "frequency": 1,
+    "route": "внутрь",
+    "dosage": "100.0 мг",
+    "total": "100.0 мг",
+    "name": "Ацекардол",
+    "period": "1-1"
+  },
+  {
+    "frequency": 1,
+    "route": "внутрь",
+    "dosage": "5.0 мг",
+    "total": "5.0 мг",
+    "name": "Бисопролол - Прана",
+    "period": "1-1"
+  },
+  {
+    "frequency": 0,
+    "route": "в/в капельно",
+    "dosage": "200.0 мл",
+    "total": "15.0 мл",
+    "name": "Калия хлорид",
+    "period": "1-1"
+  },
+  {
+    "frequency": 1,
+    "route": "внутрь",
+    "dosage": "50.0 мг",
+    "total": "50.0 мг",
+    "name": "Лозартан",
+    "period": "1-1"
+  },
+  {
+    "frequency": 1,
+    "route": "в/в капельно",
+    "dosage": "10.0 мл",
+    "total": "10.0 мл",
+    "name": "Магния сульфат",
+    "period": "1-1"
+  },
+  {
+    "frequency": 8,
+    "route": "внутрипузырно",
+    "dosage": "500.0 мл",
+    "total": "4000.0 мл",
+    "name": "Натрия хлорид",
+    "period": "1-1"
+  },
+  {
+    "frequency": 1,
+    "route": "в/м",
+    "dosage": "1.0 мл",
+    "total": "1.0 мл",
+    "name": "Элзепам",
+    "period": "1-1"
+  }
+]

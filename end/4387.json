@@ -1,0 +1,97 @@
+[
+  {
+    "frequency": 1,
+    "route": "внутрь",
+    "dosage": "20.0 мг",
+    "total": "20.0 мг",
+    "name": "Омепразол",
+    "period": "1-2"
+  },
+  {
+    "frequency": 1,
+    "route": "внутрь",
+    "dosage": "10.0 мг",
+    "total": "10.0 мг",
+    "name": "Лизиноприл",
+    "period": "1-1"
+  },
+  {
+    "frequency": 1,
+    "route": "внутрь",
+    "dosage": "300.0 мг",
+    "total": "300.0 мг",
+    "name": "Плавикс",
+    "period": "1-1"
+  },
+  {
+    "route": "п/к",
+    "total": "0.5 мл",
+    "concentration": "5 МГ/мл",
+    "name": "Арикстра",
+    "period": "1-2"
+  },
+  {
+    "frequency": 1,
+    "route": "внутрь",
+    "dosage": "40.0 мг",
+    "total": "40.0 мг",
+    "name": "Аторвастатин",
+    "period": "1-2"
+  },
+  {
+    "frequency": 1,
+    "route": "внутрь",
+    "dosage": "5.0 мг",
+    "total": "5.0 мг",
+    "name": "Бисопролол - Прана",
+    "period": "1-2"
+  },
+  {
+    "frequency": 4,
+    "route": "промыв катетера",
+    "dosage": "50.0 мл",
+    "total": "200.0 мл",
+    "name": "Натрия хлорид",
+    "period": "1-2"
+  },
+  {
+    "frequency": 0,
+    "route": "в/в",
+    "dosage": "30.0 мл",
+    "total": "2.0 мл",
+    "name": "Калия хлорида",
+    "period": "1-1"
+  },
+  {
+    "frequency": 0,
+    "route": "в/в",
+    "dosage": "30.0 мл",
+    "total": "2.0 мл",
+    "name": "Глюкоза",
+    "period": "1-1"
+  },
+  {
+    "frequency": 1,
+    "route": "внутрь",
+    "dosage": "5.0 мг",
+    "total": "5.0 мг",
+    "name": "Лизиноприл",
+    "period": "2-2"
+  },
+  {
+    "frequency": 1,
+    "route": "внутрь",
+    "dosage": "75.0 мг",
+    "total": "75.0 мг",
+    "name": "Зилт",
+    "period": "2-2"
+  },
+  {
+    "frequency": 1,
+    "route": "ингаляционно",
+    "dosage": "0 мл",
+    "total": "0 мл",
+    "name": "Серетид оз",
+    "period": "2-2"
+  }
+]

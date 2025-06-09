@@ -1,0 +1,113 @@
+[
+  {
+    "route": "п/к",
+    "total": "0.0 ед",
+    "concentration": "100 МЕ/мл",
+    "name": "Актрапид НМ",
+    "period": "1-2"
+  },
+  {
+    "frequency": 3,
+    "route": "внутрь",
+    "dosage": "100.0 мг",
+    "total": "300.0 мг",
+    "name": "Ацекардол",
+    "period": "1-1"
+  },
+  {
+    "frequency": 0,
+    "route": "в/в",
+    "dosage": "200.0 мл",
+    "total": "15.0 мл",
+    "name": "Калия хлорид",
+    "period": "1-1"
+  },
+  {
+    "frequency": 2,
+    "route": "внутрь",
+    "dosage": "20.0 мг",
+    "total": "40.0 мг",
+    "name": "Омепразол",
+    "period": "1-2"
+  },
+  {
+    "frequency": 1,
+    "route": "в/м",
+    "dosage": "1.0 мл",
+    "total": "1.0 мл",
+    "name": "Феназепам",
+    "period": "1-2"
+  },
+  {
+    "frequency": 1,
+    "route": "в/в капельно",
+    "dosage": "10.0 мл",
+    "total": "10.0 мл",
+    "name": "Цитофлавин",
+    "period": "1-2"
+  },
+  {
+    "frequency": 2,
+    "route": "в/в",
+    "dosage": "250.0 мл",
+    "total": "500.0 мл",
+    "name": "Натрия хлорид",
+    "period": "1-1"
+  },
+  {
+    "frequency": 1,
+    "route": "внутрь",
+    "dosage": "25.0 мг",
+    "total": "25.0 мг",
+    "name": "Верошпирон",
+    "period": "1-2"
+  },
+  {
+    "frequency": 1,
+    "route": "внутрь",
+    "dosage": "100.0 мг",
+    "total": "75.0 мг",
+    "name": "Коплавикс",
+    "period": "1-2"
+  },
+  {
+    "frequency": 1,
+    "route": "внутрь",
+    "dosage": "25.0 мг",
+    "total": "25.0 мг",
+    "name": "Эгилок",
+    "period": "1-2"
+  },
+  {
+    "frequency": 2,
+    "route": "в/в",
+    "dosage": "10.0 мл",
+    "total": "20.0 мл",
+    "name": "Магния сульфат",
+    "period": "1-2"
+  },
+  {
+    "frequency": 1,
+    "route": "внутрь",
+    "dosage": "100.0 мг",
+    "total": "100.0 мг",
+    "name": "Ацекардол",
+    "period": "2-2"
+  },
+  {
+    "frequency": 0,
+    "route": "в/в",
+    "dosage": "200.0 мл",
+    "total": "20.0 мл",
+    "name": "Калия хлорид",
+    "period": "2-2"
+  },
+  {
+    "frequency": 2,
+    "route": "в/в капельно",
+    "dosage": "250.0 мл",
+    "total": "500.0 мл",
+    "name": "Натрия хлорид",
+    "period": "2-2"
+  }
+]

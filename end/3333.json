@@ -1,0 +1,87 @@
+[
+  {
+    "frequency": 1,
+    "route": "внутрь",
+    "dosage": "100.0 мг",
+    "total": "75.0 мг",
+    "name": "Коплавикс",
+    "period": "1-2"
+  },
+  {
+    "frequency": 1,
+    "route": "внутрь",
+    "dosage": "40.0 мг",
+    "total": "40.0 мг",
+    "name": "Липримар",
+    "period": "1-2"
+  },
+  {
+    "frequency": 1,
+    "route": "внутрь",
+    "dosage": "50.0 мг",
+    "total": "50.0 мг",
+    "name": "Лориста",
+    "period": "1-1"
+  },
+  {
+    "route": "п/к",
+    "total": "0.5 мл",
+    "concentration": "5 МГ/мл",
+    "name": "Арикстра",
+    "period": "1-2"
+  },
+  {
+    "frequency": 1,
+    "route": "в/м",
+    "dosage": "0 мл",
+    "total": "2.0 мл",
+    "name": "Sol. Tramadoli l",
+    "period": "1-1"
+  },
+  {
+    "route": "в/в",
+    "total": "2.0 мл",
+    "concentration": "50 МГ/мл",
+    "name": "Кетонал",
+    "period": "1-1"
+  },
+  {
+    "route": "в/в",
+    "total": "2.0 мл",
+    "concentration": "2 МГ/мл",
+    "name": "Латран",
+    "period": "1-1"
+  },
+  {
+    "frequency": 0,
+    "route": "в/в",
+    "dosage": "50.0 мл",
+    "total": "1.0 мл",
+    "name": "Калия хлорида",
+    "period": "1-1"
+  },
+  {
+    "frequency": 0,
+    "route": "в/в",
+    "dosage": "50.0 мл",
+    "total": "1.0 мл",
+    "name": "Натрия хлорид",
+    "period": "1-1"
+  },
+  {
+    "frequency": 1,
+    "route": "внутрь",
+    "dosage": "100.0 мг",
+    "total": "100.0 мг",
+    "name": "Лориста",
+    "period": "2-2"
+  },
+  {
+    "frequency": 1,
+    "route": "внутрь",
+    "dosage": "5.0 мг",
+    "total": "5.0 мг",
+    "name": "Амлодипин",
+    "period": "2-2"
+  }
+]

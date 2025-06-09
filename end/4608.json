@@ -1,0 +1,18 @@
+[
+  {
+    "frequency": 1,
+    "route": "нет",
+    "dosage": "400.0 мл",
+    "total": "280.0 мл",
+    "name": "Калия хлорид",
+    "period": "1-1"
+  },
+  {
+    "frequency": 1,
+    "route": "нет",
+    "dosage": "40.0 мг",
+    "total": "40.0 мг",
+    "name": "Аторис",
+    "period": "1-1"
+  }
+]

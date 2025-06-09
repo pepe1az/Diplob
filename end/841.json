@@ -1,0 +1,88 @@
+[
+  {
+    "frequency": 1,
+    "route": "внутрь",
+    "dosage": "300.0 мг",
+    "total": "300.0 мг",
+    "name": "Плавикс",
+    "period": "1-1"
+  },
+  {
+    "frequency": 3,
+    "route": "в/в",
+    "dosage": "10.0 мл",
+    "total": "30.0 мл",
+    "name": "Изокет",
+    "period": "1-1"
+  },
+  {
+    "frequency": 3,
+    "route": "в/в",
+    "dosage": "10.0 мл",
+    "total": "30.0 мл",
+    "name": "Натрия хлорид",
+    "period": "1-1"
+  },
+  {
+    "frequency": 1,
+    "route": "внутрь",
+    "dosage": "5.0 мг",
+    "total": "5.0 мг",
+    "name": "Лизиноприл",
+    "period": "1-2"
+  },
+  {
+    "frequency": 12,
+    "route": "промыв катетера",
+    "dosage": "25.0 мл",
+    "total": "300.0 мл",
+    "name": "Натрия хлорид",
+    "period": "1-1"
+  },
+  {
+    "frequency": 2,
+    "route": "п/к",
+    "dosage": "0.4 мл",
+    "total": "0.8 мл",
+    "name": "Клексан",
+    "period": "1-2"
+  },
+  {
+    "frequency": 1,
+    "route": "внутрь",
+    "dosage": "40.0 мг",
+    "total": "40.0 мг",
+    "name": "Липримар",
+    "period": "1-2"
+  },
+  {
+    "frequency": 8,
+    "route": "промыв катетера",
+    "dosage": "25.0 мл",
+    "total": "200.0 мл",
+    "name": "Натрия хлорид",
+    "period": "2-2"
+  },
+  {
+    "frequency": 1,
+    "route": "внутрь",
+    "dosage": "100.0 мг",
+    "total": "75.0 мг",
+    "name": "Коплавикс",
+    "period": "2-2"
+  },
+  {
+    "route": "в/в",
+    "total": "600.0 мг",
+    "concentration": "50 МГ/мл",
+    "name": "Глюкоза",
+    "period": "2-2"
+  },
+  {
+    "route": "в/в",
+    "total": "600.0 мг",
+    "concentration": "50 МГ/мл",
+    "name": "Кордарон",
+    "period": "2-2"
+  }
+]

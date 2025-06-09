@@ -1,0 +1,62 @@
+{
+    "treatment": {
+        "day_1": {
+            "Аторис": {
+                "frequency": 1,
+                "route": "нет",
+                "dosage": "40.0 мг",
+                "total": "40.0 мг"
+            },
+            "Омез": {
+                "frequency": 1,
+                "route": "нет",
+                "dosage": "20.0 мг",
+                "total": "20.0 мг"
+            },
+            "Бисопролол": {
+                "frequency": 1,
+                "route": "нет",
+                "dosage": "5.0 мг",
+                "total": "5.0 мг"
+            },
+            "Лизиноприл": {
+                "frequency": 1,
+                "route": "нет",
+                "dosage": "10.0 мг",
+                "total": "10.0 мг"
+            },
+            "Брилинта": {
+                "frequency": 1,
+                "route": "нет",
+                "dosage": "90.0 мг",
+                "total": "90.0 мг"
+            }
+        },
+        "day_2": {
+            "Бисопролол": {
+                "frequency": 1,
+                "route": "нет",
+                "dosage": "5.0 мг",
+                "total": "5.0 мг"
+            },
+            "Тромбо АСС": {
+                "frequency": 1,
+                "route": "нет",
+                "dosage": "100.0 мг",
+                "total": "100.0 мг"
+            },
+            "Брилинта": {
+                "frequency": 1,
+                "route": "нет",
+                "dosage": "90.0 мг",
+                "total": "90.0 мг"
+            },
+            "Амлодипин": {
+                "frequency": 1,
+                "route": "нет",
+                "dosage": "5.0 мг",
+                "total": "5.0 мг"
+            }
+        }
+    }
+}

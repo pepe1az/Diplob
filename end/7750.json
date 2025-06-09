@@ -1,0 +1,108 @@
+[
+  {
+    "frequency": 1,
+    "route": "внутрь",
+    "dosage": "100.0 мг",
+    "total": "100.0 мг",
+    "name": "Ацекардол",
+    "period": "1-2"
+  },
+  {
+    "frequency": 1,
+    "route": "внутрь",
+    "dosage": "90.0 мг",
+    "total": "90.0 мг",
+    "name": "Брилинта",
+    "period": "1-1"
+  },
+  {
+    "frequency": 4,
+    "route": "промыв катетера",
+    "dosage": "50.0 мл",
+    "total": "200.0 мл",
+    "name": "Натрия хлорид",
+    "period": "1-2"
+  },
+  {
+    "route": "промыв катетера",
+    "total": "4.0 дозсмеси",
+    "concentration": "5000 ЕД/мл",
+    "name": "Гепарин",
+    "period": "1-2"
+  },
+  {
+    "route": "промыв катетера",
+    "total": "4.0 дозсмеси",
+    "concentration": "5000 ЕД/мл",
+    "name": "Натрия хлорид",
+    "period": "1-2"
+  },
+  {
+    "frequency": 4,
+    "route": "внутрь",
+    "dosage": "10.0 мг",
+    "total": "40.0 мг",
+    "name": "Аторвастатин",
+    "period": "1-2"
+  },
+  {
+    "route": "в/в",
+    "total": "1.0 дозсмеси",
+    "concentration": "40 МГ/мл",
+    "name": "Натрия хлорид",
+    "period": "1-1"
+  },
+  {
+    "route": "в/в",
+    "total": "1.0 дозсмеси",
+    "concentration": "40 МГ/мл",
+    "name": "Допамин",
+    "period": "1-1"
+  },
+  {
+    "frequency": 4,
+    "route": "в/в",
+    "dosage": "2.0 мл",
+    "total": "8.0 мл",
+    "name": "Фуросемид",
+    "period": "1-1"
+  },
+  {
+    "frequency": 2,
+    "route": "внутрь",
+    "dosage": "90.0 мг",
+    "total": "180.0 мг",
+    "name": "Брилинта",
+    "period": "2-2"
+  },
+  {
+    "route": "в/в",
+    "total": "3.0 дозсмеси",
+    "concentration": "40 МГ/мл",
+    "name": "Натрия хлорид",
+    "period": "2-2"
+  },
+  {
+    "route": "в/в",
+    "total": "3.0 дозсмеси",
+    "concentration": "40 МГ/мл",
+    "name": "Допамин",
+    "period": "2-2"
+  },
+  {
+    "frequency": 8,
+    "route": "в/в",
+    "dosage": "2.0 мл",
+    "total": "16.0 мл",
+    "name": "Фуросемид",
+    "period": "2-2"
+  },
+  {
+    "frequency": 1,
+    "route": "внутрь",
+    "dosage": "25.0 мг",
+    "total": "25.0 мг",
+    "name": "Эспиро",
+    "period": "2-2"
+  }
+]

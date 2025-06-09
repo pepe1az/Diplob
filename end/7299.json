@@ -1,0 +1,48 @@
+[
+  {
+    "route": "не указан",
+    "total": "6.0 мл",
+    "concentration": "2 МГ/мл",
+    "name": "Интегрилин",
+    "period": "1-1"
+  },
+  {
+    "frequency": 1,
+    "route": "нет",
+    "dosage": "300.0 мг",
+    "total": "300.0 мг",
+    "name": "Плавикс",
+    "period": "1-1"
+  },
+  {
+    "frequency": 1,
+    "route": "нет",
+    "dosage": "40.0 мг",
+    "total": "40.0 мг",
+    "name": "Аторвастатин",
+    "period": "1-1"
+  },
+  {
+    "route": "не указан",
+    "total": "25.0 мл",
+    "concentration": "2 МГ/мл",
+    "name": "Норадреналин Агетан",
+    "period": "1-2"
+  },
+  {
+    "frequency": 1,
+    "route": "нет",
+    "dosage": "100.0 мг",
+    "total": "100.0 мг",
+    "name": "Тромбо АСС",
+    "period": "1-1"
+  },
+  {
+    "frequency": 1,
+    "route": "нет",
+    "dosage": "200.0 мл",
+    "total": "200.0 мл",
+    "name": "Натрия гидрокарбонат",
+    "period": "1-2"
+  }
+]

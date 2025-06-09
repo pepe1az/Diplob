@@ -1,0 +1,33 @@
+[
+  {
+    "frequency": 1,
+    "route": "внутрь",
+    "dosage": "5.0 мг",
+    "total": "5.0 мг",
+    "name": "Амлодипин",
+    "period": "1-1"
+  },
+  {
+    "frequency": 1,
+    "route": "внутрь",
+    "dosage": "40.0 мг",
+    "total": "40.0 мг",
+    "name": "Липримар",
+    "period": "1-1"
+  },
+  {
+    "route": "п/к",
+    "total": "0.4 мл",
+    "concentration": "9500 МЕ/мл",
+    "name": "Фраксипарин",
+    "period": "1-1"
+  },
+  {
+    "frequency": 1,
+    "route": "п/к",
+    "dosage": "0 мл",
+    "total": "2.0 мл",
+    "name": "Sol. Tramadoli l",
+    "period": "1-1"
+  }
+]

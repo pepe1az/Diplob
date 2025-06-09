@@ -1,0 +1,40 @@
+[
+  {
+    "frequency": 1,
+    "route": "в/м",
+    "dosage": "0 мл",
+    "total": "2.0 мл",
+    "name": "Sol. Tramadoli l",
+    "period": "1-1"
+  },
+  {
+    "route": "в/м",
+    "total": "4.0 мл",
+    "concentration": "50 МГ/мл",
+    "name": "Кетонал",
+    "period": "1-1"
+  },
+  {
+    "route": "в/м",
+    "total": "5.0 мл",
+    "concentration": "5 МГ/мл",
+    "name": "Дроперидол",
+    "period": "1-1"
+  },
+  {
+    "frequency": 1,
+    "route": "в/в",
+    "dosage": "0 мл",
+    "total": "0 мл",
+    "name": "Цефазолин с растворителем",
+    "period": "1-1"
+  },
+  {
+    "frequency": 1,
+    "route": "в/м",
+    "dosage": "1.0 мл",
+    "total": "1.0 мл",
+    "name": "Элзепам",
+    "period": "1-1"
+  }
+]

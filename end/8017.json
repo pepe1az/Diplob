@@ -1,0 +1,129 @@
+[
+  {
+    "frequency": 2,
+    "route": "п/к",
+    "dosage": "0.8 мл",
+    "total": "1.6 мл",
+    "name": "Клексан",
+    "period": "1-4"
+  },
+  {
+    "frequency": 1,
+    "route": "внутрь",
+    "dosage": "5.0 мг",
+    "total": "5.0 мг",
+    "name": "Лизиноприл Органика",
+    "period": "1-4"
+  },
+  {
+    "frequency": 1,
+    "route": "внутрь",
+    "dosage": "100.0 мг",
+    "total": "75.0 мг",
+    "name": "Коплавикс",
+    "period": "1-4"
+  },
+  {
+    "frequency": 3,
+    "route": "в/в",
+    "dosage": "10.0 мл",
+    "total": "30.0 мл",
+    "name": "Натрия хлорид",
+    "period": "1-3"
+  },
+  {
+    "frequency": 3,
+    "route": "в/в",
+    "dosage": "10.0 мл",
+    "total": "30.0 мл",
+    "name": "Изакардин",
+    "period": "1-3"
+  },
+  {
+    "frequency": 2,
+    "route": "промыв катетера",
+    "dosage": "25.0 мл",
+    "total": "50.0 мл",
+    "name": "Натрия хлорид",
+    "period": "1-4"
+  },
+  {
+    "frequency": 1,
+    "route": "внутрь",
+    "dosage": "10.0 мг",
+    "total": "10.0 мг",
+    "name": "Крестор",
+    "period": "1-4"
+  },
+  {
+    "frequency": 1,
+    "route": "в/в",
+    "dosage": "2.0 мл",
+    "total": "2.0 мл",
+    "name": "Фуросемид",
+    "period": "1-1"
+  },
+  {
+    "frequency": 2,
+    "route": "внутрь",
+    "dosage": "20.0 мг",
+    "total": "40.0 мг",
+    "name": "Омепразол",
+    "period": "2-4"
+  },
+  {
+    "frequency": 1,
+    "route": "внутрь",
+    "dosage": "10.0 мг",
+    "total": "10.0 мг",
+    "name": "Тригрим",
+    "period": "2-4"
+  },
+  {
+    "frequency": 1,
+    "route": "внутрь",
+    "dosage": "5.0 мг",
+    "total": "5.0 мг",
+    "name": "Бисопролол - Прана",
+    "period": "2-4"
+  },
+  {
+    "route": "в/в",
+    "total": "2.0 мл",
+    "concentration": "50 МГ/мл",
+    "name": "Кетонал",
+    "period": "2-2"
+  },
+  {
+    "frequency": 2,
+    "route": "в/в",
+    "dosage": "30.0 мл",
+    "total": "60.0 мл",
+    "name": "Калия хлорид",
+    "period": "2-2"
+  },
+  {
+    "frequency": 2,
+    "route": "в/в",
+    "dosage": "30.0 мл",
+    "total": "60.0 мл",
+    "name": "Натрия хлорид",
+    "period": "2-2"
+  },
+  {
+    "frequency": 1,
+    "route": "в/в",
+    "dosage": "30.0 мл",
+    "total": "30.0 мл",
+    "name": "Калия хлорид",
+    "period": "3-3"
+  },
+  {
+    "frequency": 1,
+    "route": "в/в",
+    "dosage": "30.0 мл",
+    "total": "30.0 мл",
+    "name": "Натрия хлорид",
+    "period": "3-3"
+  }
+]

@@ -1,0 +1,30 @@
+{
+    "treatment": {
+        "day_1": {
+            "Омепразол": {
+                "frequency": 1,
+                "route": "внутрь",
+                "dosage": "20.0 мг",
+                "total": "20.0 мг"
+            },
+            "Аторвастатин": {
+                "frequency": 8,
+                "route": "внутрь",
+                "dosage": "10.0 мг",
+                "total": "80.0 мг"
+            },
+            "Эноксапарин натрия нти-Ха": {
+                "frequency": 0,
+                "route": "п/к",
+                "dosage": "8.0 мл",
+                "total": "0.8 мл"
+            },
+            "Sol. Tramadoli l": {
+                "frequency": 1,
+                "route": "п/к",
+                "dosage": "0 мл",
+                "total": "2.0 мл"
+            }
+        }
+    }
+}

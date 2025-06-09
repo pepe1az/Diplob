@@ -1,0 +1,315 @@
+[
+  {
+    "frequency": 1,
+    "route": "внутрь",
+    "dosage": "100.0 мг",
+    "total": "75.0 мг",
+    "name": "Коплавикс",
+    "period": "1-14"
+  },
+  {
+    "frequency": 1,
+    "route": "внутрь",
+    "dosage": "25.0 мг",
+    "total": "25.0 мг",
+    "name": "Эгилок С",
+    "period": "1-3"
+  },
+  {
+    "frequency": 3,
+    "route": "в/в",
+    "dosage": "10.0 мл",
+    "total": "30.0 мл",
+    "name": "Изокет",
+    "period": "1-1"
+  },
+  {
+    "frequency": 3,
+    "route": "в/в",
+    "dosage": "10.0 мл",
+    "total": "30.0 мл",
+    "name": "Натрия хлорид",
+    "period": "1-1"
+  },
+  {
+    "frequency": 1,
+    "route": "внутрь",
+    "dosage": "5.0 мг",
+    "total": "5.0 мг",
+    "name": "Лизиноприл",
+    "period": "1-2"
+  },
+  {
+    "frequency": 8,
+    "route": "промыв катетера",
+    "dosage": "25.0 мл",
+    "total": "200.0 мл",
+    "name": "Натрия хлорид",
+    "period": "1-13"
+  },
+  {
+    "frequency": 2,
+    "route": "п/к",
+    "dosage": "0.8 мл",
+    "total": "1.6 мл",
+    "name": "Клексан",
+    "period": "1-1"
+  },
+  {
+    "frequency": 1,
+    "route": "внутрь",
+    "dosage": "40.0 мг",
+    "total": "40.0 мг",
+    "name": "Липримар",
+    "period": "1-4"
+  },
+  {
+    "frequency": 2,
+    "route": "внутрь",
+    "dosage": "20.0 мг",
+    "total": "40.0 мг",
+    "name": "Омепразол",
+    "period": "1-2"
+  },
+  {
+    "frequency": 2,
+    "route": "внутрь",
+    "dosage": "20.0 мг",
+    "total": "40.0 мг",
+    "name": "Омепразол",
+    "period": "4-13"
+  },
+  {
+    "frequency": 1,
+    "route": "в/в капельно",
+    "dosage": "500.0 мл",
+    "total": "500.0 мл",
+    "name": "Калия и магния аспарагинат",
+    "period": "2-2"
+  },
+  {
+    "frequency": 1,
+    "route": "в/в капельно",
+    "dosage": "500.0 мл",
+    "total": "500.0 мл",
+    "name": "Калия и магния аспарагинат",
+    "period": "8-8"
+  },
+  {
+    "frequency": 2,
+    "route": "в/в капельно",
+    "dosage": "80.0 мг",
+    "total": "160.0 мг",
+    "name": "Ультоп",
+    "period": "2-2"
+  },
+  {
+    "frequency": 2,
+    "route": "в/в капельно",
+    "dosage": "80.0 мг",
+    "total": "160.0 мг",
+    "name": "Натрия хлорид",
+    "period": "2-2"
+  },
+  {
+    "frequency": 4,
+    "route": "внутрь",
+    "dosage": "20.0 мг",
+    "total": "80.0 мг",
+    "name": "Омепразол",
+    "period": "3-3"
+  },
+  {
+    "frequency": 1,
+    "route": "внутрь",
+    "dosage": "500.0 мл",
+    "total": "500.0 мл",
+    "name": "Нутрикомп Энергия Файбер ликвид с нейтральным вкусом",
+    "period": "4-4"
+  },
+  {
+    "frequency": 1,
+    "route": "в/в капельно",
+    "dosage": "250.0 мл",
+    "total": "250.0 мл",
+    "name": "Калия и магния аспарагинат",
+    "period": "4-4"
+  },
+  {
+    "frequency": 1,
+    "route": "внутрь",
+    "dosage": "500.0 мл",
+    "total": "450.0 мл",
+    "name": "Нутрикомп Гепа ликвид с шоколадным вкусом",
+    "period": "5-5"
+  },
+  {
+    "frequency": 1,
+    "route": "в/в капельно",
+    "dosage": "1000.0 мл",
+    "total": "1000.0 мл",
+    "name": "Стерофундин",
+    "period": "5-5"
+  },
+  {
+    "frequency": 1,
+    "route": "в/в",
+    "dosage": "250.0 мг",
+    "total": "250.0 мг",
+    "name": "Добутамин",
+    "period": "5-6"
+  },
+  {
+    "frequency": 1,
+    "route": "в/в",
+    "dosage": "250.0 мг",
+    "total": "250.0 мг",
+    "name": "Натрия хлорид",
+    "period": "5-6"
+  },
+  {
+    "frequency": 1,
+    "route": "внутрь",
+    "dosage": "500.0 мл",
+    "total": "500.0 мл",
+    "name": "Нутрикомп Гепа ликвид с шоколадным вкусом",
+    "period": "6-6"
+  },
+  {
+    "frequency": 1,
+    "route": "внутрь",
+    "dosage": "2.5 мг",
+    "total": "2.5 мг",
+    "name": "Бипрол",
+    "period": "7-7"
+  },
+  {
+    "frequency": 1,
+    "route": "внутрь",
+    "dosage": "5.0 мг",
+    "total": "5.0 мг",
+    "name": "Бипрол",
+    "period": "8-13"
+  },
+  {
+    "frequency": 1,
+    "route": "в/в капельно",
+    "dosage": "50.0 мл",
+    "total": "50.0 мл",
+    "name": "Глюкоза",
+    "period": "8-13"
+  },
+  {
+    "frequency": 1,
+    "route": "в/в капельно",
+    "dosage": "50.0 мл",
+    "total": "50.0 мл",
+    "name": "Гептрал",
+    "period": "8-13"
+  },
+  {
+    "frequency": 1,
+    "route": "в/в",
+    "dosage": "0 мл",
+    "total": "0 мл",
+    "name": "Сульцеф",
+    "period": "11-13"
+  },
+  {
+    "frequency": 6,
+    "route": "промыв катетера",
+    "dosage": "25.0 мл",
+    "total": "150.0 мл",
+    "name": "Натрия хлорид",
+    "period": "14-14"
+  },
+  {
+    "frequency": 3,
+    "route": "в/в",
+    "dosage": "5.0 мл",
+    "total": "15.0 мл",
+    "name": "Адреналин",
+    "period": "14-14"
+  },
+  {
+    "frequency": 3,
+    "route": "в/в",
+    "dosage": "5.0 мл",
+    "total": "15.0 мл",
+    "name": "Натрия хлорид",
+    "period": "14-14"
+  },
+  {
+    "frequency": 2,
+    "route": "в/в",
+    "dosage": "15.0 мл",
+    "total": "30.0 мл",
+    "name": "Адреналин",
+    "period": "14-14"
+  },
+  {
+    "route": "в/в",
+    "total": "300.0 мг",
+    "concentration": "50 МГ/мл",
+    "name": "Кордарон",
+    "period": "14-14"
+  },
+  {
+    "frequency": 5,
+    "route": "в/в",
+    "dosage": "200.0 мл",
+    "total": "1000.0 мл",
+    "name": "Натрия гидрокарбонат",
+    "period": "14-14"
+  },
+  {
+    "route": "в/в",
+    "total": "50.0 мл",
+    "concentration": "100 ЕД/мл",
+    "name": "НовоРапид Пенфилл Е",
+    "period": "14-14"
+  },
+  {
+    "route": "в/в",
+    "total": "50.0 мл",
+    "concentration": "100 ЕД/мл",
+    "name": "Натрия хлорид",
+    "period": "14-14"
+  },
+  {
+    "route": "в/в",
+    "total": "50.0 мл",
+    "concentration": "50 МГ/мл",
+    "name": "Кордарон",
+    "period": "14-14"
+  },
+  {
+    "route": "в/в",
+    "total": "50.0 мл",
+    "concentration": "50 МГ/мл",
+    "name": "Глюкоза",
+    "period": "14-14"
+  },
+  {
+    "route": "в/в",
+    "total": "50.0 мл",
+    "concentration": "2 МГ/мл",
+    "name": "Норадреналин Агетан",
+    "period": "14-14"
+  },
+  {
+    "route": "в/в",
+    "total": "50.0 мл",
+    "concentration": "2 МГ/мл",
+    "name": "Натрия хлорид",
+    "period": "14-14"
+  },
+  {
+    "frequency": 4,
+    "route": "в/в капельно",
+    "dosage": "1000.0 мл",
+    "total": "4000.0 мл",
+    "name": "Рингера-ацетат",
+    "period": "14-14"
+  }
+]

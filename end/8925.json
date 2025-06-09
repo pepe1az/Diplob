@@ -1,0 +1,262 @@
+[
+  {
+    "frequency": 2,
+    "route": "внутрь",
+    "dosage": "300.0 мг",
+    "total": "600.0 мг",
+    "name": "Плавикс",
+    "period": "1-1"
+  },
+  {
+    "frequency": 1,
+    "route": "внутрь",
+    "dosage": "40.0 мг",
+    "total": "40.0 мг",
+    "name": "Липримар",
+    "period": "1-2"
+  },
+  {
+    "frequency": 2,
+    "route": "промыв катетера",
+    "dosage": "25.0 мл",
+    "total": "50.0 мл",
+    "name": "Натрия хлорид",
+    "period": "1-8"
+  },
+  {
+    "frequency": 3,
+    "route": "в/в",
+    "dosage": "10.0 мл",
+    "total": "30.0 мл",
+    "name": "Изокет",
+    "period": "1-2"
+  },
+  {
+    "frequency": 3,
+    "route": "в/в",
+    "dosage": "10.0 мл",
+    "total": "30.0 мл",
+    "name": "Натрия хлорид",
+    "period": "1-2"
+  },
+  {
+    "frequency": 3,
+    "route": "в/в",
+    "dosage": "5.0 мл",
+    "total": "15.0 мл",
+    "name": "Допамин",
+    "period": "1-1"
+  },
+  {
+    "frequency": 3,
+    "route": "в/в",
+    "dosage": "5.0 мл",
+    "total": "15.0 мл",
+    "name": "Натрия хлорид",
+    "period": "1-1"
+  },
+  {
+    "frequency": 1,
+    "route": "п/к",
+    "dosage": "0.8 мл",
+    "total": "0.8 мл",
+    "name": "Клексан",
+    "period": "1-1"
+  },
+  {
+    "route": "в/в",
+    "total": "600.0 мг",
+    "concentration": "50 МГ/мл",
+    "name": "Кордарон",
+    "period": "1-1"
+  },
+  {
+    "route": "в/в",
+    "total": "38.0 мл",
+    "concentration": "50 МГ/мл",
+    "name": "Кордарон",
+    "period": "1-6"
+  },
+  {
+    "route": "в/в",
+    "total": "38.0 мл",
+    "concentration": "50 МГ/мл",
+    "name": "Глюкоза",
+    "period": "1-6"
+  },
+  {
+    "frequency": 5,
+    "route": "в/в",
+    "dosage": "30.0 мл",
+    "total": "150.0 мл",
+    "name": "Калия хлорида",
+    "period": "1-1"
+  },
+  {
+    "frequency": 5,
+    "route": "в/в",
+    "dosage": "30.0 мл",
+    "total": "150.0 мл",
+    "name": "Натрия хлорид",
+    "period": "1-1"
+  },
+  {
+    "route": "не указан",
+    "total": "4.0 мл",
+    "concentration": "2 МГ/мл",
+    "name": "Латран",
+    "period": "1-1"
+  },
+  {
+    "frequency": 1,
+    "route": "в/в",
+    "dosage": "2.0 мл",
+    "total": "2.0 мл",
+    "name": "Фуросемид",
+    "period": "1-1"
+  },
+  {
+    "frequency": 2,
+    "route": "п/к",
+    "dosage": "0.8 мл",
+    "total": "1.6 мл",
+    "name": "Клексан",
+    "period": "2-8"
+  },
+  {
+    "frequency": 3,
+    "route": "в/в",
+    "dosage": "30.0 мл",
+    "total": "90.0 мл",
+    "name": "Калия хлорида",
+    "period": "2-3"
+  },
+  {
+    "frequency": 3,
+    "route": "в/в",
+    "dosage": "30.0 мл",
+    "total": "90.0 мл",
+    "name": "Натрия хлорид",
+    "period": "2-3"
+  },
+  {
+    "frequency": 3,
+    "route": "в/в",
+    "dosage": "2.0 мл",
+    "total": "6.0 мл",
+    "name": "Фуросемид",
+    "period": "2-2"
+  },
+  {
+    "frequency": 1,
+    "route": "внутрь",
+    "dosage": "100.0 мг",
+    "total": "75.0 мг",
+    "name": "Коплавикс",
+    "period": "2-8"
+  },
+  {
+    "frequency": 1,
+    "route": "внутрь",
+    "dosage": "10.0 мг",
+    "total": "10.0 мг",
+    "name": "Тригрим",
+    "period": "3-6"
+  },
+  {
+    "frequency": 2,
+    "route": "внутрь",
+    "dosage": "25.0 мг",
+    "total": "50.0 мг",
+    "name": "Инспра",
+    "period": "3-8"
+  },
+  {
+    "frequency": 2,
+    "route": "в/в",
+    "dosage": "50.0 мл",
+    "total": "100.0 мл",
+    "name": "Калия хлорида",
+    "period": "3-3"
+  },
+  {
+    "frequency": 3,
+    "route": "в/в",
+    "dosage": "40.0 мл",
+    "total": "120.0 мл",
+    "name": "Калия хлорида",
+    "period": "4-4"
+  },
+  {
+    "frequency": 3,
+    "route": "в/в",
+    "dosage": "40.0 мл",
+    "total": "120.0 мл",
+    "name": "Магния сульфат",
+    "period": "4-4"
+  },
+  {
+    "frequency": 1,
+    "route": "внутрь",
+    "dosage": "5.0 мг",
+    "total": "5.0 мг",
+    "name": "Бисопролол - Прана",
+    "period": "4-6"
+  },
+  {
+    "frequency": 3,
+    "route": "в/в",
+    "dosage": "50.0 мл",
+    "total": "150.0 мл",
+    "name": "Калия хлорида",
+    "period": "6-6"
+  },
+  {
+    "frequency": 1,
+    "route": "внутрь",
+    "dosage": "5.0 мг",
+    "total": "5.0 мг",
+    "name": "Лизиноприл",
+    "period": "6-8"
+  },
+  {
+    "frequency": 2,
+    "route": "в/в",
+    "dosage": "2.0 мл",
+    "total": "4.0 мл",
+    "name": "Фуросемид",
+    "period": "6-8"
+  },
+  {
+    "frequency": 3,
+    "route": "внутрь",
+    "dosage": "200.0 мг",
+    "total": "600.0 мг",
+    "name": "Кордарон",
+    "period": "7-8"
+  },
+  {
+    "frequency": 2,
+    "route": "внутрь",
+    "dosage": "500.0 мг",
+    "total": "1000.0 мг",
+    "name": "Лефлобакт",
+    "period": "7-8"
+  },
+  {
+    "frequency": 2,
+    "route": "в/в",
+    "dosage": "30.0 мл",
+    "total": "60.0 мл",
+    "name": "Калия хлорида",
+    "period": "7-8"
+  },
+  {
+    "frequency": 2,
+    "route": "в/в",
+    "dosage": "30.0 мл",
+    "total": "60.0 мл",
+    "name": "Магния сульфат",
+    "period": "7-8"
+  }
+]

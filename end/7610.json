@@ -1,0 +1,167 @@
+[
+  {
+    "frequency": 1,
+    "route": "внутрь",
+    "dosage": "100.0 мг",
+    "total": "100.0 мг",
+    "name": "Ацекардол",
+    "period": "1-7"
+  },
+  {
+    "frequency": 1,
+    "route": "внутрь",
+    "dosage": "10.0 мг",
+    "total": "10.0 мг",
+    "name": "Лизиноприл",
+    "period": "1-1"
+  },
+  {
+    "frequency": 1,
+    "route": "внутрь",
+    "dosage": "10.0 мг",
+    "total": "10.0 мг",
+    "name": "Лизиноприл",
+    "period": "3-4"
+  },
+  {
+    "frequency": 3,
+    "route": "внутрь",
+    "dosage": "90.0 мг",
+    "total": "270.0 мг",
+    "name": "Брилинта",
+    "period": "1-1"
+  },
+  {
+    "frequency": 0,
+    "route": "в/в капельно",
+    "dosage": "20.0 мл",
+    "total": "3.0 мл",
+    "name": "Изокет",
+    "period": "1-1"
+  },
+  {
+    "frequency": 0,
+    "route": "в/в капельно",
+    "dosage": "20.0 мл",
+    "total": "3.0 мл",
+    "name": "Натрия хлорид",
+    "period": "1-1"
+  },
+  {
+    "frequency": 4,
+    "route": "промыв катетера",
+    "dosage": "50.0 мл",
+    "total": "200.0 мл",
+    "name": "Натрия хлорид",
+    "period": "1-1"
+  },
+  {
+    "frequency": 1,
+    "route": "внутрь",
+    "dosage": "40.0 мг",
+    "total": "40.0 мг",
+    "name": "Аторвастатин",
+    "period": "1-7"
+  },
+  {
+    "frequency": 0,
+    "route": "п/к",
+    "dosage": "6.0 мл",
+    "total": "1.2 мл",
+    "name": "Эноксапарин натрия нти-Ха",
+    "period": "1-7"
+  },
+  {
+    "frequency": 1,
+    "route": "в/в",
+    "dosage": "2.0 мл",
+    "total": "2.0 мл",
+    "name": "Фуросемид",
+    "period": "1-1"
+  },
+  {
+    "frequency": 2,
+    "route": "внутрь",
+    "dosage": "90.0 мг",
+    "total": "180.0 мг",
+    "name": "Брилинта",
+    "period": "2-4"
+  },
+  {
+    "frequency": 2,
+    "route": "внутрь",
+    "dosage": "10.0 мг",
+    "total": "20.0 мг",
+    "name": "Торасемид",
+    "period": "2-2"
+  },
+  {
+    "frequency": 1,
+    "route": "внутрь",
+    "dosage": "25.0 мг",
+    "total": "25.0 мг",
+    "name": "Инспра",
+    "period": "2-4"
+  },
+  {
+    "frequency": 12,
+    "route": "внутрь",
+    "dosage": "4.0 мг",
+    "total": "50.0 мг",
+    "name": "Юперио",
+    "period": "2-2"
+  },
+  {
+    "frequency": 1,
+    "route": "внутрь",
+    "dosage": "10.0 мг",
+    "total": "10.0 мг",
+    "name": "Торасемид",
+    "period": "3-4"
+  },
+  {
+    "frequency": 25,
+    "route": "внутрь",
+    "dosage": "4.0 мг",
+    "total": "100.0 мг",
+    "name": "Юперио",
+    "period": "3-4"
+  },
+  {
+    "route": "в/в капельно",
+    "total": "250.0 мл",
+    "concentration": "6 МГ/мл",
+    "name": "Моксифлоксацин",
+    "period": "3-7"
+  },
+  {
+    "frequency": 1,
+    "route": "ингаляционно",
+    "dosage": "0 мл",
+    "total": "0 мл",
+    "name": "Сальбутамол оз",
+    "period": "3-6"
+  },
+  {
+    "frequency": 1,
+    "route": "ингаляционно",
+    "dosage": "0 мл",
+    "total": "0 мл",
+    "name": "Серетид оз",
+    "period": "3-7"
+  },
+  {
+    "route": "в/в",
+    "total": "2.0 дозсмеси",
+    "concentration": "2 МГ/мл",
+    "name": "Норадреналин Агетан",
+    "period": "4-7"
+  },
+  {
+    "route": "в/в",
+    "total": "2.0 дозсмеси",
+    "concentration": "2 МГ/мл",
+    "name": "Натрия хлорид",
+    "period": "4-7"
+  }
+]

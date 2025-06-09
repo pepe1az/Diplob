@@ -1,0 +1,57 @@
+[
+  {
+    "frequency": 2,
+    "route": "внутрь",
+    "dosage": "20.0 мг",
+    "total": "40.0 мг",
+    "name": "Симвастатин",
+    "period": "1-1"
+  },
+  {
+    "frequency": 0,
+    "route": "внутрь",
+    "dosage": "5.0 мг",
+    "total": "0.0 мг",
+    "name": "Амприлан",
+    "period": "1-1"
+  },
+  {
+    "frequency": 3,
+    "route": "внутрь",
+    "dosage": "25.0 мг",
+    "total": "75.0 мг",
+    "name": "Каптоприл",
+    "period": "1-1"
+  },
+  {
+    "frequency": 1,
+    "route": "внутрь",
+    "dosage": "0.4 мг",
+    "total": "0.4 мг",
+    "name": "Моксонидин",
+    "period": "1-1"
+  },
+  {
+    "frequency": 2,
+    "route": "внутрь",
+    "dosage": "1.0 мг",
+    "total": "2.0 мг",
+    "name": "Фенорелаксан",
+    "period": "1-1"
+  },
+  {
+    "route": "в/м",
+    "total": "0.0 мл",
+    "concentration": "50 МГ/мл",
+    "name": "Кетонал",
+    "period": "1-1"
+  },
+  {
+    "frequency": 2,
+    "route": "внутрь",
+    "dosage": "5.0 мг",
+    "total": "10.0 мг",
+    "name": "Рамиприл-СЗ",
+    "period": "1-1"
+  }
+]

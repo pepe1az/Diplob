@@ -1,0 +1,110 @@
+{
+    "treatment": {
+        "day_1": {
+            "Sol. Tramadoli l": {
+                "frequency": 1,
+                "route": "в/м",
+                "dosage": "0 мл",
+                "total": "6.0 мл"
+            },
+            "Актрапид НМ": {
+                "route": "п/к",
+                "total": "0.0 ед",
+                "concentration": "100 МЕ/мл"
+            },
+            "Калия хлорида": {
+                "frequency": 8,
+                "route": "в/в капельно",
+                "dosage": "10.0 мл",
+                "total": "80.0 мл"
+            },
+            "Кетонал": {
+                "route": "в/в",
+                "total": "4.0 мл",
+                "concentration": "50 МГ/мл"
+            },
+            "Стерофундин изотонический": {
+                "frequency": 4,
+                "route": "в/в капельно",
+                "dosage": "500.0 мл",
+                "total": "2000.0 мл"
+            },
+            "Сульмаграф": {
+                "frequency": 1,
+                "route": "в/в",
+                "dosage": "0 мл",
+                "total": "0 мл"
+            },
+            "Элзепам": {
+                "frequency": 1,
+                "route": "в/м",
+                "dosage": "1.0 мл",
+                "total": "1.0 мл"
+            },
+            "Фраксипарин": {
+                "route": "п/к",
+                "total": "0.3 мл",
+                "concentration": "9500 МЕ/мл"
+            },
+            "Квамател": {
+                "frequency": 2,
+                "route": "в/в",
+                "dosage": "20.0 мг",
+                "total": "40.0 мг"
+            }
+        },
+        "day_2": {
+            "Sol. Tramadoli l": {
+                "frequency": 1,
+                "route": "в/м",
+                "dosage": "0 мл",
+                "total": "0.0 мл"
+            },
+            "Актрапид НМ": {
+                "route": "п/к",
+                "total": "0.0 ед",
+                "concentration": "100 МЕ/мл"
+            },
+            "Калия хлорида": {
+                "frequency": 10,
+                "route": "в/в капельно",
+                "dosage": "10.0 мл",
+                "total": "100.0 мл"
+            },
+            "Кетонал": {
+                "route": "в/в",
+                "total": "4.0 мл",
+                "concentration": "50 МГ/мл"
+            },
+            "Стерофундин изотонический": {
+                "frequency": 2,
+                "route": "в/в капельно",
+                "dosage": "500.0 мл",
+                "total": "1000.0 мл"
+            },
+            "Сульмаграф": {
+                "frequency": 1,
+                "route": "в/в",
+                "dosage": "0 мл",
+                "total": "0 мл"
+            },
+            "Элзепам": {
+                "frequency": 0,
+                "route": "в/м",
+                "dosage": "1.0 мл",
+                "total": "0.0 мл"
+            },
+            "Фраксипарин": {
+                "route": "п/к",
+                "total": "0.3 мл",
+                "concentration": "9500 МЕ/мл"
+            },
+            "Квамател": {
+                "frequency": 2,
+                "route": "в/в",
+                "dosage": "20.0 мг",
+                "total": "40.0 мг"
+            }
+        }
+    }
+}

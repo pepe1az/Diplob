@@ -1,0 +1,33 @@
+[
+  {
+    "frequency": 2,
+    "route": "нет",
+    "dosage": "90.0 мг",
+    "total": "180.0 мг",
+    "name": "Брилинта",
+    "period": "1-1"
+  },
+  {
+    "frequency": 1,
+    "route": "нет",
+    "dosage": "40.0 мг",
+    "total": "40.0 мг",
+    "name": "Аторвастатин",
+    "period": "1-1"
+  },
+  {
+    "route": "не указан",
+    "total": "20.0 мл",
+    "concentration": "2 МГ/мл",
+    "name": "Норадреналин Агетан",
+    "period": "1-2"
+  },
+  {
+    "frequency": 1,
+    "route": "нет",
+    "dosage": "20.0 мг",
+    "total": "20.0 мг",
+    "name": "Омез",
+    "period": "1-1"
+  }
+]

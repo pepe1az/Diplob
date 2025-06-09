@@ -1,0 +1,73 @@
+[
+  {
+    "frequency": 1,
+    "route": "внутрь",
+    "dosage": "300.0 мг",
+    "total": "300.0 мг",
+    "name": "Плавикс",
+    "period": "1-1"
+  },
+  {
+    "route": "п/к",
+    "total": "0.5 мл",
+    "concentration": "5 МГ/мл",
+    "name": "Арикстра",
+    "period": "1-1"
+  },
+  {
+    "frequency": 1,
+    "route": "внутрь",
+    "dosage": "10.0 мг",
+    "total": "10.0 мг",
+    "name": "Лизиноприл",
+    "period": "1-1"
+  },
+  {
+    "frequency": 0,
+    "route": "в/в капельно",
+    "dosage": "10.0 мл",
+    "total": "2.0 мл",
+    "name": "Изокет",
+    "period": "1-1"
+  },
+  {
+    "frequency": 0,
+    "route": "в/в капельно",
+    "dosage": "10.0 мл",
+    "total": "2.0 мл",
+    "name": "Натрия хлорид",
+    "period": "1-1"
+  },
+  {
+    "frequency": 1,
+    "route": "внутрь",
+    "dosage": "40.0 мг",
+    "total": "40.0 мг",
+    "name": "Аторис",
+    "period": "1-1"
+  },
+  {
+    "frequency": 8,
+    "route": "промыв катетера",
+    "dosage": "0.5 мл",
+    "total": "4.0 мл",
+    "name": "Гепарин-натрий Браун .",
+    "period": "1-1"
+  },
+  {
+    "frequency": 8,
+    "route": "промыв катетера",
+    "dosage": "0.5 мл",
+    "total": "4.0 мл",
+    "name": "Натрия хлорид",
+    "period": "1-1"
+  },
+  {
+    "frequency": 4,
+    "route": "промыв катетера",
+    "dosage": "50.0 мл",
+    "total": "200.0 мл",
+    "name": "Натрия хлорид",
+    "period": "1-1"
+  }
+]

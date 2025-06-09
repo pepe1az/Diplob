@@ -1,0 +1,130 @@
+[
+  {
+    "frequency": 1,
+    "route": "внутрь",
+    "dosage": "20.0 мг",
+    "total": "20.0 мг",
+    "name": "Омепразол",
+    "period": "1-3"
+  },
+  {
+    "frequency": 1,
+    "route": "п/к",
+    "dosage": "0.8 мл",
+    "total": "0.8 мл",
+    "name": "Клексан",
+    "period": "1-1"
+  },
+  {
+    "frequency": 1,
+    "route": "внутрь",
+    "dosage": "100.0 мг",
+    "total": "100.0 мг",
+    "name": "Ацекардол",
+    "period": "1-3"
+  },
+  {
+    "frequency": 1,
+    "route": "внутрь",
+    "dosage": "20.0 мг",
+    "total": "20.0 мг",
+    "name": "Лизиноприл",
+    "period": "1-1"
+  },
+  {
+    "frequency": 0,
+    "route": "внутрь",
+    "dosage": "40.0 мг",
+    "total": "0.0 мг",
+    "name": "Аторвастатин",
+    "period": "1-2"
+  },
+  {
+    "frequency": 2,
+    "route": "внутрь",
+    "dosage": "90.0 мг",
+    "total": "180.0 мг",
+    "name": "Брилинта",
+    "period": "1-3"
+  },
+  {
+    "frequency": 0,
+    "route": "в/в капельно",
+    "dosage": "20.0 мл",
+    "total": "3.0 мл",
+    "name": "Изокет",
+    "period": "1-1"
+  },
+  {
+    "frequency": 0,
+    "route": "в/в капельно",
+    "dosage": "20.0 мл",
+    "total": "3.0 мл",
+    "name": "Натрия хлорид",
+    "period": "1-1"
+  },
+  {
+    "frequency": 1,
+    "route": "в/в",
+    "dosage": "2.0 мл",
+    "total": "2.0 мл",
+    "name": "Фуросемид",
+    "period": "1-1"
+  },
+  {
+    "frequency": 2,
+    "route": "п/к",
+    "dosage": "0.8 мл",
+    "total": "1.6 мл",
+    "name": "Клексан",
+    "period": "2-3"
+  },
+  {
+    "frequency": 2,
+    "route": "внутрь",
+    "dosage": "10.0 мг",
+    "total": "20.0 мг",
+    "name": "Торасемид-СЗ",
+    "period": "2-3"
+  },
+  {
+    "frequency": 0,
+    "route": "в/в капельно",
+    "dosage": "50.0 мл",
+    "total": "5.0 мл",
+    "name": "Глюкоза",
+    "period": "2-2"
+  },
+  {
+    "frequency": 0,
+    "route": "в/в капельно",
+    "dosage": "50.0 мл",
+    "total": "5.0 мл",
+    "name": "Калия хлорид",
+    "period": "2-2"
+  },
+  {
+    "frequency": 1,
+    "route": "внутрь",
+    "dosage": "40.0 мг",
+    "total": "40.0 мг",
+    "name": "Аторвастатин",
+    "period": "3-3"
+  },
+  {
+    "frequency": 0,
+    "route": "в/в капельно",
+    "dosage": "20.0 мл",
+    "total": "5.0 мл",
+    "name": "Глюкоза",
+    "period": "3-3"
+  },
+  {
+    "frequency": 0,
+    "route": "в/в капельно",
+    "dosage": "20.0 мл",
+    "total": "5.0 мл",
+    "name": "Калия хлорид",
+    "period": "3-3"
+  }
+]

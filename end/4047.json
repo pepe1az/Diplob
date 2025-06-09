@@ -1,0 +1,41 @@
+[
+  {
+    "frequency": 1,
+    "route": "нет",
+    "dosage": "90.0 мг",
+    "total": "90.0 мг",
+    "name": "Брилинта",
+    "period": "1-2"
+  },
+  {
+    "frequency": 24,
+    "route": "нет",
+    "dosage": "0.5 мг",
+    "total": "12.0 мг",
+    "name": "Дексаметазон",
+    "period": "1-1"
+  },
+  {
+    "frequency": 1,
+    "route": "нет",
+    "dosage": "100.0 мг",
+    "total": "100.0 мг",
+    "name": "Тромбо АСС",
+    "period": "1-1"
+  },
+  {
+    "frequency": 1,
+    "route": "нет",
+    "dosage": "40.0 мг",
+    "total": "40.0 мг",
+    "name": "Аторвастатин",
+    "period": "1-1"
+  },
+  {
+    "route": "не указан",
+    "total": "250.0 мл",
+    "concentration": "40 МГ/мл",
+    "name": "Калия хлорид",
+    "period": "1-1"
+  }
+]

@@ -1,0 +1,143 @@
+[
+  {
+    "frequency": 1,
+    "route": "внутрь",
+    "dosage": "100.0 мг",
+    "total": "75.0 мг",
+    "name": "Коплавикс",
+    "period": "1-2"
+  },
+  {
+    "frequency": 4,
+    "route": "промыв катетера",
+    "dosage": "25.0 мл",
+    "total": "100.0 мл",
+    "name": "Натрия хлорид",
+    "period": "1-2"
+  },
+  {
+    "frequency": 2,
+    "route": "п/к",
+    "dosage": "0.8 мл",
+    "total": "1.6 мл",
+    "name": "Клексан",
+    "period": "1-2"
+  },
+  {
+    "frequency": 1,
+    "route": "в/в",
+    "dosage": "10.0 мл",
+    "total": "10.0 мл",
+    "name": "Натрия хлорид",
+    "period": "1-1"
+  },
+  {
+    "frequency": 1,
+    "route": "в/в",
+    "dosage": "10.0 мл",
+    "total": "10.0 мл",
+    "name": "Изакардин",
+    "period": "1-1"
+  },
+  {
+    "frequency": 2,
+    "route": "внутрь",
+    "dosage": "20.0 мг",
+    "total": "40.0 мг",
+    "name": "Лизинотон",
+    "period": "1-1"
+  },
+  {
+    "frequency": 1,
+    "route": "внутрь",
+    "dosage": "80.0 мг",
+    "total": "80.0 мг",
+    "name": "Торвакард",
+    "period": "1-1"
+  },
+  {
+    "frequency": 1,
+    "route": "внутрь",
+    "dosage": "5.0 мг",
+    "total": "5.0 мг",
+    "name": "Бисопролол - Прана",
+    "period": "1-1"
+  },
+  {
+    "route": "в/в",
+    "total": "10.0 мл",
+    "concentration": "5 МГ/мл",
+    "name": "Эбрантил",
+    "period": "1-1"
+  },
+  {
+    "frequency": 2,
+    "route": "внутрь",
+    "dosage": "25.0 мг",
+    "total": "50.0 мг",
+    "name": "Каптоприл",
+    "period": "1-1"
+  },
+  {
+    "frequency": 2,
+    "route": "внутрь",
+    "dosage": "50.0 мг",
+    "total": "100.0 мг",
+    "name": "Лориста",
+    "period": "1-1"
+  },
+  {
+    "route": "в/в",
+    "total": "40.0 мл",
+    "concentration": "10 МГ/мл",
+    "name": "Бревиблок",
+    "period": "1-1"
+  },
+  {
+    "route": "в/в",
+    "total": "40.0 мл",
+    "concentration": "10 МГ/мл",
+    "name": "Натрия хлорид",
+    "period": "1-1"
+  },
+  {
+    "frequency": 1,
+    "route": "внутрь",
+    "dosage": "40.0 мг",
+    "total": "40.0 мг",
+    "name": "Торвакард",
+    "period": "2-2"
+  },
+  {
+    "frequency": 4,
+    "route": "внутрь",
+    "dosage": "50.0 мг",
+    "total": "200.0 мг",
+    "name": "Лориста",
+    "period": "2-2"
+  },
+  {
+    "frequency": 2,
+    "route": "внутрь",
+    "dosage": "20.0 мг",
+    "total": "40.0 мг",
+    "name": "Амлодипин",
+    "period": "2-2"
+  },
+  {
+    "frequency": 1,
+    "route": "внутрь",
+    "dosage": "2.5 мг",
+    "total": "2.5 мг",
+    "name": "Индапамид",
+    "period": "2-2"
+  },
+  {
+    "frequency": 1,
+    "route": "в/в капельно",
+    "dosage": "500.0 мл",
+    "total": "500.0 мл",
+    "name": "Калия и магния аспарагинат",
+    "period": "2-2"
+  }
+]

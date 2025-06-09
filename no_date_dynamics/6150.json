@@ -1,0 +1,92 @@
+{
+    "treatment": {
+        "day_1": {
+            "Sol. Tramadoli l": {
+                "frequency": 1,
+                "route": "в/м",
+                "dosage": "0 мл",
+                "total": "4.0 мл"
+            },
+            "Йоностерил": {
+                "frequency": 2,
+                "route": "в/в капельно",
+                "dosage": "500.0 мл",
+                "total": "1000.0 мл"
+            },
+            "Калия хлорид": {
+                "frequency": 0,
+                "route": "в/в",
+                "dosage": "200.0 мл",
+                "total": "30.0 мл"
+            },
+            "Омепразол": {
+                "frequency": 2,
+                "route": "внутрь",
+                "dosage": "20.0 мг",
+                "total": "40.0 мг"
+            },
+            "Цефазолин с растворителем": {
+                "frequency": 1,
+                "route": "в/в",
+                "dosage": "0 мл",
+                "total": "0 мл"
+            },
+            "Цибор Е": {
+                "frequency": 1,
+                "route": "п/к",
+                "dosage": "0.2 мл",
+                "total": "0.2 мл"
+            },
+            "Этамзилат": {
+                "frequency": 4,
+                "route": "в/в",
+                "dosage": "2.0 мл",
+                "total": "8.0 мл"
+            }
+        },
+        "day_2": {
+            "Sol. Tramadoli l": {
+                "frequency": 1,
+                "route": "в/м",
+                "dosage": "0 мл",
+                "total": "2.0 мл"
+            },
+            "Йоностерил": {
+                "frequency": 1,
+                "route": "в/в капельно",
+                "dosage": "500.0 мл",
+                "total": "500.0 мл"
+            },
+            "Калия хлорид": {
+                "frequency": 0,
+                "route": "в/в",
+                "dosage": "200.0 мл",
+                "total": "15.0 мл"
+            },
+            "Омепразол": {
+                "frequency": 1,
+                "route": "внутрь",
+                "dosage": "20.0 мг",
+                "total": "20.0 мг"
+            },
+            "Цефазолин с растворителем": {
+                "frequency": 1,
+                "route": "в/в",
+                "dosage": "0 мл",
+                "total": "0 мл"
+            },
+            "Цибор Е": {
+                "frequency": 0,
+                "route": "п/к",
+                "dosage": "0.2 мл",
+                "total": "0.0 мл"
+            },
+            "Этамзилат": {
+                "frequency": 1,
+                "route": "в/в",
+                "dosage": "2.0 мл",
+                "total": "2.0 мл"
+            }
+        }
+    }
+}

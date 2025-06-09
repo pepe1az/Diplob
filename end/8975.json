@@ -1,0 +1,253 @@
+[
+  {
+    "frequency": 1,
+    "route": "внутрь",
+    "dosage": "20.0 мг",
+    "total": "20.0 мг",
+    "name": "Омепразол",
+    "period": "1-2"
+  },
+  {
+    "route": "п/к",
+    "total": "0.6 мл",
+    "concentration": "0 МЕ/мл",
+    "name": "Эниксум",
+    "period": "1-1"
+  },
+  {
+    "frequency": 1,
+    "route": "внутрь",
+    "dosage": "100.0 мг",
+    "total": "100.0 мг",
+    "name": "Ацекардол",
+    "period": "1-10"
+  },
+  {
+    "frequency": 1,
+    "route": "внутрь",
+    "dosage": "300.0 мг",
+    "total": "375.0 мг",
+    "name": "Плавикс",
+    "period": "1-1"
+  },
+  {
+    "frequency": 2,
+    "route": "внутрь",
+    "dosage": "40.0 мг",
+    "total": "80.0 мг",
+    "name": "Аторвастатин",
+    "period": "1-1"
+  },
+  {
+    "frequency": 0,
+    "route": "внутрь",
+    "dosage": "5.0 мг",
+    "total": "0.0 мг",
+    "name": "Бисопролол - Прана",
+    "period": "1-1"
+  },
+  {
+    "route": "п/к",
+    "total": "1.2 мл",
+    "concentration": "0 МЕ/мл",
+    "name": "Эниксум",
+    "period": "2-2"
+  },
+  {
+    "frequency": 1,
+    "route": "внутрь",
+    "dosage": "75.0 мг",
+    "total": "75.0 мг",
+    "name": "Плавикс",
+    "period": "2-10"
+  },
+  {
+    "frequency": 1,
+    "route": "внутрь",
+    "dosage": "40.0 мг",
+    "total": "40.0 мг",
+    "name": "Аторвастатин",
+    "period": "2-3"
+  },
+  {
+    "frequency": 1,
+    "route": "внутрь",
+    "dosage": "5.0 мг",
+    "total": "5.0 мг",
+    "name": "Бисопролол - Прана",
+    "period": "2-2"
+  },
+  {
+    "frequency": 1,
+    "route": "п/к",
+    "dosage": "0 мл",
+    "total": "2.0 мл",
+    "name": "Sol. Tramadoli l",
+    "period": "2-2"
+  },
+  {
+    "frequency": 1,
+    "route": "внутрь",
+    "dosage": "10.0 мг",
+    "total": "10.0 мг",
+    "name": "Лизиноприл",
+    "period": "2-6"
+  },
+  {
+    "frequency": 2,
+    "route": "внутрь",
+    "dosage": "20.0 мг",
+    "total": "40.0 мг",
+    "name": "Омепразол",
+    "period": "3-10"
+  },
+  {
+    "frequency": 1,
+    "route": "в/в",
+    "dosage": "2.0 мл",
+    "total": "2.0 мл",
+    "name": "Фуросемид",
+    "period": "3-3"
+  },
+  {
+    "route": "п/к",
+    "total": "1.6 мл",
+    "concentration": "0 МЕ/мл",
+    "name": "Эниксум",
+    "period": "3-5"
+  },
+  {
+    "route": "в/в",
+    "total": "2.0 дозсмеси",
+    "concentration": "50 МГ/мл",
+    "name": "Глюкоза",
+    "period": "3-3"
+  },
+  {
+    "route": "в/в",
+    "total": "2.0 дозсмеси",
+    "concentration": "50 МГ/мл",
+    "name": "Амиодарон",
+    "period": "3-3"
+  },
+  {
+    "frequency": 1,
+    "route": "внутрь",
+    "dosage": "500.0 мг",
+    "total": "500.0 мг",
+    "name": "Кларитромицин",
+    "period": "3-9"
+  },
+  {
+    "frequency": 1,
+    "route": "парентерально",
+    "dosage": "1000.0 мг",
+    "total": "1000.0 мг",
+    "name": "Цефаксон",
+    "period": "3-9"
+  },
+  {
+    "frequency": 1,
+    "route": "внутрь",
+    "dosage": "40.0 мг",
+    "total": "40.0 мг",
+    "name": "Аторис",
+    "period": "4-10"
+  },
+  {
+    "frequency": 2,
+    "route": "внутрь",
+    "dosage": "10.0 мг",
+    "total": "20.0 мг",
+    "name": "Торасемид-СЗ",
+    "period": "4-6"
+  },
+  {
+    "frequency": 2,
+    "route": "в/в",
+    "dosage": "2.0 мл",
+    "total": "4.0 мл",
+    "name": "Фуросемид",
+    "period": "4-4"
+  },
+  {
+    "frequency": 0,
+    "route": "в/в",
+    "dosage": "30.0 мл",
+    "total": "4.0 мл",
+    "name": "Калия хлорид",
+    "period": "5-6"
+  },
+  {
+    "frequency": 0,
+    "route": "в/в",
+    "dosage": "30.0 мл",
+    "total": "4.0 мл",
+    "name": "Натрия хлорид",
+    "period": "5-6"
+  },
+  {
+    "frequency": 1,
+    "route": "ингаляционно",
+    "dosage": "0 мл",
+    "total": "0 мл",
+    "name": "Серетид оз",
+    "period": "5-10"
+  },
+  {
+    "frequency": 3,
+    "route": "п/к",
+    "dosage": "0.6 мл",
+    "total": "1.6 мл",
+    "name": "Клексан",
+    "period": "6-6"
+  },
+  {
+    "frequency": 1,
+    "route": "п/к",
+    "dosage": "0.6 мл",
+    "total": "0.8 мл",
+    "name": "Клексан",
+    "period": "7-7"
+  },
+  {
+    "frequency": 2,
+    "route": "внутрь",
+    "dosage": "25.0 мг",
+    "total": "50.0 мг",
+    "name": "Эспиро",
+    "period": "7-10"
+  },
+  {
+    "frequency": 3,
+    "route": "внутрь",
+    "dosage": "100.0 мг",
+    "total": "300.0 мг",
+    "name": "Верошпирон",
+    "period": "7-9"
+  },
+  {
+    "frequency": 0,
+    "route": "п/к",
+    "dosage": "0.6 мл",
+    "total": "0.0 мл",
+    "name": "Клексан",
+    "period": "8-9"
+  },
+  {
+    "frequency": 5,
+    "route": "в/в",
+    "dosage": "200.0 мл",
+    "total": "1000.0 мл",
+    "name": "Калия хлорид",
+    "period": "8-8"
+  },
+  {
+    "frequency": 1,
+    "route": "внутрь",
+    "dosage": "10.0 мг",
+    "total": "10.0 мг",
+    "name": "Торасемид-СЗ",
+    "period": "10-10"
+  }
+]

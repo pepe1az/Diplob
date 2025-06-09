@@ -1,0 +1,58 @@
+[
+  {
+    "frequency": 1,
+    "route": "внутрь",
+    "dosage": "40.0 мг",
+    "total": "40.0 мг",
+    "name": "Липримар",
+    "period": "1-1"
+  },
+  {
+    "frequency": 4,
+    "route": "промыв катетера",
+    "dosage": "25.0 мл",
+    "total": "100.0 мл",
+    "name": "Натрия хлорид",
+    "period": "1-1"
+  },
+  {
+    "frequency": 1,
+    "route": "внутрь",
+    "dosage": "5.0 мг",
+    "total": "5.0 мг",
+    "name": "Лизиноприл",
+    "period": "1-1"
+  },
+  {
+    "frequency": 2,
+    "route": "в/в",
+    "dosage": "10.0 мл",
+    "total": "20.0 мл",
+    "name": "Изокет",
+    "period": "1-1"
+  },
+  {
+    "frequency": 2,
+    "route": "в/в",
+    "dosage": "10.0 мл",
+    "total": "20.0 мл",
+    "name": "Натрия хлорид",
+    "period": "1-1"
+  },
+  {
+    "frequency": 2,
+    "route": "внутрь",
+    "dosage": "2.5 мг",
+    "total": "6.25 мг",
+    "name": "Варфарин Никомед",
+    "period": "1-1"
+  },
+  {
+    "frequency": 2,
+    "route": "внутрь",
+    "dosage": "0.25 мг",
+    "total": "0.5 мг",
+    "name": "Дигоксин",
+    "period": "1-1"
+  }
+]

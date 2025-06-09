@@ -1,0 +1,34 @@
+[
+  {
+    "frequency": 1,
+    "route": "нет",
+    "dosage": "90.0 мг",
+    "total": "90.0 мг",
+    "name": "Брилинта",
+    "period": "1-2"
+  },
+  {
+    "frequency": 1,
+    "route": "нет",
+    "dosage": "40.0 мг",
+    "total": "40.0 мг",
+    "name": "Аторвастатин",
+    "period": "1-1"
+  },
+  {
+    "frequency": 1,
+    "route": "нет",
+    "dosage": "100.0 мг",
+    "total": "100.0 мг",
+    "name": "Тромбо АСС",
+    "period": "1-1"
+  },
+  {
+    "frequency": 1,
+    "route": "нет",
+    "dosage": "5.0 мг",
+    "total": "5.0 мг",
+    "name": "Бисопролол",
+    "period": "2-2"
+  }
+]

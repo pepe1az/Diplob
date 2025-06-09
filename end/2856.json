@@ -1,0 +1,92 @@
+[
+  {
+    "route": "в/м",
+    "total": "50.0 мг",
+    "concentration": "50 МГ/мл",
+    "name": "Sol. Tramadoli l",
+    "period": "1-1"
+  },
+  {
+    "frequency": 1,
+    "route": "в/в",
+    "dosage": "0 мл",
+    "total": "0 мл",
+    "name": "Бакцефорт",
+    "period": "1-1"
+  },
+  {
+    "route": "в/в капельно",
+    "total": "80.0 мл",
+    "concentration": "40 МГ/мл",
+    "name": "Калия хлорид",
+    "period": "1-1"
+  },
+  {
+    "route": "в/в",
+    "total": "4.0 мл",
+    "concentration": "50 МГ/мл",
+    "name": "Кетопрофен",
+    "period": "1-1"
+  },
+  {
+    "route": "в/в капельно",
+    "total": "20.0 мл",
+    "concentration": "250 МГ/мл",
+    "name": "Магния сульфат",
+    "period": "1-1"
+  },
+  {
+    "frequency": 1,
+    "route": "в/в капельно",
+    "dosage": "250.0 мл",
+    "total": "250.0 мл",
+    "name": "Натрия хлорид",
+    "period": "1-1"
+  },
+  {
+    "frequency": 1,
+    "route": "в/в капельно",
+    "dosage": "40.0 мг",
+    "total": "40.0 мг",
+    "name": "Омепразол",
+    "period": "1-1"
+  },
+  {
+    "frequency": 2,
+    "route": "в/в капельно",
+    "dosage": "500.0 мл",
+    "total": "1000.0 мл",
+    "name": "Стерофундин изотонический",
+    "period": "1-1"
+  },
+  {
+    "route": "в/м",
+    "total": "1.0 мл",
+    "concentration": "1 МГ/мл",
+    "name": "Феназепам",
+    "period": "1-1"
+  },
+  {
+    "frequency": 1,
+    "route": "п/к",
+    "dosage": "0.4 мл",
+    "total": "0.4 мл",
+    "name": "Фраксипарин Е",
+    "period": "1-1"
+  },
+  {
+    "route": "п/к",
+    "total": "4.0 ЕД",
+    "concentration": "100 МЕ/мл",
+    "name": "Актрапид НМ",
+    "period": "1-1"
+  },
+  {
+    "frequency": 0,
+    "route": "в/в",
+    "dosage": "2.0 мл",
+    "total": "0.0 мл",
+    "name": "Фуросемид",
+    "period": "1-1"
+  }
+]

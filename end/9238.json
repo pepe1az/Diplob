@@ -1,0 +1,381 @@
+[
+  {
+    "frequency": 2,
+    "route": "внутрь",
+    "dosage": "500.0 мл",
+    "total": "1000.0 мл",
+    "name": "Дибен",
+    "period": "1-1"
+  },
+  {
+    "frequency": 2,
+    "route": "внутрь",
+    "dosage": "500.0 мл",
+    "total": "1000.0 мл",
+    "name": "Дибен",
+    "period": "5-12"
+  },
+  {
+    "frequency": 1,
+    "route": "внутрь",
+    "dosage": "100.0 мг",
+    "total": "75.0 мг",
+    "name": "Коплавикс",
+    "period": "1-22"
+  },
+  {
+    "frequency": 4,
+    "route": "промыв катетера",
+    "dosage": "25.0 мл",
+    "total": "100.0 мл",
+    "name": "Натрия хлорид",
+    "period": "1-16"
+  },
+  {
+    "frequency": 3,
+    "route": "внутрь",
+    "dosage": "25.0 мг",
+    "total": "75.0 мг",
+    "name": "Спиронолактон",
+    "period": "1-22"
+  },
+  {
+    "frequency": 1,
+    "route": "в/в",
+    "dosage": "0 мл",
+    "total": "0 мл",
+    "name": "Сульмаграф",
+    "period": "1-4"
+  },
+  {
+    "route": "п/к",
+    "total": "0.3 мл",
+    "concentration": "9500 МЕ/мл",
+    "name": "Фраксипарин",
+    "period": "1-22"
+  },
+  {
+    "frequency": 2,
+    "route": "в/в",
+    "dosage": "2.0 мл",
+    "total": "4.0 мл",
+    "name": "Фуросемид",
+    "period": "1-3"
+  },
+  {
+    "route": "в/в",
+    "total": "2.0 дозсмеси",
+    "concentration": "50 МГ/мл",
+    "name": "Кордарон",
+    "period": "1-4"
+  },
+  {
+    "route": "в/в",
+    "total": "2.0 дозсмеси",
+    "concentration": "50 МГ/мл",
+    "name": "Глюкоза",
+    "period": "1-4"
+  },
+  {
+    "route": "в/в",
+    "total": "3.0 дозсмеси",
+    "concentration": "2 МГ/мл",
+    "name": "Натрия хлорид",
+    "period": "1-4"
+  },
+  {
+    "route": "в/в",
+    "total": "3.0 дозсмеси",
+    "concentration": "2 МГ/мл",
+    "name": "Норадреналин",
+    "period": "1-4"
+  },
+  {
+    "route": "в/в капельно",
+    "total": "5.0 мл",
+    "concentration": "20 МГ/мл",
+    "name": "Ликферр",
+    "period": "1-1"
+  },
+  {
+    "route": "в/в капельно",
+    "total": "5.0 мл",
+    "concentration": "20 МГ/мл",
+    "name": "Ликферр",
+    "period": "7-7"
+  },
+  {
+    "route": "в/в капельно",
+    "total": "5.0 мл",
+    "concentration": "20 МГ/мл",
+    "name": "Ликферр",
+    "period": "9-11"
+  },
+  {
+    "frequency": 2,
+    "route": "в/в капельно",
+    "dosage": "100.0 мл",
+    "total": "200.0 мл",
+    "name": "СМОФлипид",
+    "period": "1-1"
+  },
+  {
+    "frequency": 2,
+    "route": "в/в капельно",
+    "dosage": "100.0 мл",
+    "total": "200.0 мл",
+    "name": "СМОФлипид",
+    "period": "5-5"
+  },
+  {
+    "frequency": 2,
+    "route": "в/в капельно",
+    "dosage": "100.0 мл",
+    "total": "200.0 мл",
+    "name": "СМОФлипид",
+    "period": "7-7"
+  },
+  {
+    "frequency": 2,
+    "route": "в/в капельно",
+    "dosage": "100.0 мл",
+    "total": "200.0 мл",
+    "name": "СМОФлипид",
+    "period": "9-11"
+  },
+  {
+    "frequency": 3,
+    "route": "внутрь",
+    "dosage": "500.0 мл",
+    "total": "1500.0 мл",
+    "name": "Дибен",
+    "period": "2-4"
+  },
+  {
+    "frequency": 2,
+    "route": "парентерально",
+    "dosage": "1.0 мл",
+    "total": "2.0 мл",
+    "name": "Октреотид Фсинтез",
+    "period": "3-3"
+  },
+  {
+    "frequency": 3,
+    "route": "в/в",
+    "dosage": "2.0 мл",
+    "total": "6.0 мл",
+    "name": "Фуросемид",
+    "period": "4-6"
+  },
+  {
+    "frequency": 0,
+    "route": "в/в",
+    "dosage": "60.0 мл",
+    "total": "0.0 мл",
+    "name": "Калия хлорида",
+    "period": "4-4"
+  },
+  {
+    "frequency": 3,
+    "route": "парентерально",
+    "dosage": "1.0 мл",
+    "total": "3.0 мл",
+    "name": "Октреотид Фсинтез",
+    "period": "4-4"
+  },
+  {
+    "route": "промыв катетера",
+    "total": "4.0 дозсмеси",
+    "concentration": "5000 ЕД/мл",
+    "name": "Гепарин",
+    "period": "5-22"
+  },
+  {
+    "route": "промыв катетера",
+    "total": "4.0 дозсмеси",
+    "concentration": "5000 ЕД/мл",
+    "name": "Натрия хлорид",
+    "period": "5-22"
+  },
+  {
+    "frequency": 1,
+    "route": "в/в капельно",
+    "dosage": "0 мл",
+    "total": "0 мл",
+    "name": "Сульмаграф",
+    "period": "5-11"
+  },
+  {
+    "route": "в/в капельно",
+    "total": "2.0 дозсмеси",
+    "concentration": "50 МГ/мл",
+    "name": "Кордарон",
+    "period": "5-6"
+  },
+  {
+    "route": "в/в капельно",
+    "total": "2.0 дозсмеси",
+    "concentration": "50 МГ/мл",
+    "name": "Глюкоза",
+    "period": "5-6"
+  },
+  {
+    "route": "в/в капельно",
+    "total": "3.0 дозсмеси",
+    "concentration": "2 МГ/мл",
+    "name": "Натрия хлорид",
+    "period": "5-22"
+  },
+  {
+    "route": "в/в капельно",
+    "total": "3.0 дозсмеси",
+    "concentration": "2 МГ/мл",
+    "name": "Норадреналин",
+    "period": "5-22"
+  },
+  {
+    "frequency": 1,
+    "route": "в/в капельно",
+    "dosage": "150.0 мл",
+    "total": "150.0 мл",
+    "name": "Калия хлорида",
+    "period": "5-5"
+  },
+  {
+    "route": "в/в капельно",
+    "total": "10.0 мл",
+    "concentration": "20 МГ/мл",
+    "name": "Ликферр",
+    "period": "5-5"
+  },
+  {
+    "frequency": 4,
+    "route": "в/в",
+    "dosage": "2.0 мл",
+    "total": "8.0 мл",
+    "name": "Фуросемид",
+    "period": "7-15"
+  },
+  {
+    "route": "в/в капельно",
+    "total": "1.0 дозсмеси",
+    "concentration": "50 МГ/мл",
+    "name": "Кордарон",
+    "period": "7-18"
+  },
+  {
+    "route": "в/в капельно",
+    "total": "1.0 дозсмеси",
+    "concentration": "50 МГ/мл",
+    "name": "Глюкоза",
+    "period": "7-18"
+  },
+  {
+    "frequency": 1,
+    "route": "в/в",
+    "dosage": "150.0 мл",
+    "total": "150.0 мл",
+    "name": "Калия хлорида",
+    "period": "9-10"
+  },
+  {
+    "frequency": 1,
+    "route": "в/в",
+    "dosage": "140.0 мл",
+    "total": "140.0 мл",
+    "name": "Калия хлорида",
+    "period": "11-11"
+  },
+  {
+    "frequency": 4,
+    "route": "внутрь",
+    "dosage": "500.0 мл",
+    "total": "2000.0 мл",
+    "name": "Дибен",
+    "period": "13-22"
+  },
+  {
+    "frequency": 0,
+    "route": "в/в капельно",
+    "dosage": "400.0 мг",
+    "total": "2.0 мг",
+    "name": "Гептрал",
+    "period": "13-22"
+  },
+  {
+    "frequency": 0,
+    "route": "в/в капельно",
+    "dosage": "400.0 мг",
+    "total": "2.0 мг",
+    "name": "Глюкоза",
+    "period": "13-22"
+  },
+  {
+    "route": "в/в",
+    "total": "15.0 мл",
+    "concentration": "200 МГ/мл",
+    "name": "Пирацетам буфус",
+    "period": "16-16"
+  },
+  {
+    "route": "в/м",
+    "total": "1.0 мл",
+    "concentration": "1 МГ/мл",
+    "name": "Фенорелаксан",
+    "period": "16-16"
+  },
+  {
+    "frequency": 1,
+    "route": "внутрь",
+    "dosage": "10.0 мг",
+    "total": "10.0 мг",
+    "name": "Торасемид-СЗ",
+    "period": "17-22"
+  },
+  {
+    "frequency": 1,
+    "route": "парентерально",
+    "dosage": "0 мл",
+    "total": "0 мл",
+    "name": "Эфипим с растворителем",
+    "period": "17-22"
+  },
+  {
+    "frequency": 3,
+    "route": "внутрь",
+    "dosage": "200.0 мг",
+    "total": "600.0 мг",
+    "name": "Кордарон",
+    "period": "19-21"
+  },
+  {
+    "route": "в/в капельно",
+    "total": "100.0 мл",
+    "concentration": "2 МГ/мл",
+    "name": "Флуконазол",
+    "period": "19-22"
+  },
+  {
+    "route": "в/м",
+    "total": "2.0 мл",
+    "concentration": "50 МГ/мл",
+    "name": "Кетонал",
+    "period": "19-19"
+  },
+  {
+    "frequency": 2,
+    "route": "внутрь",
+    "dosage": "200.0 мг",
+    "total": "400.0 мг",
+    "name": "Кордарон",
+    "period": "22-22"
+  },
+  {
+    "frequency": 10,
+    "route": "в/в",
+    "dosage": "1.0 мл",
+    "total": "10.0 мл",
+    "name": "Адреналин",
+    "period": "22-22"
+  }
+]

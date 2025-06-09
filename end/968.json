@@ -1,0 +1,64 @@
+[
+  {
+    "frequency": 1,
+    "route": "в/м",
+    "dosage": "0 мл",
+    "total": "4.0 мл",
+    "name": "Sol. Tramadoli l",
+    "period": "1-1"
+  },
+  {
+    "frequency": 0,
+    "route": "в/м",
+    "dosage": "2.0 мл",
+    "total": "0.0 мл",
+    "name": "Метоклопрамид",
+    "period": "1-1"
+  },
+  {
+    "frequency": 2,
+    "route": "в/в капельно",
+    "dosage": "500.0 мл",
+    "total": "1000.0 мл",
+    "name": "Рингера-ацетат",
+    "period": "1-1"
+  },
+  {
+    "route": "в/м",
+    "total": "4.0 мл",
+    "concentration": "50 МГ/мл",
+    "name": "Кетонал",
+    "period": "1-1"
+  },
+  {
+    "route": "в/в",
+    "total": "200.0 мл",
+    "concentration": "10 МГ/мл",
+    "name": "Ифимол",
+    "period": "1-1"
+  },
+  {
+    "frequency": 1,
+    "route": "п/к",
+    "dosage": "0.2 мл",
+    "total": "0.2 мл",
+    "name": "Цибор Е",
+    "period": "1-1"
+  },
+  {
+    "frequency": 1,
+    "route": "в/в капельно",
+    "dosage": "500.0 мл",
+    "total": "500.0 мл",
+    "name": "Калия и магния аспарагинат",
+    "period": "1-1"
+  },
+  {
+    "frequency": 1,
+    "route": "в/в капельно",
+    "dosage": "0 мл",
+    "total": "0 мл",
+    "name": "Цефограм с растворителем",
+    "period": "1-1"
+  }
+]

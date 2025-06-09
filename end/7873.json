@@ -1,0 +1,48 @@
+[
+  {
+    "frequency": 1,
+    "route": "нет",
+    "dosage": "90.0 мг",
+    "total": "90.0 мг",
+    "name": "Брилинта",
+    "period": "1-4"
+  },
+  {
+    "frequency": 1,
+    "route": "нет",
+    "dosage": "40.0 мг",
+    "total": "40.0 мг",
+    "name": "Аторвастатин",
+    "period": "1-4"
+  },
+  {
+    "frequency": 1,
+    "route": "нет",
+    "dosage": "100.0 мг",
+    "total": "100.0 мг",
+    "name": "Тромбо АСС",
+    "period": "2-3"
+  },
+  {
+    "frequency": 1,
+    "route": "нет",
+    "dosage": "100.0 мг",
+    "total": "100.0 мг",
+    "name": "Тромбо АСС",
+    "period": "5-5"
+  },
+  {
+    "route": "не указан",
+    "total": "3.0 мл",
+    "concentration": "40 МГ/мл",
+    "name": "Калия хлорид",
+    "period": "2-2"
+  },
+  {
+    "route": "не указан",
+    "total": "6.0 мл",
+    "concentration": "40 МГ/мл",
+    "name": "Калия хлорид",
+    "period": "3-5"
+  }
+]

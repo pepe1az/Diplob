@@ -1,0 +1,34 @@
+[
+  {
+    "frequency": 0,
+    "route": "нет",
+    "dosage": "5.0 мг",
+    "total": "2.5 мг",
+    "name": "Бисопролол",
+    "period": "1-1"
+  },
+  {
+    "frequency": 1,
+    "route": "нет",
+    "dosage": "75.0 мг",
+    "total": "75.0 мг",
+    "name": "Плавикс",
+    "period": "1-1"
+  },
+  {
+    "frequency": 1,
+    "route": "нет",
+    "dosage": "5.0 мг",
+    "total": "5.0 мг",
+    "name": "Лизиноприл",
+    "period": "1-1"
+  },
+  {
+    "frequency": 1,
+    "route": "нет",
+    "dosage": "40.0 мг",
+    "total": "40.0 мг",
+    "name": "Аторис",
+    "period": "1-1"
+  }
+]

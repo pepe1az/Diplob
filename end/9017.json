@@ -1,0 +1,211 @@
+[
+  {
+    "frequency": 1,
+    "route": "внутрь",
+    "dosage": "40.0 мг",
+    "total": "40.0 мг",
+    "name": "Липримар",
+    "period": "1-7"
+  },
+  {
+    "route": "промыв катетера",
+    "total": "4.0 дозсмеси",
+    "concentration": "5000 ЕД/мл",
+    "name": "Гепарин",
+    "period": "1-7"
+  },
+  {
+    "route": "промыв катетера",
+    "total": "4.0 дозсмеси",
+    "concentration": "5000 ЕД/мл",
+    "name": "Натрия хлорид",
+    "period": "1-7"
+  },
+  {
+    "frequency": 4,
+    "route": "в/в",
+    "dosage": "25.0 мл",
+    "total": "100.0 мл",
+    "name": "Натрия хлорид",
+    "period": "1-7"
+  },
+  {
+    "route": "в/в",
+    "total": "100.0 мл",
+    "concentration": "75 МГ/мл",
+    "name": "Интегрилин",
+    "period": "1-1"
+  },
+  {
+    "frequency": 3,
+    "route": "в/в",
+    "dosage": "20.0 мг",
+    "total": "60.0 мг",
+    "name": "Квамател",
+    "period": "1-1"
+  },
+  {
+    "frequency": 1,
+    "route": "в/в",
+    "dosage": "5.0 мл",
+    "total": "5.0 мл",
+    "name": "Адреналин",
+    "period": "1-1"
+  },
+  {
+    "frequency": 1,
+    "route": "в/в",
+    "dosage": "5.0 мл",
+    "total": "5.0 мл",
+    "name": "Натрия хлорид",
+    "period": "1-1"
+  },
+  {
+    "route": "в/в капельно",
+    "total": "4.0 дозсмеси",
+    "concentration": "100 ЕД/мл",
+    "name": "НовоРапид Пенфилл Е",
+    "period": "1-2"
+  },
+  {
+    "route": "в/в капельно",
+    "total": "4.0 дозсмеси",
+    "concentration": "100 ЕД/мл",
+    "name": "Натрия хлорид",
+    "period": "1-2"
+  },
+  {
+    "route": "не указан",
+    "total": "4.0 мл",
+    "concentration": "2 МГ/мл",
+    "name": "Латран",
+    "period": "1-2"
+  },
+  {
+    "frequency": 1,
+    "route": "в/в капельно",
+    "dosage": "200.0 мл",
+    "total": "200.0 мл",
+    "name": "Натрия гидрокарбонат",
+    "period": "1-1"
+  },
+  {
+    "frequency": 4,
+    "route": "в/в капельно",
+    "dosage": "500.0 мл",
+    "total": "2000.0 мл",
+    "name": "Рингера-ацетат",
+    "period": "1-1"
+  },
+  {
+    "frequency": 2,
+    "route": "внутрь",
+    "dosage": "90.0 мг",
+    "total": "180.0 мг",
+    "name": "Брилинта",
+    "period": "1-7"
+  },
+  {
+    "frequency": 1,
+    "route": "внутрь",
+    "dosage": "100.0 мг",
+    "total": "100.0 мг",
+    "name": "Тромбо АСС",
+    "period": "1-7"
+  },
+  {
+    "frequency": 2,
+    "route": "п/к",
+    "dosage": "0.6 мл",
+    "total": "1.0 мл",
+    "name": "Клексан",
+    "period": "1-7"
+  },
+  {
+    "frequency": 1,
+    "route": "в/в капельно",
+    "dosage": "90.0 мл",
+    "total": "90.0 мл",
+    "name": "Калия хлорида",
+    "period": "1-1"
+  },
+  {
+    "frequency": 1,
+    "route": "в/в капельно",
+    "dosage": "90.0 мл",
+    "total": "90.0 мл",
+    "name": "Калия хлорида",
+    "period": "4-7"
+  },
+  {
+    "frequency": 0,
+    "route": "в/в капельно",
+    "dosage": "200.0 мл",
+    "total": "0.0 мл",
+    "name": "Натрия гидрокарбонат",
+    "period": "2-2"
+  },
+  {
+    "frequency": 2,
+    "route": "в/в капельно",
+    "dosage": "500.0 мл",
+    "total": "1000.0 мл",
+    "name": "Рингера-ацетат",
+    "period": "2-2"
+  },
+  {
+    "frequency": 3,
+    "route": "в/в капельно",
+    "dosage": "90.0 мл",
+    "total": "270.0 мл",
+    "name": "Калия хлорида",
+    "period": "2-3"
+  },
+  {
+    "frequency": 2,
+    "route": "внутрь",
+    "dosage": "20.0 мг",
+    "total": "40.0 мг",
+    "name": "Омепразол",
+    "period": "2-7"
+  },
+  {
+    "route": "в/в капельно",
+    "total": "1200.0 мг",
+    "concentration": "50 МГ/мл",
+    "name": "Кордарон",
+    "period": "5-6"
+  },
+  {
+    "frequency": 1,
+    "route": "внутрь",
+    "dosage": "500.0 мг",
+    "total": "500.0 мг",
+    "name": "Азитромицин",
+    "period": "5-6"
+  },
+  {
+    "frequency": 1,
+    "route": "в/в капельно",
+    "dosage": "0 мл",
+    "total": "0 мл",
+    "name": "Цефограм с растворителем",
+    "period": "5-7"
+  },
+  {
+    "frequency": 1,
+    "route": "в/в",
+    "dosage": "2.0 мл",
+    "total": "2.0 мл",
+    "name": "Фуросемид",
+    "period": "7-7"
+  },
+  {
+    "frequency": 3,
+    "route": "внутрь",
+    "dosage": "25.0 мг",
+    "total": "75.0 мг",
+    "name": "Верошпирон",
+    "period": "7-7"
+  }
+]

@@ -1,0 +1,49 @@
+[
+  {
+    "frequency": 8,
+    "route": "нет",
+    "dosage": "5.0 мл",
+    "total": "40.0 мл",
+    "name": "Глюкоза",
+    "period": "1-1"
+  },
+  {
+    "frequency": 1,
+    "route": "нет",
+    "dosage": "100.0 мг",
+    "total": "100.0 мг",
+    "name": "Тромбо АСС",
+    "period": "1-1"
+  },
+  {
+    "frequency": 1,
+    "route": "нет",
+    "dosage": "90.0 мг",
+    "total": "90.0 мг",
+    "name": "Брилинта",
+    "period": "2-2"
+  },
+  {
+    "route": "не указан",
+    "total": "7.0 мл",
+    "concentration": "2 МГ/мл",
+    "name": "Норадреналин Агетан",
+    "period": "2-2"
+  },
+  {
+    "frequency": 7,
+    "route": "нет",
+    "dosage": "1.0 мл",
+    "total": "7.0 мл",
+    "name": "Адреналин",
+    "period": "2-2"
+  },
+  {
+    "frequency": 4,
+    "route": "нет",
+    "dosage": "5.0 мл",
+    "total": "20.0 мл",
+    "name": "Глюкоза",
+    "period": "2-2"
+  }
+]

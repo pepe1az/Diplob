@@ -1,0 +1,106 @@
+[
+  {
+    "frequency": 1,
+    "route": "в/м",
+    "dosage": "0 мл",
+    "total": "4.0 мл",
+    "name": "Sol. Tramadoli l",
+    "period": "1-1"
+  },
+  {
+    "frequency": 2,
+    "route": "в/в капельно",
+    "dosage": "500.0 мл",
+    "total": "1000.0 мл",
+    "name": "Йоностерил",
+    "period": "1-1"
+  },
+  {
+    "frequency": 0,
+    "route": "в/в",
+    "dosage": "200.0 мл",
+    "total": "30.0 мл",
+    "name": "Калия хлорид",
+    "period": "1-1"
+  },
+  {
+    "frequency": 2,
+    "route": "внутрь",
+    "dosage": "20.0 мг",
+    "total": "40.0 мг",
+    "name": "Омепразол",
+    "period": "1-1"
+  },
+  {
+    "frequency": 1,
+    "route": "в/в",
+    "dosage": "0 мл",
+    "total": "0 мл",
+    "name": "Цефазолин с растворителем",
+    "period": "1-2"
+  },
+  {
+    "frequency": 1,
+    "route": "п/к",
+    "dosage": "0.2 мл",
+    "total": "0.2 мл",
+    "name": "Цибор Е",
+    "period": "1-1"
+  },
+  {
+    "frequency": 4,
+    "route": "в/в",
+    "dosage": "2.0 мл",
+    "total": "8.0 мл",
+    "name": "Этамзилат",
+    "period": "1-1"
+  },
+  {
+    "frequency": 1,
+    "route": "в/м",
+    "dosage": "0 мл",
+    "total": "2.0 мл",
+    "name": "Sol. Tramadoli l",
+    "period": "2-2"
+  },
+  {
+    "frequency": 1,
+    "route": "в/в капельно",
+    "dosage": "500.0 мл",
+    "total": "500.0 мл",
+    "name": "Йоностерил",
+    "period": "2-2"
+  },
+  {
+    "frequency": 0,
+    "route": "в/в",
+    "dosage": "200.0 мл",
+    "total": "15.0 мл",
+    "name": "Калия хлорид",
+    "period": "2-2"
+  },
+  {
+    "frequency": 1,
+    "route": "внутрь",
+    "dosage": "20.0 мг",
+    "total": "20.0 мг",
+    "name": "Омепразол",
+    "period": "2-2"
+  },
+  {
+    "frequency": 0,
+    "route": "п/к",
+    "dosage": "0.2 мл",
+    "total": "0.0 мл",
+    "name": "Цибор Е",
+    "period": "2-2"
+  },
+  {
+    "frequency": 1,
+    "route": "в/в",
+    "dosage": "2.0 мл",
+    "total": "2.0 мл",
+    "name": "Этамзилат",
+    "period": "2-2"
+  }
+]

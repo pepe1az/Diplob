@@ -1,0 +1,29 @@
+{
+    "treatment": {
+        "day_1": {
+            "Sol. Trankvezipami l": {
+                "frequency": 1,
+                "route": "в/м",
+                "dosage": "0 мл",
+                "total": "1.0 мл"
+            },
+            "Калия хлорид": {
+                "route": "не указан",
+                "total": "580.0 мл",
+                "concentration": "40 МГ/мл"
+            },
+            "Плавикс": {
+                "frequency": 1,
+                "route": "нет",
+                "dosage": "75.0 мг",
+                "total": "75.0 мг"
+            },
+            "Тромбо АСС": {
+                "frequency": 1,
+                "route": "нет",
+                "dosage": "100.0 мг",
+                "total": "100.0 мг"
+            }
+        }
+    }
+}

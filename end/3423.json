@@ -1,0 +1,42 @@
+[
+  {
+    "frequency": 1,
+    "route": "нет",
+    "dosage": "40.0 мг",
+    "total": "40.0 мг",
+    "name": "Аторвастатин",
+    "period": "1-1"
+  },
+  {
+    "frequency": 1,
+    "route": "нет",
+    "dosage": "5.0 мг",
+    "total": "5.0 мг",
+    "name": "Лизиноприл",
+    "period": "1-1"
+  },
+  {
+    "frequency": 1,
+    "route": "нет",
+    "dosage": "100.0 мг",
+    "total": "100.0 мг",
+    "name": "Тромбо АСС",
+    "period": "2-2"
+  },
+  {
+    "frequency": 1,
+    "route": "нет",
+    "dosage": "75.0 мг",
+    "total": "75.0 мг",
+    "name": "Плавикс",
+    "period": "2-2"
+  },
+  {
+    "frequency": 0,
+    "route": "нет",
+    "dosage": "5.0 мг",
+    "total": "2.5 мг",
+    "name": "Бисопролол",
+    "period": "2-2"
+  }
+]

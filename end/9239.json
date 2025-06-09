@@ -1,0 +1,657 @@
+[
+  {
+    "route": "в/в",
+    "total": "4.0 мл",
+    "concentration": "50 МГ/мл",
+    "name": "Кетонал раствор для и в введения",
+    "period": "1-1"
+  },
+  {
+    "frequency": 1,
+    "route": "в/м",
+    "dosage": "0 мл",
+    "total": "4.0 мл",
+    "name": "Sol. Tramadoli l",
+    "period": "1-1"
+  },
+  {
+    "frequency": 1,
+    "route": "п/к",
+    "dosage": "0.3 мл",
+    "total": "0.3 мл",
+    "name": "Фраксипарин Е",
+    "period": "1-1"
+  },
+  {
+    "frequency": 3,
+    "route": "в/в капельно",
+    "dosage": "40.0 мл",
+    "total": "120.0 мл",
+    "name": "Калия хлорида",
+    "period": "1-1"
+  },
+  {
+    "frequency": 3,
+    "route": "в/в капельно",
+    "dosage": "40.0 мл",
+    "total": "120.0 мл",
+    "name": "Магния сульфат",
+    "period": "1-1"
+  },
+  {
+    "frequency": 3,
+    "route": "в/в капельно",
+    "dosage": "40.0 мл",
+    "total": "120.0 мл",
+    "name": "Глюкоза",
+    "period": "1-1"
+  },
+  {
+    "route": "в/в капельно",
+    "total": "200.0 мл",
+    "concentration": "5 МГ/мл",
+    "name": "метронидазол",
+    "period": "1-1"
+  },
+  {
+    "frequency": 2,
+    "route": "в/в капельно",
+    "dosage": "500.0 мл",
+    "total": "1000.0 мл",
+    "name": "Натрия хлорид",
+    "period": "1-1"
+  },
+  {
+    "frequency": 1,
+    "route": "в/м",
+    "dosage": "0 мл",
+    "total": "10.0 мл",
+    "name": "Окситоцин",
+    "period": "1-1"
+  },
+  {
+    "frequency": 1,
+    "route": "в/в капельно",
+    "dosage": "0 мл",
+    "total": "0 мл",
+    "name": "Аугментин",
+    "period": "1-1"
+  },
+  {
+    "route": "в/в капельно",
+    "total": "15.0 мл",
+    "concentration": "50 МГ/мл",
+    "name": "Транексам",
+    "period": "1-1"
+  },
+  {
+    "frequency": 1,
+    "route": "в/в",
+    "dosage": "0 мл",
+    "total": "8.0 мл",
+    "name": "Sol. Tramadoli l",
+    "period": "2-5"
+  },
+  {
+    "frequency": 1,
+    "route": "в/в",
+    "dosage": "0 мл",
+    "total": "0 мл",
+    "name": "Аугментин",
+    "period": "2-3"
+  },
+  {
+    "route": "в/в",
+    "total": "60.0 мл",
+    "concentration": "50 МГ/мл",
+    "name": "Транексам",
+    "period": "2-3"
+  },
+  {
+    "frequency": 3,
+    "route": "в/в капельно",
+    "dosage": "200.0 мл",
+    "total": "600.0 мл",
+    "name": "Натрия хлорид",
+    "period": "2-2"
+  },
+  {
+    "frequency": 3,
+    "route": "в/в капельно",
+    "dosage": "200.0 мл",
+    "total": "600.0 мл",
+    "name": "Окситоцин",
+    "period": "2-2"
+  },
+  {
+    "frequency": 3,
+    "route": "в/в",
+    "dosage": "40.0 мл",
+    "total": "120.0 мл",
+    "name": "Калия хлорида",
+    "period": "2-2"
+  },
+  {
+    "frequency": 3,
+    "route": "в/в",
+    "dosage": "40.0 мл",
+    "total": "120.0 мл",
+    "name": "Глюкоза",
+    "period": "2-2"
+  },
+  {
+    "frequency": 4,
+    "route": "в/в",
+    "dosage": "4.0 мл",
+    "total": "16.0 мл",
+    "name": "Дицинон",
+    "period": "2-3"
+  },
+  {
+    "frequency": 4,
+    "route": "внутрь",
+    "dosage": "250.0 мг",
+    "total": "1000.0 мг",
+    "name": "Допегит",
+    "period": "2-3"
+  },
+  {
+    "frequency": 2,
+    "route": "внутрь",
+    "dosage": "10.0 мг",
+    "total": "20.0 мг",
+    "name": "Нифедипин",
+    "period": "2-3"
+  },
+  {
+    "frequency": 2,
+    "route": "внутрь",
+    "dosage": "10.0 мг",
+    "total": "20.0 мг",
+    "name": "Нифедипин",
+    "period": "7-10"
+  },
+  {
+    "frequency": 1,
+    "route": "в/в",
+    "dosage": "100.0 мл",
+    "total": "100.0 мл",
+    "name": "Магния сульфат",
+    "period": "2-3"
+  },
+  {
+    "frequency": 3,
+    "route": "в/в капельно",
+    "dosage": "100.0 мл",
+    "total": "300.0 мл",
+    "name": "Натрия хлорид",
+    "period": "3-3"
+  },
+  {
+    "frequency": 3,
+    "route": "в/в капельно",
+    "dosage": "100.0 мл",
+    "total": "300.0 мл",
+    "name": "Окситоцин",
+    "period": "3-3"
+  },
+  {
+    "frequency": 3,
+    "route": "в/в капельно",
+    "dosage": "60.0 мл",
+    "total": "180.0 мл",
+    "name": "Калия хлорида",
+    "period": "3-3"
+  },
+  {
+    "frequency": 3,
+    "route": "в/в капельно",
+    "dosage": "60.0 мл",
+    "total": "180.0 мл",
+    "name": "Глюкоза",
+    "period": "3-3"
+  },
+  {
+    "frequency": 3,
+    "route": "в/в капельно",
+    "dosage": "0.5 мл",
+    "total": "1.5 мл",
+    "name": "Прозерин",
+    "period": "3-3"
+  },
+  {
+    "frequency": 0,
+    "route": "в/в капельно",
+    "dosage": "100.0 мл",
+    "total": "0.0 мл",
+    "name": "Альбумин",
+    "period": "3-3"
+  },
+  {
+    "frequency": 1,
+    "route": "в/в",
+    "dosage": "0 мл",
+    "total": "0.0 мл",
+    "name": "Тромбомасса О RH мл",
+    "period": "3-3"
+  },
+  {
+    "frequency": 1,
+    "route": "в/в",
+    "dosage": "0 мл",
+    "total": "0.0 мл",
+    "name": "Тромбомасса О RH мл",
+    "period": "5-5"
+  },
+  {
+    "frequency": 3,
+    "route": "в/в",
+    "dosage": "0.5 мл",
+    "total": "1.5 мл",
+    "name": "Прозерин",
+    "period": "4-6"
+  },
+  {
+    "frequency": 1,
+    "route": "в/в",
+    "dosage": "0 мл",
+    "total": "0 мл",
+    "name": "Меронем",
+    "period": "4-6"
+  },
+  {
+    "route": "в/в",
+    "total": "2.0 мл",
+    "concentration": "4 МГ/мл",
+    "name": "Дексамед",
+    "period": "4-6"
+  },
+  {
+    "frequency": 1,
+    "route": "в/в",
+    "dosage": "0 мл",
+    "total": "0.0 мл",
+    "name": "Окситоцин",
+    "period": "4-4"
+  },
+  {
+    "frequency": 1,
+    "route": "в/в",
+    "dosage": "100.0 мл",
+    "total": "100.0 мл",
+    "name": "Альбумин",
+    "period": "4-4"
+  },
+  {
+    "frequency": 2,
+    "route": "в/в",
+    "dosage": "800.0 мг",
+    "total": "1600.0 мг",
+    "name": "Гептрал",
+    "period": "4-6"
+  },
+  {
+    "frequency": 0,
+    "route": "в/в капельно",
+    "dosage": "200.0 мл",
+    "total": "0.0 мл",
+    "name": "Калия хлорида",
+    "period": "4-4"
+  },
+  {
+    "frequency": 1,
+    "route": "внутрь",
+    "dosage": "10.0 мг",
+    "total": "10.0 мг",
+    "name": "Кларисенс",
+    "period": "4-6"
+  },
+  {
+    "route": "в/в",
+    "total": "200.0 мл",
+    "concentration": "50 МГ/мл",
+    "name": "Октагам",
+    "period": "4-6"
+  },
+  {
+    "frequency": 2,
+    "route": "в/в",
+    "dosage": "100.0 мл",
+    "total": "200.0 мл",
+    "name": "Альбумин",
+    "period": "5-6"
+  },
+  {
+    "frequency": 1,
+    "route": "в/в капельно",
+    "dosage": "200.0 мл",
+    "total": "200.0 мл",
+    "name": "Калия хлорида",
+    "period": "5-6"
+  },
+  {
+    "frequency": 1,
+    "route": "в/м",
+    "dosage": "0 мл",
+    "total": "15.0 мл",
+    "name": "Окситоцин",
+    "period": "5-10"
+  },
+  {
+    "frequency": 1,
+    "route": "в/в",
+    "dosage": "0 мл",
+    "total": "0.0 мл",
+    "name": "Sol. Tramadoli l",
+    "period": "6-6"
+  },
+  {
+    "frequency": 0,
+    "route": "в/в",
+    "dosage": "100.0 мг",
+    "total": "0.0 мг",
+    "name": "Кетонал",
+    "period": "6-6"
+  },
+  {
+    "frequency": 1,
+    "route": "в/в",
+    "dosage": "0 мл",
+    "total": "0.0 мл",
+    "name": "Тромбоконцентрат о RH мл",
+    "period": "6-6"
+  },
+  {
+    "frequency": 2,
+    "route": "п/к",
+    "dosage": "0.3 мл",
+    "total": "0.6 мл",
+    "name": "Фраксипарин Е",
+    "period": "7-12"
+  },
+  {
+    "route": "в/в",
+    "total": "6.0 мл",
+    "concentration": "4 МГ/мл",
+    "name": "Дексаметазон",
+    "period": "7-10"
+  },
+  {
+    "route": "в/в",
+    "total": "2.0 мл",
+    "concentration": "50 МГ/мл",
+    "name": "КосмоФер",
+    "period": "7-12"
+  },
+  {
+    "frequency": 3,
+    "route": "в/в",
+    "dosage": "500.0 мг",
+    "total": "1500.0 мг",
+    "name": "Тиенам",
+    "period": "7-9"
+  },
+  {
+    "frequency": 3,
+    "route": "внутрь",
+    "dosage": "250.0 мг",
+    "total": "750.0 мг",
+    "name": "Допегит",
+    "period": "7-7"
+  },
+  {
+    "frequency": 2,
+    "route": "внутрь",
+    "dosage": "25.0 мг",
+    "total": "50.0 мг",
+    "name": "Эгилок",
+    "period": "8-10"
+  },
+  {
+    "frequency": 1,
+    "route": "в/в",
+    "dosage": "20.0 мг",
+    "total": "20.0 мг",
+    "name": "Квамател",
+    "period": "9-10"
+  },
+  {
+    "frequency": 4,
+    "route": "в/в",
+    "dosage": "500.0 мг",
+    "total": "2000.0 мг",
+    "name": "Тиенам",
+    "period": "10-16"
+  },
+  {
+    "route": "в/в капельно",
+    "total": "6.0 мл",
+    "concentration": "4 МГ/мл",
+    "name": "Дексаметазон",
+    "period": "11-12"
+  },
+  {
+    "frequency": 2,
+    "route": "внутрь",
+    "dosage": "20.0 мг",
+    "total": "40.0 мг",
+    "name": "Омепразол",
+    "period": "11-19"
+  },
+  {
+    "frequency": 0,
+    "route": "в/в",
+    "dosage": "520.0 мл",
+    "total": "0.0 мл",
+    "name": "СЗП О-",
+    "period": "11-11"
+  },
+  {
+    "frequency": 1,
+    "route": "в/в",
+    "dosage": "400.0 мг",
+    "total": "400.0 мг",
+    "name": "Гептрал",
+    "period": "11-19"
+  },
+  {
+    "frequency": 1,
+    "route": "внутрь",
+    "dosage": "5.0 мг",
+    "total": "5.0 мг",
+    "name": "Амлодипин",
+    "period": "11-12"
+  },
+  {
+    "frequency": 1,
+    "route": "внутрь",
+    "dosage": "5.0 мг",
+    "total": "5.0 мг",
+    "name": "Амлодипин",
+    "period": "14-16"
+  },
+  {
+    "frequency": 1,
+    "route": "внутрь",
+    "dosage": "5.0 мг",
+    "total": "5.0 мг",
+    "name": "Амлодипин",
+    "period": "18-19"
+  },
+  {
+    "frequency": 2,
+    "route": "внутрь",
+    "dosage": "5.0 мг",
+    "total": "10.0 мг",
+    "name": "Амприлан",
+    "period": "11-12"
+  },
+  {
+    "frequency": 2,
+    "route": "внутрь",
+    "dosage": "1.0 мг",
+    "total": "2.0 мг",
+    "name": "Фолиевая кислота",
+    "period": "11-17"
+  },
+  {
+    "frequency": 0,
+    "route": "в/в",
+    "dosage": "590.0 мл",
+    "total": "0.0 мл",
+    "name": "СЗП RH-",
+    "period": "12-12"
+  },
+  {
+    "frequency": 1,
+    "route": "п/к",
+    "dosage": "0.6 мл",
+    "total": "0.6 мл",
+    "name": "Фраксипарин Е",
+    "period": "13-14"
+  },
+  {
+    "frequency": 1,
+    "route": "внутрь",
+    "dosage": "10.0 мг",
+    "total": "10.0 мг",
+    "name": "Амлодипин",
+    "period": "13-13"
+  },
+  {
+    "frequency": 2,
+    "route": "внутрь",
+    "dosage": "10.0 мг",
+    "total": "20.0 мг",
+    "name": "Амприлан",
+    "period": "13-19"
+  },
+  {
+    "frequency": 1,
+    "route": "в/в капельно",
+    "dosage": "500.0 мг",
+    "total": "500.0 мг",
+    "name": "Метипред",
+    "period": "13-16"
+  },
+  {
+    "frequency": 0,
+    "route": "в/в",
+    "dosage": "270.0 мл",
+    "total": "0.0 мл",
+    "name": "СЗП RH-",
+    "period": "13-13"
+  },
+  {
+    "frequency": 2,
+    "route": "внутрь",
+    "dosage": "200.0 мг",
+    "total": "400.0 мг",
+    "name": "Плаквенил",
+    "period": "13-19"
+  },
+  {
+    "frequency": 0,
+    "route": "в/в",
+    "dosage": "240.0 мл",
+    "total": "0.0 мл",
+    "name": "СЗП RH-",
+    "period": "14-14"
+  },
+  {
+    "frequency": 2,
+    "route": "п/к",
+    "dosage": "0.6 мл",
+    "total": "1.2 мл",
+    "name": "Фраксипарин Е",
+    "period": "15-19"
+  },
+  {
+    "frequency": 2,
+    "route": "внутрь",
+    "dosage": "500.0 мг",
+    "total": "1000.0 мг",
+    "name": "Кальций Дикомед",
+    "period": "15-19"
+  },
+  {
+    "frequency": 1,
+    "route": "в/в",
+    "dosage": "0 мл",
+    "total": "0 мл",
+    "name": "СЗП О RH-",
+    "period": "15-15"
+  },
+  {
+    "frequency": 2,
+    "route": "внутрь",
+    "dosage": "5.0 мг",
+    "total": "10.0 мг",
+    "name": "Кораксан",
+    "period": "15-17"
+  },
+  {
+    "frequency": 1,
+    "route": "в/м",
+    "dosage": "50.0 мг",
+    "total": "50.0 мг",
+    "name": "Кетонал крем",
+    "period": "16-17"
+  },
+  {
+    "frequency": 1,
+    "route": "в/в",
+    "dosage": "500.0 мг",
+    "total": "500.0 мг",
+    "name": "Тиенам",
+    "period": "17-17"
+  },
+  {
+    "frequency": 2,
+    "route": "внутрь",
+    "dosage": "5.0 мг",
+    "total": "10.0 мг",
+    "name": "Амлодипин",
+    "period": "17-17"
+  },
+  {
+    "frequency": 1,
+    "route": "в/в капельно",
+    "dosage": "250.0 мг",
+    "total": "250.0 мг",
+    "name": "Метипред",
+    "period": "17-19"
+  },
+  {
+    "frequency": 2,
+    "route": "внутрь",
+    "dosage": "40.0 мг",
+    "total": "80.0 мг",
+    "name": "Нексиум",
+    "period": "17-19"
+  },
+  {
+    "frequency": 1,
+    "route": "внутрь",
+    "dosage": "1.0 мг",
+    "total": "1.0 мг",
+    "name": "Фолиевая кислота",
+    "period": "18-19"
+  },
+  {
+    "frequency": 0,
+    "route": "внутрь",
+    "dosage": "5.0 мг",
+    "total": "0.0 мг",
+    "name": "Кораксан",
+    "period": "18-19"
+  },
+  {
+    "frequency": 1,
+    "route": "внутрь",
+    "dosage": "25.0 мг",
+    "total": "25.0 мг",
+    "name": "Беталок Зок",
+    "period": "18-19"
+  }
+]

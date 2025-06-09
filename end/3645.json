@@ -1,0 +1,97 @@
+[
+  {
+    "frequency": 1,
+    "route": "внутрь",
+    "dosage": "100.0 мг",
+    "total": "75.0 мг",
+    "name": "Коплавикс",
+    "period": "1-1"
+  },
+  {
+    "frequency": 1,
+    "route": "внутрь",
+    "dosage": "25.0 мг",
+    "total": "25.0 мг",
+    "name": "Эгилок С",
+    "period": "1-1"
+  },
+  {
+    "frequency": 4,
+    "route": "промыв катетера",
+    "dosage": "25.0 мл",
+    "total": "100.0 мл",
+    "name": "Натрия хлорид",
+    "period": "1-2"
+  },
+  {
+    "frequency": 1,
+    "route": "в/в",
+    "dosage": "10.0 мл",
+    "total": "10.0 мл",
+    "name": "Натрия хлорид",
+    "period": "1-1"
+  },
+  {
+    "frequency": 1,
+    "route": "в/в",
+    "dosage": "10.0 мл",
+    "total": "10.0 мл",
+    "name": "Изакардин",
+    "period": "1-1"
+  },
+  {
+    "frequency": 1,
+    "route": "внутрь",
+    "dosage": "20.0 мг",
+    "total": "20.0 мг",
+    "name": "Лизинотон",
+    "period": "1-1"
+  },
+  {
+    "frequency": 1,
+    "route": "внутрь",
+    "dosage": "40.0 мг",
+    "total": "40.0 мг",
+    "name": "Торвакард",
+    "period": "1-2"
+  },
+  {
+    "route": "п/к",
+    "total": "0.5 мл",
+    "concentration": "5 МГ/мл",
+    "name": "Арикстра",
+    "period": "1-2"
+  },
+  {
+    "frequency": 1,
+    "route": "в/в капельно",
+    "dosage": "500.0 мл",
+    "total": "500.0 мл",
+    "name": "Калия и магния аспарагинат",
+    "period": "1-1"
+  },
+  {
+    "frequency": 0,
+    "route": "внутрь",
+    "dosage": "20.0 мг",
+    "total": "10.0 мг",
+    "name": "Лизинотон",
+    "period": "2-2"
+  },
+  {
+    "frequency": 3,
+    "route": "внутрь",
+    "dosage": "90.0 мг",
+    "total": "270.0 мг",
+    "name": "Брилинта",
+    "period": "2-2"
+  },
+  {
+    "frequency": 1,
+    "route": "внутрь",
+    "dosage": "100.0 мг",
+    "total": "100.0 мг",
+    "name": "Ацекардол",
+    "period": "2-2"
+  }
+]

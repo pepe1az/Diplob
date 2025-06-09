@@ -1,0 +1,68 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+RuBioBert_model/rubio_bert_classifier
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Virtual environments
+venv/
+.venv/
+env/
+ENV/
+new_venv/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# PyInstaller
+dist/
+build/
+*.spec
+
+# Unit test / coverage reports
+htmlcov/
+.tox/
+.nox/
+.coverage
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+*.py,cover
+
+# Pytest
+.pytest_cache/
+
+# mypy
+.mypy_cache/
+.dmypy.json
+dmypy.json
+
+# IDEs
+.vscode/
+.idea/
+
+# Logs
+*.log
+
+# Mac OS / Linux / Windows system files
+.DS_Store
+Thumbs.db
+
+# Ignore model or large binary files
+*.h5
+*.hdf5
+*.ckpt
+*.tflite
+*.safetensors
+*.pth
+*.pt

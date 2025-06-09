@@ -1,0 +1,122 @@
+[
+  {
+    "frequency": 1,
+    "route": "внутрь",
+    "dosage": "300.0 мг",
+    "total": "300.0 мг",
+    "name": "Плавикс",
+    "period": "1-1"
+  },
+  {
+    "frequency": 4,
+    "route": "промыв катетера",
+    "dosage": "25.0 мл",
+    "total": "100.0 мл",
+    "name": "Натрия хлорид",
+    "period": "1-2"
+  },
+  {
+    "frequency": 2,
+    "route": "п/к",
+    "dosage": "0.4 мл",
+    "total": "0.8 мл",
+    "name": "Клексан",
+    "period": "1-1"
+  },
+  {
+    "frequency": 2,
+    "route": "п/к",
+    "dosage": "0.4 мл",
+    "total": "0.8 мл",
+    "name": "Клексан",
+    "period": "3-5"
+  },
+  {
+    "frequency": 1,
+    "route": "в/в",
+    "dosage": "10.0 мл",
+    "total": "10.0 мл",
+    "name": "Натрия хлорид",
+    "period": "1-1"
+  },
+  {
+    "frequency": 1,
+    "route": "в/в",
+    "dosage": "10.0 мл",
+    "total": "10.0 мл",
+    "name": "Изакардин",
+    "period": "1-1"
+  },
+  {
+    "frequency": 1,
+    "route": "внутрь",
+    "dosage": "80.0 мг",
+    "total": "80.0 мг",
+    "name": "Липримар",
+    "period": "1-1"
+  },
+  {
+    "frequency": 1,
+    "route": "внутрь",
+    "dosage": "50.0 мг",
+    "total": "50.0 мг",
+    "name": "Лозартан",
+    "period": "1-1"
+  },
+  {
+    "frequency": 1,
+    "route": "в/в",
+    "dosage": "1.0 мл",
+    "total": "1.0 мл",
+    "name": "Галоперидол-Рихтер",
+    "period": "1-1"
+  },
+  {
+    "frequency": 1,
+    "route": "п/к",
+    "dosage": "0.4 мл",
+    "total": "0.4 мл",
+    "name": "Клексан",
+    "period": "2-2"
+  },
+  {
+    "frequency": 1,
+    "route": "внутрь",
+    "dosage": "40.0 мг",
+    "total": "40.0 мг",
+    "name": "Липримар",
+    "period": "2-5"
+  },
+  {
+    "frequency": 1,
+    "route": "внутрь",
+    "dosage": "100.0 мг",
+    "total": "75.0 мг",
+    "name": "Коплавикс",
+    "period": "2-5"
+  },
+  {
+    "frequency": 4,
+    "route": "промыв катетера",
+    "dosage": "5.0 мл",
+    "total": "20.0 мл",
+    "name": "Натрия хлорид",
+    "period": "3-5"
+  },
+  {
+    "frequency": 0,
+    "route": "внутрь",
+    "dosage": "1000.0 мл",
+    "total": "500.0 мл",
+    "name": "Нутризон Эдванст Диазон смесь питания",
+    "period": "4-5"
+  },
+  {
+    "frequency": 2,
+    "route": "внутрь",
+    "dosage": "7.5 мг",
+    "total": "15.0 мг",
+    "name": "Бравадин",
+    "period": "4-5"
+  }
+]

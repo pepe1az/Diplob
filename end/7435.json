@@ -1,0 +1,127 @@
+[
+  {
+    "frequency": 2,
+    "route": "внутрь",
+    "dosage": "300.0 мг",
+    "total": "600.0 мг",
+    "name": "Плавикс",
+    "period": "1-1"
+  },
+  {
+    "frequency": 1,
+    "route": "внутрь",
+    "dosage": "5.0 мг",
+    "total": "5.0 мг",
+    "name": "Бипрол",
+    "period": "1-2"
+  },
+  {
+    "frequency": 1,
+    "route": "в/в",
+    "dosage": "10.0 мл",
+    "total": "10.0 мл",
+    "name": "Изокет",
+    "period": "1-1"
+  },
+  {
+    "frequency": 1,
+    "route": "в/в",
+    "dosage": "10.0 мл",
+    "total": "10.0 мл",
+    "name": "Натрия хлорид",
+    "period": "1-1"
+  },
+  {
+    "frequency": 1,
+    "route": "внутрь",
+    "dosage": "5.0 мг",
+    "total": "5.0 мг",
+    "name": "Лизиноприл",
+    "period": "1-4"
+  },
+  {
+    "frequency": 8,
+    "route": "промыв катетера",
+    "dosage": "25.0 мл",
+    "total": "200.0 мл",
+    "name": "Натрия хлорид",
+    "period": "1-4"
+  },
+  {
+    "frequency": 1,
+    "route": "внутрь",
+    "dosage": "40.0 мг",
+    "total": "40.0 мг",
+    "name": "Торвакард",
+    "period": "1-4"
+  },
+  {
+    "route": "п/к",
+    "total": "0.5 мл",
+    "concentration": "5 МГ/мл",
+    "name": "Арикстра",
+    "period": "1-4"
+  },
+  {
+    "frequency": 1,
+    "route": "внутрь",
+    "dosage": "300.0 мг",
+    "total": "300.0 мг",
+    "name": "Плавикс",
+    "period": "2-2"
+  },
+  {
+    "frequency": 1,
+    "route": "внутрь",
+    "dosage": "100.0 мг",
+    "total": "100.0 мг",
+    "name": "Ацекардол",
+    "period": "2-2"
+  },
+  {
+    "frequency": 2,
+    "route": "в/в",
+    "dosage": "250.0 мг",
+    "total": "500.0 мг",
+    "name": "Ангиокс",
+    "period": "2-2"
+  },
+  {
+    "frequency": 1,
+    "route": "внутрь",
+    "dosage": "100.0 мг",
+    "total": "75.0 мг",
+    "name": "Коплавикс",
+    "period": "3-4"
+  },
+  {
+    "route": "п/к",
+    "total": "20.0 ед",
+    "concentration": "100 ЕД/мл",
+    "name": "Левемир Пенфилл",
+    "period": "3-4"
+  },
+  {
+    "route": "п/к",
+    "total": "30.0 МЕ",
+    "concentration": "100 ЕД/мл",
+    "name": "НовоРапид Пенфилл Е",
+    "period": "3-4"
+  },
+  {
+    "frequency": 1,
+    "route": "внутрь",
+    "dosage": "5.0 мг",
+    "total": "5.0 мг",
+    "name": "Кораксан",
+    "period": "3-4"
+  },
+  {
+    "frequency": 1,
+    "route": "внутрь",
+    "dosage": "5.0 мг",
+    "total": "5.0 мг",
+    "name": "Тригрим",
+    "period": "3-4"
+  }
+]

@@ -1,0 +1,238 @@
+[
+  {
+    "frequency": 0,
+    "route": "местно",
+    "dosage": "120.0 мл",
+    "total": "60.0 мл",
+    "name": "Бетадин",
+    "period": "1-2"
+  },
+  {
+    "frequency": 1,
+    "route": "местно",
+    "dosage": "0 мл",
+    "total": "0 мл",
+    "name": "Катеджель с лидокаином",
+    "period": "1-1"
+  },
+  {
+    "route": "в/в капельно",
+    "total": "200.0 мл",
+    "concentration": "40 МГ/мл",
+    "name": "Натрия гидрокарбонат",
+    "period": "1-1"
+  },
+  {
+    "route": "в/в",
+    "total": "6.0 мл",
+    "concentration": "50 МГ/мл",
+    "name": "Кетонал",
+    "period": "1-1"
+  },
+  {
+    "frequency": 0,
+    "route": "в/в",
+    "dosage": "5.0 мл",
+    "total": "2.0 мл",
+    "name": "Допамин",
+    "period": "1-1"
+  },
+  {
+    "frequency": 0,
+    "route": "в/в",
+    "dosage": "5.0 мл",
+    "total": "2.0 мл",
+    "name": "Натрия хлорид",
+    "period": "1-1"
+  },
+  {
+    "route": "в/в",
+    "total": "2.0 дозсмеси",
+    "concentration": "2 МГ/мл",
+    "name": "Норадреналин",
+    "period": "1-1"
+  },
+  {
+    "route": "в/в",
+    "total": "2.0 дозсмеси",
+    "concentration": "2 МГ/мл",
+    "name": "Натрия хлорид",
+    "period": "1-1"
+  },
+  {
+    "frequency": 1,
+    "route": "ТБД",
+    "dosage": "500.0 мл",
+    "total": "500.0 мл",
+    "name": "Натрия хлорид",
+    "period": "1-1"
+  },
+  {
+    "route": "промыв катетера",
+    "total": "4.0 дозсмеси",
+    "concentration": "5000 ЕД/мл",
+    "name": "Гепарин",
+    "period": "1-1"
+  },
+  {
+    "route": "промыв катетера",
+    "total": "4.0 дозсмеси",
+    "concentration": "5000 ЕД/мл",
+    "name": "Натрия хлорид",
+    "period": "1-1"
+  },
+  {
+    "route": "в/в",
+    "total": "2.0 дозсмеси",
+    "concentration": "1 МГ/мл",
+    "name": "Натрия хлорид",
+    "period": "1-1"
+  },
+  {
+    "route": "в/в",
+    "total": "2.0 дозсмеси",
+    "concentration": "1 МГ/мл",
+    "name": "Адреналина гидрохлорид-Виал",
+    "period": "1-1"
+  },
+  {
+    "frequency": 2,
+    "route": "в/в",
+    "dosage": "200.0 мл",
+    "total": "400.0 мл",
+    "name": "Калия хлорид",
+    "period": "1-1"
+  },
+  {
+    "frequency": 0,
+    "route": "в/в капельно",
+    "dosage": "10.0 мл",
+    "total": "2.0 мл",
+    "name": "Изокет",
+    "period": "1-1"
+  },
+  {
+    "frequency": 0,
+    "route": "в/в капельно",
+    "dosage": "10.0 мл",
+    "total": "2.0 мл",
+    "name": "Натрия хлорид",
+    "period": "1-1"
+  },
+  {
+    "frequency": 2,
+    "route": "в/в",
+    "dosage": "20.0 мг",
+    "total": "40.0 мг",
+    "name": "Фамотидин с растворителем",
+    "period": "1-1"
+  },
+  {
+    "route": "в/в",
+    "total": "3.0 дозсмеси",
+    "concentration": "4 МГ/мл",
+    "name": "Дексаметазон - Виал",
+    "period": "1-1"
+  },
+  {
+    "route": "в/в",
+    "total": "3.0 дозсмеси",
+    "concentration": "4 МГ/мл",
+    "name": "Натрия хлорид",
+    "period": "1-1"
+  },
+  {
+    "frequency": 5,
+    "route": "в/в капельно",
+    "dosage": "500.0 мл",
+    "total": "2500.0 мл",
+    "name": "Рингера-ацетат",
+    "period": "1-1"
+  },
+  {
+    "frequency": 1,
+    "route": "в/в",
+    "dosage": "0 мл",
+    "total": "0 мл",
+    "name": "Цефазолин",
+    "period": "1-2"
+  },
+  {
+    "frequency": 2,
+    "route": "в/в капельно",
+    "dosage": "500.0 мл",
+    "total": "1000.0 мл",
+    "name": "Стерофундин изотонический",
+    "period": "1-1"
+  },
+  {
+    "route": "в/в",
+    "total": "35.0 мл",
+    "concentration": "10 МГ/мл",
+    "name": "Протамина сульфат",
+    "period": "1-1"
+  },
+  {
+    "route": "в/в",
+    "total": "4.0 мл",
+    "concentration": "50 МГ/мл",
+    "name": "Кетонал",
+    "period": "2-2"
+  },
+  {
+    "frequency": 2,
+    "route": "внутрь",
+    "dosage": "20.0 мг",
+    "total": "40.0 мг",
+    "name": "Омепразол",
+    "period": "2-2"
+  },
+  {
+    "frequency": 2,
+    "route": "внутрь",
+    "dosage": "90.0 мг",
+    "total": "180.0 мг",
+    "name": "Брилинта",
+    "period": "2-2"
+  },
+  {
+    "frequency": 1,
+    "route": "внутрь",
+    "dosage": "100.0 мг",
+    "total": "100.0 мг",
+    "name": "Ацекардол",
+    "period": "2-2"
+  },
+  {
+    "frequency": 2,
+    "route": "внутрь",
+    "dosage": "20.0 мг",
+    "total": "40.0 мг",
+    "name": "Аторвастатин-К",
+    "period": "2-2"
+  },
+  {
+    "frequency": 0,
+    "route": "п/к",
+    "dosage": "2.0 мл",
+    "total": "0.2 мл",
+    "name": "Эниксум нти-Ха",
+    "period": "2-2"
+  },
+  {
+    "frequency": 1,
+    "route": "внутрь",
+    "dosage": "5.0 мг",
+    "total": "5.0 мг",
+    "name": "Бисопролол",
+    "period": "2-2"
+  },
+  {
+    "frequency": 1,
+    "route": "внутрь",
+    "dosage": "5.0 мг",
+    "total": "5.0 мг",
+    "name": "Лизиноприл",
+    "period": "2-2"
+  }
+]

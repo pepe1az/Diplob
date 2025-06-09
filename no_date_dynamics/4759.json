@@ -1,0 +1,35 @@
+{
+    "treatment": {
+        "day_1": {
+            "Sol. Trankvezipami l": {
+                "frequency": 1,
+                "route": "в/м",
+                "dosage": "0 мл",
+                "total": "1.0 мл"
+            },
+            "Актрапид НМ Е": {
+                "route": "п/к",
+                "total": "0.0 МЕ",
+                "concentration": "100 МЕ/мл"
+            },
+            "Аторис": {
+                "frequency": 1,
+                "route": "нет",
+                "dosage": "40.0 мг",
+                "total": "40.0 мг"
+            },
+            "Плавикс": {
+                "frequency": 1,
+                "route": "нет",
+                "dosage": "300.0 мг",
+                "total": "300.0 мг"
+            },
+            "Тромбо АСС": {
+                "frequency": 1,
+                "route": "нет",
+                "dosage": "100.0 мг",
+                "total": "100.0 мг"
+            }
+        }
+    }
+}

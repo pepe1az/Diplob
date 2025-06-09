@@ -1,0 +1,459 @@
+[
+  {
+    "frequency": 1,
+    "route": "внутрь",
+    "dosage": "300.0 мг",
+    "total": "300.0 мг",
+    "name": "Плавикс",
+    "period": "1-1"
+  },
+  {
+    "frequency": 1,
+    "route": "п/к",
+    "dosage": "0.8 мл",
+    "total": "0.8 мл",
+    "name": "Клексан",
+    "period": "1-1"
+  },
+  {
+    "frequency": 1,
+    "route": "внутрь",
+    "dosage": "5.0 мг",
+    "total": "5.0 мг",
+    "name": "Бисопролол - Прана",
+    "period": "1-2"
+  },
+  {
+    "frequency": 1,
+    "route": "внутрь",
+    "dosage": "5.0 мг",
+    "total": "5.0 мг",
+    "name": "Бисопролол - Прана",
+    "period": "7-9"
+  },
+  {
+    "frequency": 1,
+    "route": "внутрь",
+    "dosage": "5.0 мг",
+    "total": "5.0 мг",
+    "name": "Лизиноприл Органика",
+    "period": "1-2"
+  },
+  {
+    "frequency": 1,
+    "route": "внутрь",
+    "dosage": "5.0 мг",
+    "total": "5.0 мг",
+    "name": "Лизиноприл Органика",
+    "period": "8-9"
+  },
+  {
+    "frequency": 1,
+    "route": "внутрь",
+    "dosage": "80.0 мг",
+    "total": "80.0 мг",
+    "name": "Липримар",
+    "period": "1-1"
+  },
+  {
+    "frequency": 3,
+    "route": "в/в",
+    "dosage": "10.0 мл",
+    "total": "30.0 мл",
+    "name": "Натрия хлорид",
+    "period": "1-1"
+  },
+  {
+    "frequency": 3,
+    "route": "в/в",
+    "dosage": "10.0 мл",
+    "total": "30.0 мл",
+    "name": "Изакардин",
+    "period": "1-1"
+  },
+  {
+    "frequency": 2,
+    "route": "промыв катетера",
+    "dosage": "25.0 мл",
+    "total": "50.0 мл",
+    "name": "Натрия хлорид",
+    "period": "1-9"
+  },
+  {
+    "frequency": 1,
+    "route": "в/в капельно",
+    "dosage": "500.0 мл",
+    "total": "500.0 мл",
+    "name": "Калия и магния аспарагинат",
+    "period": "1-1"
+  },
+  {
+    "frequency": 2,
+    "route": "п/к",
+    "dosage": "0.8 мл",
+    "total": "1.6 мл",
+    "name": "Клексан",
+    "period": "2-2"
+  },
+  {
+    "frequency": 2,
+    "route": "п/к",
+    "dosage": "0.8 мл",
+    "total": "1.6 мл",
+    "name": "Клексан",
+    "period": "5-9"
+  },
+  {
+    "frequency": 2,
+    "route": "внутрь",
+    "dosage": "20.0 мг",
+    "total": "40.0 мг",
+    "name": "Липримар",
+    "period": "2-2"
+  },
+  {
+    "frequency": 1,
+    "route": "внутрь",
+    "dosage": "100.0 мг",
+    "total": "75.0 мг",
+    "name": "Коплавикс",
+    "period": "2-2"
+  },
+  {
+    "frequency": 1,
+    "route": "в/м",
+    "dosage": "0 мл",
+    "total": "2.0 мл",
+    "name": "Sol. Tramadoli l",
+    "period": "2-2"
+  },
+  {
+    "frequency": 2,
+    "route": "внутрь",
+    "dosage": "2.5 мг",
+    "total": "5.0 мг",
+    "name": "Варфарин Никомед",
+    "period": "2-2"
+  },
+  {
+    "route": "в/в капельно",
+    "total": "600.0 мг",
+    "concentration": "50 МГ/мл",
+    "name": "Кордарон",
+    "period": "3-3"
+  },
+  {
+    "frequency": 4,
+    "route": "в/в",
+    "dosage": "5.0 мл",
+    "total": "20.0 мл",
+    "name": "Адреналин",
+    "period": "3-3"
+  },
+  {
+    "frequency": 4,
+    "route": "в/в",
+    "dosage": "5.0 мл",
+    "total": "20.0 мл",
+    "name": "Натрия хлорид",
+    "period": "3-3"
+  },
+  {
+    "frequency": 5,
+    "route": "в/в",
+    "dosage": "50.0 мл",
+    "total": "250.0 мл",
+    "name": "Калия хлорида",
+    "period": "3-3"
+  },
+  {
+    "frequency": 1,
+    "route": "в/в",
+    "dosage": "200.0 мл",
+    "total": "200.0 мл",
+    "name": "Натрия гидрокарбонат",
+    "period": "3-3"
+  },
+  {
+    "route": "в/в",
+    "total": "100.0 мл",
+    "concentration": "75 МГ/мл",
+    "name": "Интегрилин",
+    "period": "3-3"
+  },
+  {
+    "frequency": 1,
+    "route": "в/в капельно",
+    "dosage": "5.0 мл",
+    "total": "5.0 мл",
+    "name": "Тракриум",
+    "period": "3-3"
+  },
+  {
+    "route": "в/в капельно",
+    "total": "4.0 мл",
+    "concentration": "2 МГ/мл",
+    "name": "Натрия хлорид",
+    "period": "3-5"
+  },
+  {
+    "route": "в/в капельно",
+    "total": "4.0 мл",
+    "concentration": "2 МГ/мл",
+    "name": "Норадреналин",
+    "period": "3-5"
+  },
+  {
+    "frequency": 2,
+    "route": "в/в капельно",
+    "dosage": "500.0 мл",
+    "total": "1000.0 мл",
+    "name": "Рингера-ацетат",
+    "period": "3-3"
+  },
+  {
+    "frequency": 1,
+    "route": "в/в капельно",
+    "dosage": "50.0 мл",
+    "total": "50.0 мл",
+    "name": "Натрия хлорид",
+    "period": "3-3"
+  },
+  {
+    "frequency": 1,
+    "route": "в/в капельно",
+    "dosage": "50.0 мл",
+    "total": "50.0 мл",
+    "name": "Солу-медрол",
+    "period": "3-3"
+  },
+  {
+    "frequency": 2,
+    "route": "в/в капельно",
+    "dosage": "20.0 мл",
+    "total": "40.0 мл",
+    "name": "Натрия хлорид",
+    "period": "3-6"
+  },
+  {
+    "frequency": 2,
+    "route": "в/в капельно",
+    "dosage": "20.0 мл",
+    "total": "40.0 мл",
+    "name": "Омез для инфузий",
+    "period": "3-6"
+  },
+  {
+    "frequency": 2,
+    "route": "внутрь",
+    "dosage": "90.0 мг",
+    "total": "180.0 мг",
+    "name": "Брилинта",
+    "period": "3-9"
+  },
+  {
+    "frequency": 3,
+    "route": "в/в",
+    "dosage": "5.0 мл",
+    "total": "15.0 мл",
+    "name": "Адреналин",
+    "period": "4-4"
+  },
+  {
+    "frequency": 3,
+    "route": "в/в",
+    "dosage": "5.0 мл",
+    "total": "15.0 мл",
+    "name": "Натрия хлорид",
+    "period": "4-4"
+  },
+  {
+    "frequency": 3,
+    "route": "в/в капельно",
+    "dosage": "500.0 мл",
+    "total": "1500.0 мл",
+    "name": "Рингера-ацетат",
+    "period": "4-6"
+  },
+  {
+    "route": "в/в",
+    "total": "38.0 мл",
+    "concentration": "50 МГ/мл",
+    "name": "Кордарон",
+    "period": "4-7"
+  },
+  {
+    "route": "в/в",
+    "total": "38.0 мл",
+    "concentration": "50 МГ/мл",
+    "name": "Глюкоза",
+    "period": "4-7"
+  },
+  {
+    "frequency": 1,
+    "route": "внутрь",
+    "dosage": "100.0 мг",
+    "total": "100.0 мг",
+    "name": "Ацекардол",
+    "period": "4-9"
+  },
+  {
+    "route": "в/в",
+    "total": "300.0 мл",
+    "concentration": "10 МГ/мл",
+    "name": "Провайв",
+    "period": "4-4"
+  },
+  {
+    "frequency": 3,
+    "route": "в/в",
+    "dosage": "50.0 мл",
+    "total": "150.0 мл",
+    "name": "Калия хлорида",
+    "period": "4-4"
+  },
+  {
+    "frequency": 1,
+    "route": "п/к",
+    "dosage": "0.4 мл",
+    "total": "0.4 мл",
+    "name": "Клексан",
+    "period": "4-4"
+  },
+  {
+    "frequency": 1,
+    "route": "в/в",
+    "dosage": "0 мл",
+    "total": "0 мл",
+    "name": "Сульцеф",
+    "period": "5-9"
+  },
+  {
+    "frequency": 3,
+    "route": "в/в",
+    "dosage": "2.0 мл",
+    "total": "6.0 мл",
+    "name": "Метоклопрамид",
+    "period": "5-7"
+  },
+  {
+    "frequency": 2,
+    "route": "в/в",
+    "dosage": "5.0 мл",
+    "total": "10.0 мл",
+    "name": "Тракриум",
+    "period": "5-5"
+  },
+  {
+    "frequency": 2,
+    "route": "в/в",
+    "dosage": "1000.0 мг",
+    "total": "2000.0 мг",
+    "name": "Цераксон",
+    "period": "5-7"
+  },
+  {
+    "frequency": 2,
+    "route": "в/в",
+    "dosage": "1000.0 мг",
+    "total": "2000.0 мг",
+    "name": "Натрия хлорид",
+    "period": "5-7"
+  },
+  {
+    "frequency": 3,
+    "route": "в/в",
+    "dosage": "40.0 мл",
+    "total": "120.0 мл",
+    "name": "Калия хлорида",
+    "period": "5-5"
+  },
+  {
+    "frequency": 3,
+    "route": "в/в",
+    "dosage": "40.0 мл",
+    "total": "120.0 мл",
+    "name": "Магния сульфат",
+    "period": "5-5"
+  },
+  {
+    "frequency": 2,
+    "route": "в/в",
+    "dosage": "40.0 мл",
+    "total": "80.0 мл",
+    "name": "Калия хлорида",
+    "period": "6-6"
+  },
+  {
+    "frequency": 2,
+    "route": "в/в",
+    "dosage": "40.0 мл",
+    "total": "80.0 мл",
+    "name": "Магния сульфат",
+    "period": "6-6"
+  },
+  {
+    "frequency": 1,
+    "route": "внутрь",
+    "dosage": "10.0 мг",
+    "total": "10.0 мг",
+    "name": "Лизиноприл Органика",
+    "period": "6-7"
+  },
+  {
+    "frequency": 3,
+    "route": "в/в",
+    "dosage": "45.0 мл",
+    "total": "135.0 мл",
+    "name": "Калия хлорида",
+    "period": "7-9"
+  },
+  {
+    "frequency": 3,
+    "route": "в/в",
+    "dosage": "45.0 мл",
+    "total": "135.0 мл",
+    "name": "Магния сульфат",
+    "period": "7-9"
+  },
+  {
+    "frequency": 2,
+    "route": "внутрь",
+    "dosage": "20.0 мг",
+    "total": "40.0 мг",
+    "name": "Омепразол",
+    "period": "7-9"
+  },
+  {
+    "frequency": 0,
+    "route": "внутрь",
+    "dosage": "80.0 мг",
+    "total": "40.0 мг",
+    "name": "Липримар",
+    "period": "7-9"
+  },
+  {
+    "frequency": 3,
+    "route": "внутрь",
+    "dosage": "200.0 мг",
+    "total": "600.0 мг",
+    "name": "Кордарон",
+    "period": "8-9"
+  },
+  {
+    "frequency": 2,
+    "route": "внутрь",
+    "dosage": "25.0 мг",
+    "total": "50.0 мг",
+    "name": "Инспра",
+    "period": "8-9"
+  },
+  {
+    "frequency": 1,
+    "route": "внутрь",
+    "dosage": "5.0 мг",
+    "total": "5.0 мг",
+    "name": "Тригрим",
+    "period": "8-9"
+  }
+]

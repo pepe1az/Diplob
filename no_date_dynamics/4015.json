@@ -1,0 +1,18 @@
+{
+    "treatment": {
+        "day_1": {
+            "Sol. Tramadoli l": {
+                "frequency": 1,
+                "route": "в/м",
+                "dosage": "0 мл",
+                "total": "0.0 мл"
+            },
+            "Феназепам": {
+                "frequency": 1,
+                "route": "внутрь",
+                "dosage": "1.0 мг",
+                "total": "1.0 мг"
+            }
+        }
+    }
+}

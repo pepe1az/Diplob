@@ -1,0 +1,266 @@
+[
+  {
+    "frequency": 1,
+    "route": "в/в капельно",
+    "dosage": "250.0 мл",
+    "total": "250.0 мл",
+    "name": "Калия и магния аспарагинат",
+    "period": "1-1"
+  },
+  {
+    "frequency": 2,
+    "route": "внутрь",
+    "dosage": "20.0 мг",
+    "total": "40.0 мг",
+    "name": "Омепразол",
+    "period": "1-4"
+  },
+  {
+    "route": "п/к",
+    "total": "1.6 мл",
+    "concentration": "0 МЕ/мл",
+    "name": "Эниксум",
+    "period": "1-3"
+  },
+  {
+    "frequency": 0,
+    "route": "в/в капельно",
+    "dosage": "200.0 мл",
+    "total": "20.0 мл",
+    "name": "Калия хлорид",
+    "period": "1-1"
+  },
+  {
+    "frequency": 1,
+    "route": "в/м",
+    "dosage": "1.0 мл",
+    "total": "1.0 мл",
+    "name": "Элзепам",
+    "period": "1-1"
+  },
+  {
+    "frequency": 1,
+    "route": "в/в капельно",
+    "dosage": "10.0 мл",
+    "total": "10.0 мл",
+    "name": "Изакардин",
+    "period": "1-1"
+  },
+  {
+    "frequency": 0,
+    "route": "внутрь",
+    "dosage": "25.0 мг",
+    "total": "0.0 мг",
+    "name": "Эгилок",
+    "period": "1-1"
+  },
+  {
+    "route": "п/к",
+    "total": "4.0 мл",
+    "concentration": "100 ЕД/мл",
+    "name": "НовоРапид Пенфилл",
+    "period": "1-1"
+  },
+  {
+    "frequency": 0,
+    "route": "внутрь",
+    "dosage": "20.0 мг",
+    "total": "0.0 мг",
+    "name": "Симвастатин",
+    "period": "1-1"
+  },
+  {
+    "frequency": 1,
+    "route": "внутрь",
+    "dosage": "100.0 мг",
+    "total": "75.0 мг",
+    "name": "Коплавикс",
+    "period": "1-1"
+  },
+  {
+    "frequency": 1,
+    "route": "в/в капельно",
+    "dosage": "250.0 мл",
+    "total": "250.0 мл",
+    "name": "Глюкоза",
+    "period": "1-1"
+  },
+  {
+    "frequency": 0,
+    "route": "в/м",
+    "dosage": "5.0 мл",
+    "total": "2.0 мл",
+    "name": "Дроперидол",
+    "period": "1-1"
+  },
+  {
+    "frequency": 3,
+    "route": "в/в капельно",
+    "dosage": "3.0 мл",
+    "total": "9.0 мл",
+    "name": "Веро-Амиодарон",
+    "period": "1-1"
+  },
+  {
+    "frequency": 1,
+    "route": "внутрь",
+    "dosage": "100.0 мг",
+    "total": "100.0 мг",
+    "name": "Ацекардол",
+    "period": "2-4"
+  },
+  {
+    "frequency": 3,
+    "route": "внутрь",
+    "dosage": "90.0 мг",
+    "total": "270.0 мг",
+    "name": "Брилинта",
+    "period": "2-2"
+  },
+  {
+    "route": "в/в",
+    "total": "1.0 дозсмеси",
+    "concentration": "2 МГ/мл",
+    "name": "Натрия хлорид",
+    "period": "2-3"
+  },
+  {
+    "route": "в/в",
+    "total": "1.0 дозсмеси",
+    "concentration": "2 МГ/мл",
+    "name": "Норадреналин",
+    "period": "2-3"
+  },
+  {
+    "frequency": 0,
+    "route": "в/в",
+    "dosage": "38.0 мл",
+    "total": "1.0 мл",
+    "name": "Глюкоза",
+    "period": "2-2"
+  },
+  {
+    "frequency": 0,
+    "route": "в/в",
+    "dosage": "38.0 мл",
+    "total": "1.0 мл",
+    "name": "Веро-Амиодарон",
+    "period": "2-2"
+  },
+  {
+    "frequency": 2,
+    "route": "в/в",
+    "dosage": "2.0 мл",
+    "total": "4.0 мл",
+    "name": "Метоклопрамид",
+    "period": "2-2"
+  },
+  {
+    "frequency": 1,
+    "route": "в/в",
+    "dosage": "2.0 мл",
+    "total": "2.0 мл",
+    "name": "Фуросемид",
+    "period": "2-2"
+  },
+  {
+    "frequency": 1,
+    "route": "в/в",
+    "dosage": "0 мл",
+    "total": "0 мл",
+    "name": "Амоксиклав",
+    "period": "2-4"
+  },
+  {
+    "frequency": 2,
+    "route": "внутрь",
+    "dosage": "90.0 мг",
+    "total": "180.0 мг",
+    "name": "Брилинта",
+    "period": "3-4"
+  },
+  {
+    "frequency": 1,
+    "route": "внутрь",
+    "dosage": "10.0 мг",
+    "total": "10.0 мг",
+    "name": "Торасемид-СЗ",
+    "period": "3-4"
+  },
+  {
+    "frequency": 3,
+    "route": "внутрь",
+    "dosage": "200.0 мг",
+    "total": "600.0 мг",
+    "name": "Амиодарон",
+    "period": "3-4"
+  },
+  {
+    "route": "п/к",
+    "total": "0.8 мл",
+    "concentration": "0 МЕ/мл",
+    "name": "Эниксум",
+    "period": "4-4"
+  },
+  {
+    "route": "в/в",
+    "total": "3.0 дозсмеси",
+    "concentration": "2 МГ/мл",
+    "name": "Натрия хлорид",
+    "period": "4-4"
+  },
+  {
+    "route": "в/в",
+    "total": "3.0 дозсмеси",
+    "concentration": "2 МГ/мл",
+    "name": "Норадреналин",
+    "period": "4-4"
+  },
+  {
+    "frequency": 2,
+    "route": "в/в капельно",
+    "dosage": "3.0 мл",
+    "total": "6.0 мл",
+    "name": "Веро-Амиодарон",
+    "period": "4-4"
+  },
+  {
+    "frequency": 0,
+    "route": "в/в",
+    "dosage": "5.0 мл",
+    "total": "2.0 мл",
+    "name": "Адреналин",
+    "period": "4-4"
+  },
+  {
+    "frequency": 0,
+    "route": "в/в",
+    "dosage": "5.0 мл",
+    "total": "2.0 мл",
+    "name": "Натрия хлорид",
+    "period": "4-4"
+  },
+  {
+    "route": "в/в капельно",
+    "total": "200.0 мл",
+    "concentration": "40 МГ/мл",
+    "name": "Натрия гидрокарбонат",
+    "period": "4-4"
+  },
+  {
+    "frequency": 15,
+    "route": "в/м",
+    "dosage": "1.0 мл",
+    "total": "15.0 мл",
+    "name": "Адреналин",
+    "period": "4-4"
+  },
+  {
+    "frequency": 4,
+    "route": "в/в",
+    "dosage": "2.0 мл",
+    "total": "8.0 мл",
+    "name": "Лидокаин",
+    "period": "4-4"
+  }
+]

@@ -1,0 +1,177 @@
+[
+  {
+    "frequency": 0,
+    "route": "в/в капельно",
+    "dosage": "200.0 мл",
+    "total": "80.0 мл",
+    "name": "Калия хлорид",
+    "period": "1-2"
+  },
+  {
+    "frequency": 2,
+    "route": "в/в капельно",
+    "dosage": "5.0 мл",
+    "total": "10.0 мл",
+    "name": "Магния сульфат",
+    "period": "1-1"
+  },
+  {
+    "frequency": 2,
+    "route": "в/в капельно",
+    "dosage": "500.0 мл",
+    "total": "1000.0 мл",
+    "name": "Натрия хлорид",
+    "period": "1-1"
+  },
+  {
+    "frequency": 1,
+    "route": "п/к",
+    "dosage": "0.8 мл",
+    "total": "0.8 мл",
+    "name": "Клексан",
+    "period": "1-5"
+  },
+  {
+    "frequency": 1,
+    "route": "в/в капельно",
+    "dosage": "10.0 мл",
+    "total": "10.0 мл",
+    "name": "Изокет",
+    "period": "1-1"
+  },
+  {
+    "frequency": 1,
+    "route": "в/м",
+    "dosage": "0 мл",
+    "total": "2.0 мл",
+    "name": "Sol. Sibasoni l",
+    "period": "1-1"
+  },
+  {
+    "frequency": 1,
+    "route": "в/м",
+    "dosage": "0 мл",
+    "total": "2.0 мл",
+    "name": "Sol. Sibasoni l",
+    "period": "4-5"
+  },
+  {
+    "frequency": 0,
+    "route": "внутрь",
+    "dosage": "10.0 мг",
+    "total": "5.0 мг",
+    "name": "Амприлан",
+    "period": "1-1"
+  },
+  {
+    "frequency": 1,
+    "route": "в/м",
+    "dosage": "0 мл",
+    "total": "2.0 мл",
+    "name": "Sol. Tramadoli l",
+    "period": "1-1"
+  },
+  {
+    "frequency": 0,
+    "route": "в/в",
+    "dosage": "5.0 мл",
+    "total": "1.0 мл",
+    "name": "Дроперидол",
+    "period": "1-1"
+  },
+  {
+    "frequency": 2,
+    "route": "в/в",
+    "dosage": "20.0 мг",
+    "total": "40.0 мг",
+    "name": "Квамател",
+    "period": "2-5"
+  },
+  {
+    "frequency": 1,
+    "route": "в/в",
+    "dosage": "0 мл",
+    "total": "0 мл",
+    "name": "Сульцеф",
+    "period": "2-5"
+  },
+  {
+    "frequency": 2,
+    "route": "в/в капельно",
+    "dosage": "1000.0 мл",
+    "total": "2000.0 мл",
+    "name": "Плазма-Лит одный раствор",
+    "period": "2-3"
+  },
+  {
+    "frequency": 1,
+    "route": "в/в",
+    "dosage": "0 мл",
+    "total": "2.0 мл",
+    "name": "Sol. Sibasoni l",
+    "period": "2-2"
+  },
+  {
+    "frequency": 1,
+    "route": "п/к",
+    "dosage": "0 мл",
+    "total": "2.0 мл",
+    "name": "Sol. Tramadoli l",
+    "period": "2-2"
+  },
+  {
+    "route": "в/в",
+    "total": "4.0 мл",
+    "concentration": "4 МГ/мл",
+    "name": "Дексамед",
+    "period": "2-2"
+  },
+  {
+    "frequency": 0,
+    "route": "в/в капельно",
+    "dosage": "200.0 мл",
+    "total": "60.0 мл",
+    "name": "Калия хлорид",
+    "period": "3-3"
+  },
+  {
+    "frequency": 1,
+    "route": "в/в",
+    "dosage": "0 мл",
+    "total": "0.0 мл",
+    "name": "Sol. Sibasoni l",
+    "period": "3-3"
+  },
+  {
+    "frequency": 1,
+    "route": "п/к",
+    "dosage": "0 мл",
+    "total": "6.0 мл",
+    "name": "Sol. Tramadoli l",
+    "period": "3-5"
+  },
+  {
+    "frequency": 1,
+    "route": "в/в",
+    "dosage": "400.0 мл",
+    "total": "240.0 мл",
+    "name": "Калия хлорид",
+    "period": "4-5"
+  },
+  {
+    "frequency": 3,
+    "route": "в/м",
+    "dosage": "10.0 мл",
+    "total": "30.0 мл",
+    "name": "Магния сульфат",
+    "period": "4-5"
+  },
+  {
+    "frequency": 8,
+    "route": "в/в капельно",
+    "dosage": "400.0 мл",
+    "total": "3200.0 мл",
+    "name": "Натрия хлорид",
+    "period": "4-5"
+  }
+]

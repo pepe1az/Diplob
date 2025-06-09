@@ -1,0 +1,129 @@
+[
+  {
+    "frequency": 1,
+    "route": "нет",
+    "dosage": "100.0 мг",
+    "total": "100.0 мг",
+    "name": "Тромбо АСС",
+    "period": "1-7"
+  },
+  {
+    "frequency": 2,
+    "route": "нет",
+    "dosage": "90.0 мг",
+    "total": "180.0 мг",
+    "name": "Брилинта",
+    "period": "1-1"
+  },
+  {
+    "frequency": 1,
+    "route": "нет",
+    "dosage": "90.0 мг",
+    "total": "90.0 мг",
+    "name": "Брилинта",
+    "period": "2-7"
+  },
+  {
+    "frequency": 1,
+    "route": "нет",
+    "dosage": "5.0 мл",
+    "total": "4.0 мл",
+    "name": "Допамин",
+    "period": "3-4"
+  },
+  {
+    "frequency": 0,
+    "route": "нет",
+    "dosage": "500.0 мл",
+    "total": "100.0 мл",
+    "name": "Стерофундин изотонический",
+    "period": "3-3"
+  },
+  {
+    "frequency": 0,
+    "route": "нет",
+    "dosage": "500.0 мл",
+    "total": "50.0 мл",
+    "name": "Стерофундин изотонический",
+    "period": "4-4"
+  },
+  {
+    "route": "не указан",
+    "total": "5.0 мл",
+    "concentration": "50 МГ/мл",
+    "name": "Амиодарон",
+    "period": "4-4"
+  },
+  {
+    "frequency": 1,
+    "route": "нет",
+    "dosage": "400.0 мг",
+    "total": "400.0 мг",
+    "name": "Гептрал",
+    "period": "4-7"
+  },
+  {
+    "frequency": 1,
+    "route": "нет",
+    "dosage": "200.0 мг",
+    "total": "200.0 мг",
+    "name": "Амиодарон",
+    "period": "5-7"
+  },
+  {
+    "frequency": 1,
+    "route": "нет",
+    "dosage": "500.0 мл",
+    "total": "500.0 мл",
+    "name": "Стерофундин изотонический",
+    "period": "5-5"
+  },
+  {
+    "frequency": 2,
+    "route": "внутрь",
+    "dosage": "90.0 мг",
+    "total": "180.0 мг",
+    "name": "Брилинта",
+    "period": "8-9"
+  },
+  {
+    "frequency": 1,
+    "route": "внутрь",
+    "dosage": "100.0 мг",
+    "total": "100.0 мг",
+    "name": "Ацекардол",
+    "period": "8-9"
+  },
+  {
+    "frequency": 1,
+    "route": "внутрь",
+    "dosage": "200.0 мг",
+    "total": "200.0 мг",
+    "name": "Амиодарон",
+    "period": "8-9"
+  },
+  {
+    "frequency": 1,
+    "route": "п/к",
+    "dosage": "0.4 мл",
+    "total": "0.4 мл",
+    "name": "Клексан нти-Ха",
+    "period": "8-9"
+  },
+  {
+    "frequency": 5,
+    "route": "внутрь",
+    "dosage": "100.0 мл",
+    "total": "500.0 мл",
+    "name": "Суппортан",
+    "period": "8-9"
+  },
+  {
+    "frequency": 9,
+    "route": "внутрь",
+    "dosage": "200.0 мл",
+    "total": "1800.0 мл",
+    "name": "вода питьевая",
+    "period": "9-9"
+  }
+]

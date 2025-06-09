@@ -1,0 +1,119 @@
+[
+  {
+    "route": "п/к",
+    "total": "0.0 ЕД",
+    "concentration": "100 МЕ/мл",
+    "name": "Актрапид НМ",
+    "period": "1-2"
+  },
+  {
+    "frequency": 3,
+    "route": "внутрь",
+    "dosage": "100.0 мг",
+    "total": "300.0 мг",
+    "name": "Ацекардол",
+    "period": "1-1"
+  },
+  {
+    "frequency": 1,
+    "route": "внутрь",
+    "dosage": "20.0 мг",
+    "total": "20.0 мг",
+    "name": "Аторвастатин",
+    "period": "1-2"
+  },
+  {
+    "frequency": 1,
+    "route": "внутрь",
+    "dosage": "20.0 мг",
+    "total": "20.0 мг",
+    "name": "Омепразол",
+    "period": "1-2"
+  },
+  {
+    "frequency": 1,
+    "route": "в/в капельно",
+    "dosage": "10.0 мл",
+    "total": "10.0 мл",
+    "name": "Цитофлавин",
+    "period": "1-1"
+  },
+  {
+    "frequency": 1,
+    "route": "в/в капельно",
+    "dosage": "250.0 мл",
+    "total": "250.0 мл",
+    "name": "Натрия хлорид",
+    "period": "1-1"
+  },
+  {
+    "frequency": 1,
+    "route": "в/в капельно",
+    "dosage": "250.0 мл",
+    "total": "250.0 мл",
+    "name": "Калия и магния аспарагинат",
+    "period": "1-1"
+  },
+  {
+    "route": "в/в капельно",
+    "total": "30.0 мл",
+    "concentration": "40 МГ/мл",
+    "name": "Калия хлорид",
+    "period": "1-1"
+  },
+  {
+    "frequency": 1,
+    "route": "внутрь",
+    "dosage": "0 мл",
+    "total": "0 мл",
+    "name": "L-тироксин кг",
+    "period": "1-2"
+  },
+  {
+    "frequency": 1,
+    "route": "внутрь",
+    "dosage": "50.0 мг",
+    "total": "50.0 мг",
+    "name": "Лозартан",
+    "period": "1-1"
+  },
+  {
+    "frequency": 3,
+    "route": "внутрь",
+    "dosage": "100.0 мг",
+    "total": "325.0 мг",
+    "name": "Ацекардол",
+    "period": "2-2"
+  },
+  {
+    "frequency": 2,
+    "route": "в/в капельно",
+    "dosage": "10.0 мл",
+    "total": "20.0 мл",
+    "name": "Цитофлавин",
+    "period": "2-2"
+  },
+  {
+    "frequency": 3,
+    "route": "в/в капельно",
+    "dosage": "250.0 мл",
+    "total": "750.0 мл",
+    "name": "Натрия хлорид",
+    "period": "2-2"
+  },
+  {
+    "route": "в/в капельно",
+    "total": "50.0 мл",
+    "concentration": "40 МГ/мл",
+    "name": "Калия хлорид",
+    "period": "2-2"
+  },
+  {
+    "frequency": 0,
+    "route": "внутрь",
+    "dosage": "50.0 мг",
+    "total": "0.0 мг",
+    "name": "Лозартан",
+    "period": "2-2"
+  }
+]

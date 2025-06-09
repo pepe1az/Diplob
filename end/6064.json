@@ -1,0 +1,66 @@
+[
+  {
+    "frequency": 1,
+    "route": "нет",
+    "dosage": "300.0 мг",
+    "total": "300.0 мг",
+    "name": "Плавикс",
+    "period": "1-1"
+  },
+  {
+    "frequency": 1,
+    "route": "нет",
+    "dosage": "100.0 мг",
+    "total": "100.0 мг",
+    "name": "Тромбо АСС",
+    "period": "1-1"
+  },
+  {
+    "frequency": 1,
+    "route": "нет",
+    "dosage": "100.0 мг",
+    "total": "100.0 мг",
+    "name": "Кетопрофен форте",
+    "period": "1-1"
+  },
+  {
+    "frequency": 1,
+    "route": "нет",
+    "dosage": "20.0 мг",
+    "total": "20.0 мг",
+    "name": "Фамотидин с растворителем",
+    "period": "1-1"
+  },
+  {
+    "frequency": 8,
+    "route": "нет",
+    "dosage": "0.5 мг",
+    "total": "4.0 мг",
+    "name": "Дексаметазон",
+    "period": "1-1"
+  },
+  {
+    "frequency": 1,
+    "route": "нет",
+    "dosage": "5.0 мг",
+    "total": "5.0 мг",
+    "name": "Бисопролол",
+    "period": "1-1"
+  },
+  {
+    "frequency": 1,
+    "route": "нет",
+    "dosage": "20.0 мг",
+    "total": "20.0 мг",
+    "name": "Омез",
+    "period": "1-1"
+  },
+  {
+    "frequency": 1,
+    "route": "нет",
+    "dosage": "90.0 мг",
+    "total": "90.0 мг",
+    "name": "Брилинта",
+    "period": "1-1"
+  }
+]

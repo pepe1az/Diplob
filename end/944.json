@@ -1,0 +1,90 @@
+[
+  {
+    "frequency": 0,
+    "route": "в/в капельно",
+    "dosage": "400.0 мл",
+    "total": "75.0 мл",
+    "name": "Калия хлорид",
+    "period": "1-2"
+  },
+  {
+    "frequency": 3,
+    "route": "в/в капельно",
+    "dosage": "5.0 мл",
+    "total": "15.0 мл",
+    "name": "Магния сульфат",
+    "period": "1-2"
+  },
+  {
+    "frequency": 2,
+    "route": "в/в",
+    "dosage": "250.0 мл",
+    "total": "500.0 мл",
+    "name": "Натрия хлорид",
+    "period": "1-2"
+  },
+  {
+    "frequency": 2,
+    "route": "в/м",
+    "dosage": "3.0 мл",
+    "total": "6.0 мл",
+    "name": "Диклофенак",
+    "period": "1-1"
+  },
+  {
+    "frequency": 0,
+    "route": "в/в капельно",
+    "dosage": "1000.0 мг",
+    "total": "4.0 мг",
+    "name": "Цераксон",
+    "period": "1-2"
+  },
+  {
+    "frequency": 1,
+    "route": "в/в",
+    "dosage": "0 мл",
+    "total": "2.0 мл",
+    "name": "Sol. Sibasoni l",
+    "period": "1-1"
+  },
+  {
+    "frequency": 1,
+    "route": "в/в",
+    "dosage": "4.0 мг",
+    "total": "4.0 мг",
+    "name": "Сермион",
+    "period": "1-2"
+  },
+  {
+    "frequency": 1,
+    "route": "в/в",
+    "dosage": "0 мл",
+    "total": "0 мл",
+    "name": "Нацеф растворитель",
+    "period": "1-2"
+  },
+  {
+    "frequency": 1,
+    "route": "в/м",
+    "dosage": "2.0 мл",
+    "total": "2.0 мл",
+    "name": "Метоклопрамид",
+    "period": "1-1"
+  },
+  {
+    "frequency": 4,
+    "route": "в/м",
+    "dosage": "3.0 мл",
+    "total": "12.0 мл",
+    "name": "Диклофенак",
+    "period": "2-2"
+  },
+  {
+    "frequency": 2,
+    "route": "в/м",
+    "dosage": "2.0 мл",
+    "total": "4.0 мл",
+    "name": "Метоклопрамид",
+    "period": "2-2"
+  }
+]

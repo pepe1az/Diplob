@@ -1,0 +1,492 @@
+[
+  {
+    "frequency": 2,
+    "route": "внутрь",
+    "dosage": "300.0 мг",
+    "total": "600.0 мг",
+    "name": "Плавикс",
+    "period": "1-1"
+  },
+  {
+    "frequency": 1,
+    "route": "внутрь",
+    "dosage": "80.0 мг",
+    "total": "80.0 мг",
+    "name": "Липримар",
+    "period": "1-1"
+  },
+  {
+    "frequency": 0,
+    "route": "в/в капельно",
+    "dosage": "10.0 мл",
+    "total": "2.0 мл",
+    "name": "Изокет",
+    "period": "1-1"
+  },
+  {
+    "frequency": 0,
+    "route": "в/в капельно",
+    "dosage": "10.0 мл",
+    "total": "2.0 мл",
+    "name": "Натрия хлорид",
+    "period": "1-1"
+  },
+  {
+    "frequency": 4,
+    "route": "в/в",
+    "dosage": "25.0 мл",
+    "total": "100.0 мл",
+    "name": "Натрия хлорид",
+    "period": "1-16"
+  },
+  {
+    "frequency": 1,
+    "route": "п/к",
+    "dosage": "0.8 мл",
+    "total": "0.8 мл",
+    "name": "Клексан",
+    "period": "1-1"
+  },
+  {
+    "route": "в/в капельно",
+    "total": "600.0 мл",
+    "concentration": "40 МГ/мл",
+    "name": "Натрия гидрокарбонат",
+    "period": "1-1"
+  },
+  {
+    "frequency": 0,
+    "route": "в/в капельно",
+    "dosage": "10.0 мл",
+    "total": "1.0 мл",
+    "name": "Изокет",
+    "period": "2-2"
+  },
+  {
+    "frequency": 0,
+    "route": "в/в капельно",
+    "dosage": "10.0 мл",
+    "total": "1.0 мл",
+    "name": "Натрия хлорид",
+    "period": "2-2"
+  },
+  {
+    "frequency": 2,
+    "route": "п/к",
+    "dosage": "0.8 мл",
+    "total": "1.6 мл",
+    "name": "Клексан",
+    "period": "2-16"
+  },
+  {
+    "frequency": 1,
+    "route": "внутрь",
+    "dosage": "40.0 мг",
+    "total": "40.0 мг",
+    "name": "Аторис",
+    "period": "2-5"
+  },
+  {
+    "frequency": 1,
+    "route": "внутрь",
+    "dosage": "40.0 мг",
+    "total": "40.0 мг",
+    "name": "Аторис",
+    "period": "9-16"
+  },
+  {
+    "frequency": 1,
+    "route": "внутрь",
+    "dosage": "100.0 мг",
+    "total": "100.0 мг",
+    "name": "Ацекардол",
+    "period": "2-5"
+  },
+  {
+    "frequency": 1,
+    "route": "внутрь",
+    "dosage": "75.0 мг",
+    "total": "75.0 мг",
+    "name": "Клопидогрел",
+    "period": "2-5"
+  },
+  {
+    "frequency": 1,
+    "route": "внутрь",
+    "dosage": "5.0 мг",
+    "total": "5.0 мг",
+    "name": "Торасемид-СЗ",
+    "period": "2-2"
+  },
+  {
+    "frequency": 2,
+    "route": "внутрь",
+    "dosage": "5.0 мг",
+    "total": "10.0 мг",
+    "name": "Торасемид-СЗ",
+    "period": "3-8"
+  },
+  {
+    "frequency": 2,
+    "route": "внутрь",
+    "dosage": "5.0 мг",
+    "total": "10.0 мг",
+    "name": "Бравадин",
+    "period": "3-5"
+  },
+  {
+    "frequency": 1,
+    "route": "в/в",
+    "dosage": "200.0 мл",
+    "total": "200.0 мл",
+    "name": "Калия хлорид",
+    "period": "3-3"
+  },
+  {
+    "frequency": 1,
+    "route": "ингаляционно",
+    "dosage": "0 мл",
+    "total": "0 мл",
+    "name": "Серетид оз",
+    "period": "3-16"
+  },
+  {
+    "frequency": 1,
+    "route": "ингаляционно",
+    "dosage": "0 мл",
+    "total": "0 мл",
+    "name": "Спирива с ингалятором кг",
+    "period": "3-3"
+  },
+  {
+    "frequency": 3,
+    "route": "внутрь",
+    "dosage": "25.0 мг",
+    "total": "75.0 мг",
+    "name": "Спиронолактон",
+    "period": "3-15"
+  },
+  {
+    "route": "в/в капельно",
+    "total": "3.0 дозсмеси",
+    "concentration": "100 ЕД/мл",
+    "name": "НовоРапид Пенфилл",
+    "period": "3-3"
+  },
+  {
+    "route": "в/в капельно",
+    "total": "3.0 дозсмеси",
+    "concentration": "100 ЕД/мл",
+    "name": "Натрия хлорид",
+    "period": "3-3"
+  },
+  {
+    "route": "п/к",
+    "total": "30.0 ед",
+    "concentration": "100 ЕД/мл",
+    "name": "Левемир Пенфилл",
+    "period": "4-4"
+  },
+  {
+    "route": "п/к",
+    "total": "0.36 мл",
+    "concentration": "100 ЕД/мл",
+    "name": "НовоРапид Пенфилл",
+    "period": "4-4"
+  },
+  {
+    "frequency": 0,
+    "route": "в/в",
+    "dosage": "30.0 мл",
+    "total": "3.0 мл",
+    "name": "Калия хлорида",
+    "period": "4-4"
+  },
+  {
+    "frequency": 0,
+    "route": "в/в",
+    "dosage": "30.0 мл",
+    "total": "3.0 мл",
+    "name": "Натрия хлорид",
+    "period": "4-4"
+  },
+  {
+    "route": "п/к",
+    "total": "42.0 ед",
+    "concentration": "100 ЕД/мл",
+    "name": "Левемир Пенфилл",
+    "period": "5-9"
+  },
+  {
+    "route": "п/к",
+    "total": "0.5 мл",
+    "concentration": "100 ЕД/мл",
+    "name": "НовоРапид Пенфилл",
+    "period": "5-9"
+  },
+  {
+    "route": "в/в",
+    "total": "6.0 мл",
+    "concentration": "4 МГ/мл",
+    "name": "Дексаметазон",
+    "period": "5-5"
+  },
+  {
+    "frequency": 1,
+    "route": "п/к",
+    "dosage": "0 мл",
+    "total": "2.0 мл",
+    "name": "Sol. Tramadoli l",
+    "period": "5-5"
+  },
+  {
+    "frequency": 1,
+    "route": "в/в",
+    "dosage": "10.0 мл",
+    "total": "10.0 мл",
+    "name": "Эуфиллин",
+    "period": "5-5"
+  },
+  {
+    "route": "в/в капельно",
+    "total": "200.0 мл",
+    "concentration": "5 МГ/мл",
+    "name": "Левофлокс-Роутек комплект",
+    "period": "5-7"
+  },
+  {
+    "route": "в/в капельно",
+    "total": "200.0 мл",
+    "concentration": "5 МГ/мл",
+    "name": "Левофлокс-Роутек комплект",
+    "period": "10-16"
+  },
+  {
+    "frequency": 0,
+    "route": "в/в капельно",
+    "dosage": "38.0 мл",
+    "total": "2.0 мл",
+    "name": "Глюкоза",
+    "period": "5-6"
+  },
+  {
+    "frequency": 0,
+    "route": "в/в капельно",
+    "dosage": "38.0 мл",
+    "total": "2.0 мл",
+    "name": "Глюкоза",
+    "period": "8-9"
+  },
+  {
+    "frequency": 0,
+    "route": "в/в капельно",
+    "dosage": "38.0 мл",
+    "total": "2.0 мл",
+    "name": "Веро-Амиодарон",
+    "period": "5-6"
+  },
+  {
+    "frequency": 0,
+    "route": "в/в капельно",
+    "dosage": "38.0 мл",
+    "total": "2.0 мл",
+    "name": "Веро-Амиодарон",
+    "period": "8-9"
+  },
+  {
+    "route": "в/в",
+    "total": "4.0 мл",
+    "concentration": "4 МГ/мл",
+    "name": "Дексаметазон",
+    "period": "6-6"
+  },
+  {
+    "frequency": 1,
+    "route": "внутрь",
+    "dosage": "100.0 мг",
+    "total": "75.0 мг",
+    "name": "Коплавикс",
+    "period": "6-16"
+  },
+  {
+    "frequency": 2,
+    "route": "в/в",
+    "dosage": "50.0 мг",
+    "total": "100.0 мг",
+    "name": "Актилизе",
+    "period": "6-6"
+  },
+  {
+    "frequency": 0,
+    "route": "в/в",
+    "dosage": "50.0 мл",
+    "total": "3.0 мл",
+    "name": "Натрия хлорид",
+    "period": "6-11"
+  },
+  {
+    "frequency": 0,
+    "route": "в/в",
+    "dosage": "50.0 мл",
+    "total": "3.0 мл",
+    "name": "Добутамин Гексал",
+    "period": "6-11"
+  },
+  {
+    "route": "в/м",
+    "total": "12.0 мл",
+    "concentration": "50 МГ/мл",
+    "name": "Кетонал",
+    "period": "6-7"
+  },
+  {
+    "frequency": 0,
+    "route": "в/в капельно",
+    "dosage": "38.0 мл",
+    "total": "1.0 мл",
+    "name": "Глюкоза",
+    "period": "7-7"
+  },
+  {
+    "frequency": 0,
+    "route": "в/в капельно",
+    "dosage": "38.0 мл",
+    "total": "1.0 мл",
+    "name": "Веро-Амиодарон",
+    "period": "7-7"
+  },
+  {
+    "route": "в/в капельно",
+    "total": "300.0 мл",
+    "concentration": "5 МГ/мл",
+    "name": "Левофлокс-Роутек комплект",
+    "period": "8-9"
+  },
+  {
+    "frequency": 4,
+    "route": "внутрь",
+    "dosage": "5.0 мг",
+    "total": "20.0 мг",
+    "name": "Торасемид-СЗ",
+    "period": "9-15"
+  },
+  {
+    "route": "п/к",
+    "total": "16.0 ед",
+    "concentration": "100 ЕД/мл",
+    "name": "Левемир Пенфилл",
+    "period": "10-10"
+  },
+  {
+    "route": "п/к",
+    "total": "0.1 мл",
+    "concentration": "100 ЕД/мл",
+    "name": "НовоРапид Пенфилл",
+    "period": "10-10"
+  },
+  {
+    "frequency": 3,
+    "route": "внутрь",
+    "dosage": "200.0 мг",
+    "total": "600.0 мг",
+    "name": "Амиодарон",
+    "period": "10-11"
+  },
+  {
+    "route": "п/к",
+    "total": "22.0 ед",
+    "concentration": "100 ЕД/мл",
+    "name": "Левемир Пенфилл",
+    "period": "11-11"
+  },
+  {
+    "route": "п/к",
+    "total": "0.12 мл",
+    "concentration": "100 ЕД/мл",
+    "name": "НовоРапид Пенфилл",
+    "period": "11-12"
+  },
+  {
+    "route": "п/к",
+    "total": "28.0 ед",
+    "concentration": "100 ЕД/мл",
+    "name": "Левемир Пенфилл",
+    "period": "12-12"
+  },
+  {
+    "frequency": 2,
+    "route": "внутрь",
+    "dosage": "200.0 мг",
+    "total": "400.0 мг",
+    "name": "Амиодарон",
+    "period": "12-14"
+  },
+  {
+    "route": "п/к",
+    "total": "32.0 ед",
+    "concentration": "100 ЕД/мл",
+    "name": "Левемир Пенфилл",
+    "period": "13-14"
+  },
+  {
+    "route": "п/к",
+    "total": "0.16 мл",
+    "concentration": "100 ЕД/мл",
+    "name": "НовоРапид Пенфилл",
+    "period": "13-14"
+  },
+  {
+    "route": "п/к",
+    "total": "36.0 ед",
+    "concentration": "100 ЕД/мл",
+    "name": "Левемир Пенфилл",
+    "period": "15-16"
+  },
+  {
+    "route": "п/к",
+    "total": "0.18 мл",
+    "concentration": "100 ЕД/мл",
+    "name": "НовоРапид Пенфилл",
+    "period": "15-16"
+  },
+  {
+    "frequency": 1,
+    "route": "внутрь",
+    "dosage": "200.0 мг",
+    "total": "200.0 мг",
+    "name": "Амиодарон",
+    "period": "15-16"
+  },
+  {
+    "frequency": 0,
+    "route": "в/в",
+    "dosage": "10.0 мл",
+    "total": "1.0 мл",
+    "name": "Фуросемид",
+    "period": "15-16"
+  },
+  {
+    "frequency": 0,
+    "route": "в/в",
+    "dosage": "10.0 мл",
+    "total": "1.0 мл",
+    "name": "Натрия хлорид",
+    "period": "15-16"
+  },
+  {
+    "frequency": 4,
+    "route": "внутрь",
+    "dosage": "25.0 мг",
+    "total": "100.0 мг",
+    "name": "Спиронолактон",
+    "period": "16-16"
+  },
+  {
+    "frequency": 3,
+    "route": "в/в",
+    "dosage": "50.0 мл",
+    "total": "150.0 мл",
+    "name": "Калия хлорид",
+    "period": "16-16"
+  }
+]

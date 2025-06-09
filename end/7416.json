@@ -1,0 +1,94 @@
+[
+  {
+    "frequency": 1,
+    "route": "нет",
+    "dosage": "300.0 мг",
+    "total": "300.0 мг",
+    "name": "Плавикс",
+    "period": "1-1"
+  },
+  {
+    "frequency": 1,
+    "route": "нет",
+    "dosage": "20.0 мг",
+    "total": "20.0 мг",
+    "name": "Омез",
+    "period": "1-1"
+  },
+  {
+    "frequency": 1,
+    "route": "нет",
+    "dosage": "200.0 мл",
+    "total": "200.0 мл",
+    "name": "Натрия гидрокарбонат",
+    "period": "1-1"
+  },
+  {
+    "route": "не указан",
+    "total": "4.0 мл",
+    "concentration": "25 МГ/мл",
+    "name": "Агграстат",
+    "period": "1-1"
+  },
+  {
+    "frequency": 1,
+    "route": "нет",
+    "dosage": "100.0 мг",
+    "total": "100.0 мг",
+    "name": "Тромбо АСС",
+    "period": "1-1"
+  },
+  {
+    "route": "не указан",
+    "total": "200.0 мл",
+    "concentration": "40 МГ/мл",
+    "name": "Натрия гидрокарбонат",
+    "period": "2-2"
+  },
+  {
+    "route": "не указан",
+    "total": "5.0 мл",
+    "concentration": "50 МГ/мл",
+    "name": "Амиодарон",
+    "period": "2-2"
+  },
+  {
+    "frequency": 6,
+    "route": "нет",
+    "dosage": "100.0 мл",
+    "total": "600.0 мл",
+    "name": "Натрия хлорид",
+    "period": "2-2"
+  },
+  {
+    "route": "не указан",
+    "total": "20.0 мл",
+    "concentration": "2 МГ/мл",
+    "name": "Норадреналин Агетан",
+    "period": "2-2"
+  },
+  {
+    "frequency": 15,
+    "route": "нет",
+    "dosage": "1.0 мл",
+    "total": "15.0 мл",
+    "name": "Адреналин",
+    "period": "2-2"
+  },
+  {
+    "frequency": 1,
+    "route": "нет",
+    "dosage": "20.0 мг",
+    "total": "20.0 мг",
+    "name": "Фамотидин с растворителем",
+    "period": "2-2"
+  },
+  {
+    "frequency": 4,
+    "route": "нет",
+    "dosage": "5.0 мл",
+    "total": "20.0 мл",
+    "name": "Глюкоза",
+    "period": "2-2"
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "route": "в/в капельно",
+    "total": "1.0 дозсмеси",
+    "concentration": "4 МГ/мл",
+    "name": "Натрия хлорид",
+    "period": "1-1"
+  },
+  {
+    "route": "в/в капельно",
+    "total": "1.0 дозсмеси",
+    "concentration": "4 МГ/мл",
+    "name": "Феназепам",
+    "period": "1-1"
+  },
+  {
+    "route": "в/в капельно",
+    "total": "1.0 дозсмеси",
+    "concentration": "4 МГ/мл",
+    "name": "Дексаметазон - Виал",
+    "period": "1-1"
+  },
+  {
+    "frequency": 1,
+    "route": "в/м",
+    "dosage": "0 мл",
+    "total": "6.0 мл",
+    "name": "Sol. Tramadoli l",
+    "period": "1-1"
+  },
+  {
+    "frequency": 1,
+    "route": "в/в капельно",
+    "dosage": "500.0 мл",
+    "total": "500.0 мл",
+    "name": "Натрия хлорид",
+    "period": "1-1"
+  },
+  {
+    "frequency": 1,
+    "route": "внутрь",
+    "dosage": "20.0 мг",
+    "total": "20.0 мг",
+    "name": "Омепразол",
+    "period": "1-1"
+  },
+  {
+    "route": "не указан",
+    "total": "2.0 мл",
+    "concentration": "50 МГ/мл",
+    "name": "Кетопрофен",
+    "period": "1-1"
+  },
+  {
+    "frequency": 1,
+    "route": "п/к",
+    "dosage": "0.4 мл",
+    "total": "0.4 мл",
+    "name": "Эноксапарин натрия нти-Ха",
+    "period": "1-1"
+  }
+]

@@ -1,0 +1,600 @@
+[
+  {
+    "frequency": 2,
+    "route": "внутрь",
+    "dosage": "300.0 мг",
+    "total": "600.0 мг",
+    "name": "Плавикс",
+    "period": "1-1"
+  },
+  {
+    "frequency": 1,
+    "route": "в/в",
+    "dosage": "10.0 мл",
+    "total": "10.0 мл",
+    "name": "Изокет",
+    "period": "1-1"
+  },
+  {
+    "frequency": 1,
+    "route": "в/в",
+    "dosage": "10.0 мл",
+    "total": "10.0 мл",
+    "name": "Натрия хлорид",
+    "period": "1-1"
+  },
+  {
+    "frequency": 8,
+    "route": "промыв катетера",
+    "dosage": "25.0 мл",
+    "total": "200.0 мл",
+    "name": "Натрия хлорид",
+    "period": "1-22"
+  },
+  {
+    "frequency": 1,
+    "route": "п/к",
+    "dosage": "0.4 мл",
+    "total": "0.4 мл",
+    "name": "Клексан",
+    "period": "1-22"
+  },
+  {
+    "route": "в/в",
+    "total": "10.0 мл",
+    "concentration": "2 МГ/мл",
+    "name": "Интегрилин",
+    "period": "1-1"
+  },
+  {
+    "frequency": 2,
+    "route": "в/в капельно",
+    "dosage": "5.0 мл",
+    "total": "10.0 мл",
+    "name": "Допамин",
+    "period": "1-1"
+  },
+  {
+    "frequency": 2,
+    "route": "в/в капельно",
+    "dosage": "5.0 мл",
+    "total": "10.0 мл",
+    "name": "Натрия хлорид",
+    "period": "1-1"
+  },
+  {
+    "route": "в/в капельно",
+    "total": "20.0 МЕ",
+    "concentration": "100 ЕД/мл",
+    "name": "Натрия хлорид",
+    "period": "1-1"
+  },
+  {
+    "route": "в/в капельно",
+    "total": "20.0 МЕ",
+    "concentration": "100 ЕД/мл",
+    "name": "НовоРапид Пенфилл Е",
+    "period": "1-1"
+  },
+  {
+    "frequency": 1,
+    "route": "в/в капельно",
+    "dosage": "250.0 мл",
+    "total": "250.0 мл",
+    "name": "Натрия хлорид",
+    "period": "1-1"
+  },
+  {
+    "frequency": 1,
+    "route": "в/в капельно",
+    "dosage": "250.0 мл",
+    "total": "250.0 мл",
+    "name": "Цераксон",
+    "period": "1-1"
+  },
+  {
+    "frequency": 1,
+    "route": "в/в капельно",
+    "dosage": "1000.0 мл",
+    "total": "1000.0 мл",
+    "name": "Стерофундин",
+    "period": "1-1"
+  },
+  {
+    "frequency": 1,
+    "route": "внутрь",
+    "dosage": "40.0 мг",
+    "total": "40.0 мг",
+    "name": "Торвакард",
+    "period": "1-4"
+  },
+  {
+    "frequency": 3,
+    "route": "в/в",
+    "dosage": "10.0 мл",
+    "total": "30.0 мл",
+    "name": "Изокет",
+    "period": "2-2"
+  },
+  {
+    "frequency": 3,
+    "route": "в/в",
+    "dosage": "10.0 мл",
+    "total": "30.0 мл",
+    "name": "Натрия хлорид",
+    "period": "2-2"
+  },
+  {
+    "frequency": 3,
+    "route": "в/в",
+    "dosage": "5.0 мл",
+    "total": "15.0 мл",
+    "name": "Допамин",
+    "period": "2-2"
+  },
+  {
+    "frequency": 3,
+    "route": "в/в",
+    "dosage": "5.0 мл",
+    "total": "15.0 мл",
+    "name": "Натрия хлорид",
+    "period": "2-2"
+  },
+  {
+    "route": "в/в",
+    "total": "50.0 МЕ",
+    "concentration": "100 ЕД/мл",
+    "name": "Натрия хлорид",
+    "period": "2-13"
+  },
+  {
+    "route": "в/в",
+    "total": "50.0 МЕ",
+    "concentration": "100 ЕД/мл",
+    "name": "НовоРапид Пенфилл Е",
+    "period": "2-13"
+  },
+  {
+    "frequency": 2,
+    "route": "в/в капельно",
+    "dosage": "100.0 мл",
+    "total": "200.0 мл",
+    "name": "Натрия хлорид",
+    "period": "2-15"
+  },
+  {
+    "frequency": 2,
+    "route": "в/в капельно",
+    "dosage": "100.0 мл",
+    "total": "200.0 мл",
+    "name": "Цераксон",
+    "period": "2-15"
+  },
+  {
+    "frequency": 1,
+    "route": "внутрь",
+    "dosage": "100.0 мг",
+    "total": "75.0 мг",
+    "name": "Коплавикс",
+    "period": "2-22"
+  },
+  {
+    "frequency": 1,
+    "route": "внутрь",
+    "dosage": "10.0 мг",
+    "total": "10.0 мг",
+    "name": "Тригрим",
+    "period": "3-5"
+  },
+  {
+    "frequency": 1,
+    "route": "внутрь",
+    "dosage": "10.0 мг",
+    "total": "10.0 мг",
+    "name": "Тригрим",
+    "period": "13-13"
+  },
+  {
+    "frequency": 1,
+    "route": "внутрь",
+    "dosage": "500.0 мл",
+    "total": "500.0 мл",
+    "name": "Нутризон Эдванст Диазон смесь питания",
+    "period": "3-4"
+  },
+  {
+    "frequency": 1,
+    "route": "внутрь",
+    "dosage": "500.0 мл",
+    "total": "500.0 мл",
+    "name": "Нутризон Эдванст Диазон смесь питания",
+    "period": "9-12"
+  },
+  {
+    "frequency": 2,
+    "route": "внутрь",
+    "dosage": "500.0 мл",
+    "total": "1000.0 мл",
+    "name": "Нутризон Эдванст Диазон смесь питания",
+    "period": "5-6"
+  },
+  {
+    "frequency": 2,
+    "route": "внутрь",
+    "dosage": "500.0 мл",
+    "total": "1000.0 мл",
+    "name": "Нутризон Эдванст Диазон смесь питания",
+    "period": "13-19"
+  },
+  {
+    "frequency": 1,
+    "route": "в/в",
+    "dosage": "50.0 мл",
+    "total": "50.0 мл",
+    "name": "Калия хлорид буфус",
+    "period": "5-5"
+  },
+  {
+    "route": "в/в капельно",
+    "total": "600.0 мг",
+    "concentration": "50 МГ/мл",
+    "name": "Глюкоза",
+    "period": "5-8"
+  },
+  {
+    "route": "в/в капельно",
+    "total": "600.0 мг",
+    "concentration": "50 МГ/мл",
+    "name": "Кордарон",
+    "period": "5-8"
+  },
+  {
+    "frequency": 3,
+    "route": "в/в",
+    "dosage": "50.0 мл",
+    "total": "150.0 мл",
+    "name": "Калия хлорид буфус",
+    "period": "6-6"
+  },
+  {
+    "frequency": 3,
+    "route": "в/в",
+    "dosage": "50.0 мл",
+    "total": "150.0 мл",
+    "name": "Калия хлорид буфус",
+    "period": "11-11"
+  },
+  {
+    "frequency": 3,
+    "route": "в/в",
+    "dosage": "50.0 мл",
+    "total": "150.0 мл",
+    "name": "Калия хлорид буфус",
+    "period": "18-22"
+  },
+  {
+    "frequency": 2,
+    "route": "внутрь",
+    "dosage": "5.0 мг",
+    "total": "10.0 мг",
+    "name": "Амлодипин",
+    "period": "6-6"
+  },
+  {
+    "frequency": 1,
+    "route": "внутрь",
+    "dosage": "25.0 мг",
+    "total": "25.0 мг",
+    "name": "Эгилок С",
+    "period": "6-15"
+  },
+  {
+    "frequency": 1,
+    "route": "внутрь",
+    "dosage": "150.0 мг",
+    "total": "150.0 мг",
+    "name": "Флуконазол",
+    "period": "6-13"
+  },
+  {
+    "frequency": 1,
+    "route": "в/в",
+    "dosage": "2.0 мл",
+    "total": "2.0 мл",
+    "name": "Метоклопрамид",
+    "period": "6-6"
+  },
+  {
+    "frequency": 0,
+    "route": "внутрь",
+    "dosage": "500.0 мл",
+    "total": "250.0 мл",
+    "name": "Нутризон Эдванст Диазон смесь питания",
+    "period": "7-8"
+  },
+  {
+    "frequency": 2,
+    "route": "внутрь",
+    "dosage": "10.0 мг",
+    "total": "20.0 мг",
+    "name": "Амлодипин",
+    "period": "7-9"
+  },
+  {
+    "frequency": 3,
+    "route": "в/в",
+    "dosage": "2.0 мл",
+    "total": "6.0 мл",
+    "name": "Метоклопрамид",
+    "period": "7-16"
+  },
+  {
+    "route": "в/в капельно",
+    "total": "250.0 мл",
+    "concentration": "6 МГ/мл",
+    "name": "Авелокс",
+    "period": "7-15"
+  },
+  {
+    "frequency": 1,
+    "route": "в/в капельно",
+    "dosage": "5.0 мл",
+    "total": "5.0 мл",
+    "name": "Магния сульфат",
+    "period": "8-8"
+  },
+  {
+    "frequency": 1,
+    "route": "в/в капельно",
+    "dosage": "5.0 мл",
+    "total": "5.0 мл",
+    "name": "Магния сульфат",
+    "period": "17-17"
+  },
+  {
+    "frequency": 1,
+    "route": "в/в капельно",
+    "dosage": "5.0 мл",
+    "total": "5.0 мл",
+    "name": "Калия хлорид буфус",
+    "period": "8-8"
+  },
+  {
+    "frequency": 1,
+    "route": "в/в капельно",
+    "dosage": "5.0 мл",
+    "total": "5.0 мл",
+    "name": "Калия хлорид буфус",
+    "period": "17-17"
+  },
+  {
+    "frequency": 1,
+    "route": "в/в капельно",
+    "dosage": "1.0 мл",
+    "total": "1.0 мл",
+    "name": "Дигоксин",
+    "period": "8-14"
+  },
+  {
+    "frequency": 1,
+    "route": "в/в капельно",
+    "dosage": "1.0 мл",
+    "total": "1.0 мл",
+    "name": "Натрия хлорид",
+    "period": "8-14"
+  },
+  {
+    "frequency": 3,
+    "route": "в/в капельно",
+    "dosage": "5.0 мл",
+    "total": "15.0 мл",
+    "name": "Магния сульфат",
+    "period": "9-9"
+  },
+  {
+    "frequency": 3,
+    "route": "в/в капельно",
+    "dosage": "5.0 мл",
+    "total": "15.0 мл",
+    "name": "Калия хлорид буфус",
+    "period": "9-9"
+  },
+  {
+    "frequency": 2,
+    "route": "в/в",
+    "dosage": "2.0 мл",
+    "total": "4.0 мл",
+    "name": "Фуросемид",
+    "period": "9-12"
+  },
+  {
+    "frequency": 1,
+    "route": "внутрь",
+    "dosage": "10.0 мг",
+    "total": "10.0 мг",
+    "name": "Амлодипин",
+    "period": "10-22"
+  },
+  {
+    "route": "в/в капельно",
+    "total": "38.0 мл",
+    "concentration": "50 МГ/мл",
+    "name": "Кордарон",
+    "period": "12-12"
+  },
+  {
+    "route": "в/в капельно",
+    "total": "38.0 мл",
+    "concentration": "50 МГ/мл",
+    "name": "Глюкоза",
+    "period": "12-12"
+  },
+  {
+    "frequency": 2,
+    "route": "внутрь",
+    "dosage": "10.0 мг",
+    "total": "20.0 мг",
+    "name": "Тригрим",
+    "period": "14-22"
+  },
+  {
+    "route": "п/к",
+    "total": "24.0 ед",
+    "concentration": "100 ЕД/мл",
+    "name": "Левемир Пенфилл",
+    "period": "14-14"
+  },
+  {
+    "route": "п/к",
+    "total": "20.0 МЕ",
+    "concentration": "100 ЕД/мл",
+    "name": "НовоРапид Пенфилл Е",
+    "period": "14-14"
+  },
+  {
+    "frequency": 3,
+    "route": "внутрь",
+    "dosage": "200.0 мг",
+    "total": "600.0 мг",
+    "name": "Кордарон",
+    "period": "14-14"
+  },
+  {
+    "route": "п/к",
+    "total": "30.0 ед",
+    "concentration": "100 ЕД/мл",
+    "name": "Левемир Пенфилл",
+    "period": "15-20"
+  },
+  {
+    "route": "п/к",
+    "total": "22.0 МЕ",
+    "concentration": "100 ЕД/мл",
+    "name": "НовоРапид Пенфилл Е",
+    "period": "15-20"
+  },
+  {
+    "frequency": 1,
+    "route": "внутрь",
+    "dosage": "200.0 мг",
+    "total": "200.0 мг",
+    "name": "Кордарон",
+    "period": "15-22"
+  },
+  {
+    "frequency": 1,
+    "route": "внутрь",
+    "dosage": "0.25 мг",
+    "total": "0.25 мг",
+    "name": "Дигоксин",
+    "period": "15-16"
+  },
+  {
+    "frequency": 2,
+    "route": "внутрь",
+    "dosage": "50.0 мл",
+    "total": "100.0 мл",
+    "name": "Магния сульфат",
+    "period": "16-16"
+  },
+  {
+    "frequency": 2,
+    "route": "в/в капельно",
+    "dosage": "1000.0 мг",
+    "total": "2000.0 мг",
+    "name": "Цераксон",
+    "period": "17-19"
+  },
+  {
+    "frequency": 2,
+    "route": "в/в капельно",
+    "dosage": "1000.0 мг",
+    "total": "2000.0 мг",
+    "name": "Глюкоза",
+    "period": "17-19"
+  },
+  {
+    "frequency": 1,
+    "route": "в/в",
+    "dosage": "50.0 мл",
+    "total": "50.0 мл",
+    "name": "Урофосфабол",
+    "period": "18-19"
+  },
+  {
+    "frequency": 1,
+    "route": "в/в",
+    "dosage": "50.0 мл",
+    "total": "50.0 мл",
+    "name": "Натрия хлорид",
+    "period": "18-19"
+  },
+  {
+    "frequency": 1,
+    "route": "в/в",
+    "dosage": "2.0 мл",
+    "total": "2.0 мл",
+    "name": "Анальгин",
+    "period": "18-18"
+  },
+  {
+    "frequency": 1,
+    "route": "в/в капельно",
+    "dosage": "500.0 мл",
+    "total": "500.0 мл",
+    "name": "Рингера-ацетат",
+    "period": "18-18"
+  },
+  {
+    "frequency": 1,
+    "route": "в/в",
+    "dosage": "20.0 мл",
+    "total": "20.0 мл",
+    "name": "Глюкоза",
+    "period": "19-19"
+  },
+  {
+    "frequency": 1,
+    "route": "внутрь",
+    "dosage": "1000.0 мл",
+    "total": "1000.0 мл",
+    "name": "Нутрикомп Энергия Файбер ликвид с нейтральным вкусом",
+    "period": "20-22"
+  },
+  {
+    "route": "п/к",
+    "total": "34.0 ед",
+    "concentration": "100 ЕД/мл",
+    "name": "Левемир Пенфилл",
+    "period": "21-21"
+  },
+  {
+    "route": "п/к",
+    "total": "26.0 МЕ",
+    "concentration": "100 ЕД/мл",
+    "name": "НовоРапид Пенфилл Е",
+    "period": "21-22"
+  },
+  {
+    "frequency": 1,
+    "route": "в/в",
+    "dosage": "0 мл",
+    "total": "0 мл",
+    "name": "Сульцеф",
+    "period": "21-22"
+  },
+  {
+    "route": "п/к",
+    "total": "42.0 ед",
+    "concentration": "100 ЕД/мл",
+    "name": "Левемир Пенфилл",
+    "period": "22-22"
+  },
+  {
+    "route": "внутрь",
+    "total": "60.0 мл",
+    "concentration": "100 МГ/мл",
+    "name": "Цераксон",
+    "period": "22-22"
+  }
+]

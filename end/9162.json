@@ -1,0 +1,277 @@
+[
+  {
+    "frequency": 1,
+    "route": "внутрь",
+    "dosage": "100.0 мг",
+    "total": "100.0 мг",
+    "name": "Ацекардол",
+    "period": "1-11"
+  },
+  {
+    "frequency": 1,
+    "route": "п/к",
+    "dosage": "0.6 мл",
+    "total": "0.6 мл",
+    "name": "Клексан",
+    "period": "1-1"
+  },
+  {
+    "frequency": 1,
+    "route": "п/к",
+    "dosage": "0.6 мл",
+    "total": "0.6 мл",
+    "name": "Клексан",
+    "period": "3-3"
+  },
+  {
+    "frequency": 2,
+    "route": "внутрь",
+    "dosage": "90.0 мг",
+    "total": "180.0 мг",
+    "name": "Брилинта",
+    "period": "1-11"
+  },
+  {
+    "frequency": 3,
+    "route": "промыв катетера",
+    "dosage": "50.0 мл",
+    "total": "150.0 мл",
+    "name": "Натрия хлорид",
+    "period": "1-1"
+  },
+  {
+    "route": "промыв катетера",
+    "total": "3.0 дозсмеси",
+    "concentration": "5000 ЕД/мл",
+    "name": "Гепарин",
+    "period": "1-1"
+  },
+  {
+    "route": "промыв катетера",
+    "total": "3.0 дозсмеси",
+    "concentration": "5000 ЕД/мл",
+    "name": "Натрия хлорид",
+    "period": "1-1"
+  },
+  {
+    "route": "в/в",
+    "total": "200.0 мл",
+    "concentration": "75 МГ/мл",
+    "name": "Интегрилин",
+    "period": "1-1"
+  },
+  {
+    "route": "в/в",
+    "total": "10.0 мл",
+    "concentration": "2 МГ/мл",
+    "name": "Нимбекс",
+    "period": "1-1"
+  },
+  {
+    "route": "в/в",
+    "total": "3.0 дозсмеси",
+    "concentration": "2 МГ/мл",
+    "name": "Натрия хлорид",
+    "period": "1-1"
+  },
+  {
+    "route": "в/в",
+    "total": "3.0 дозсмеси",
+    "concentration": "2 МГ/мл",
+    "name": "Норадреналин",
+    "period": "1-1"
+  },
+  {
+    "frequency": 2,
+    "route": "п/к",
+    "dosage": "0.6 мл",
+    "total": "1.2 мл",
+    "name": "Клексан",
+    "period": "2-2"
+  },
+  {
+    "frequency": 2,
+    "route": "п/к",
+    "dosage": "0.6 мл",
+    "total": "1.2 мл",
+    "name": "Клексан",
+    "period": "4-11"
+  },
+  {
+    "frequency": 4,
+    "route": "промыв катетера",
+    "dosage": "50.0 мл",
+    "total": "200.0 мл",
+    "name": "Натрия хлорид",
+    "period": "2-11"
+  },
+  {
+    "route": "промыв катетера",
+    "total": "4.0 дозсмеси",
+    "concentration": "5000 ЕД/мл",
+    "name": "Гепарин",
+    "period": "2-11"
+  },
+  {
+    "route": "промыв катетера",
+    "total": "4.0 дозсмеси",
+    "concentration": "5000 ЕД/мл",
+    "name": "Натрия хлорид",
+    "period": "2-11"
+  },
+  {
+    "route": "в/в",
+    "total": "1.0 дозсмеси",
+    "concentration": "2 МГ/мл",
+    "name": "Натрия хлорид",
+    "period": "2-2"
+  },
+  {
+    "route": "в/в",
+    "total": "1.0 дозсмеси",
+    "concentration": "2 МГ/мл",
+    "name": "Норадреналин",
+    "period": "2-2"
+  },
+  {
+    "frequency": 1,
+    "route": "внутрь",
+    "dosage": "10.0 мг",
+    "total": "10.0 мг",
+    "name": "Торасемид-СЗ",
+    "period": "2-2"
+  },
+  {
+    "frequency": 1,
+    "route": "внутрь",
+    "dosage": "10.0 мг",
+    "total": "10.0 мг",
+    "name": "Торасемид-СЗ",
+    "period": "5-5"
+  },
+  {
+    "frequency": 2,
+    "route": "в/в",
+    "dosage": "2.0 мл",
+    "total": "4.0 мл",
+    "name": "Фуросемид",
+    "period": "3-3"
+  },
+  {
+    "frequency": 2,
+    "route": "в/в",
+    "dosage": "50.0 мл",
+    "total": "100.0 мл",
+    "name": "Калия хлорид",
+    "period": "3-3"
+  },
+  {
+    "frequency": 3,
+    "route": "в/в",
+    "dosage": "50.0 мл",
+    "total": "150.0 мл",
+    "name": "Калия хлорид",
+    "period": "4-8"
+  },
+  {
+    "frequency": 3,
+    "route": "в/в",
+    "dosage": "50.0 мл",
+    "total": "150.0 мл",
+    "name": "Калия хлорид",
+    "period": "10-10"
+  },
+  {
+    "frequency": 0,
+    "route": "в/в",
+    "dosage": "10.0 мл",
+    "total": "1.0 мл",
+    "name": "Фуросемид",
+    "period": "4-4"
+  },
+  {
+    "frequency": 0,
+    "route": "в/в",
+    "dosage": "10.0 мл",
+    "total": "1.0 мл",
+    "name": "Натрия хлорид",
+    "period": "4-4"
+  },
+  {
+    "frequency": 2,
+    "route": "внутрь",
+    "dosage": "25.0 мг",
+    "total": "50.0 мг",
+    "name": "Эспиро",
+    "period": "5-11"
+  },
+  {
+    "frequency": 1,
+    "route": "внутрь",
+    "dosage": "40.0 мг",
+    "total": "40.0 мг",
+    "name": "Аторвастатин",
+    "period": "5-11"
+  },
+  {
+    "route": "в/в капельно",
+    "total": "200.0 мл",
+    "concentration": "5 МГ/мл",
+    "name": "Левофлокс-Роутек комплект",
+    "period": "5-11"
+  },
+  {
+    "frequency": 0,
+    "route": "в/в",
+    "dosage": "6.0 мл",
+    "total": "1.0 мл",
+    "name": "Фуросемид",
+    "period": "5-5"
+  },
+  {
+    "frequency": 0,
+    "route": "в/в",
+    "dosage": "6.0 мл",
+    "total": "1.0 мл",
+    "name": "Натрия хлорид",
+    "period": "5-5"
+  },
+  {
+    "frequency": 2,
+    "route": "внутрь",
+    "dosage": "10.0 мг",
+    "total": "20.0 мг",
+    "name": "Торасемид-СЗ",
+    "period": "6-11"
+  },
+  {
+    "frequency": 1,
+    "route": "внутрь",
+    "dosage": "500.0 мл",
+    "total": "500.0 мл",
+    "name": "Изосурс Стандарт",
+    "period": "6-11"
+  },
+  {
+    "frequency": 1,
+    "route": "ингаляционно",
+    "dosage": "0 мл",
+    "total": "0 мл",
+    "name": "Серетид оз",
+    "period": "7-11"
+  },
+  {
+    "route": "в/в",
+    "total": "1.0 дозсмеси",
+    "concentration": "5 МГ/мл",
+    "name": "Глюкоза",
+    "period": "8-9"
+  },
+  {
+    "route": "в/в",
+    "total": "1.0 дозсмеси",
+    "concentration": "5 МГ/мл",
+    "name": "Симдакс",
+    "period": "8-9"
+  }
+]

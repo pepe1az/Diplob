@@ -1,0 +1,126 @@
+[
+  {
+    "frequency": 2,
+    "route": "нет",
+    "dosage": "90.0 мг",
+    "total": "180.0 мг",
+    "name": "Брилинта",
+    "period": "1-1"
+  },
+  {
+    "frequency": 0,
+    "route": "нет",
+    "dosage": "40.0 мг",
+    "total": "20.0 мг",
+    "name": "Фуросемид",
+    "period": "1-1"
+  },
+  {
+    "route": "не указан",
+    "total": "10.0 мл",
+    "concentration": "40 МГ/мл",
+    "name": "Калия хлорид",
+    "period": "1-1"
+  },
+  {
+    "frequency": 1,
+    "route": "нет",
+    "dosage": "40.0 мг",
+    "total": "40.0 мг",
+    "name": "Аторвастатин",
+    "period": "1-6"
+  },
+  {
+    "frequency": 1,
+    "route": "нет",
+    "dosage": "100.0 мг",
+    "total": "100.0 мг",
+    "name": "Тромбо АСС",
+    "period": "1-1"
+  },
+  {
+    "frequency": 1,
+    "route": "нет",
+    "dosage": "10.0 мг",
+    "total": "10.0 мг",
+    "name": "Торасемид-СЗ",
+    "period": "1-1"
+  },
+  {
+    "frequency": 1,
+    "route": "нет",
+    "dosage": "90.0 мг",
+    "total": "90.0 мг",
+    "name": "Брилинта",
+    "period": "2-7"
+  },
+  {
+    "route": "не указан",
+    "total": "5.0 мл",
+    "concentration": "40 МГ/мл",
+    "name": "Калия хлорид",
+    "period": "2-3"
+  },
+  {
+    "route": "не указан",
+    "total": "5.0 мл",
+    "concentration": "40 МГ/мл",
+    "name": "Калия хлорид",
+    "period": "5-6"
+  },
+  {
+    "route": "не указан",
+    "total": "1.0 мл",
+    "concentration": "2 МГ/мл",
+    "name": "Норэпинефрин",
+    "period": "2-2"
+  },
+  {
+    "frequency": 1,
+    "route": "нет",
+    "dosage": "100.0 мг",
+    "total": "100.0 мг",
+    "name": "Спиронолактон",
+    "period": "2-6"
+  },
+  {
+    "frequency": 1,
+    "route": "нет",
+    "dosage": "5.0 мг",
+    "total": "5.0 мг",
+    "name": "Торасемид-СЗ",
+    "period": "2-3"
+  },
+  {
+    "frequency": 1,
+    "route": "нет",
+    "dosage": "20.0 мг",
+    "total": "20.0 мг",
+    "name": "Омез",
+    "period": "4-6"
+  },
+  {
+    "frequency": 1,
+    "route": "нет",
+    "dosage": "10000.0 ЕД",
+    "total": "10000.0 ЕД",
+    "name": "Панкреатин",
+    "period": "4-7"
+  },
+  {
+    "frequency": 1,
+    "route": "нет",
+    "dosage": "400.0 мг",
+    "total": "400.0 мг",
+    "name": "Гептрал",
+    "period": "5-5"
+  },
+  {
+    "frequency": 1,
+    "route": "нет",
+    "dosage": "400.0 мг",
+    "total": "400.0 мг",
+    "name": "Моксифло",
+    "period": "6-7"
+  }
+]

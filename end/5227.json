@@ -1,0 +1,81 @@
+[
+  {
+    "frequency": 4,
+    "route": "п/к",
+    "dosage": "0.4 мл",
+    "total": "1.6 мл",
+    "name": "Клексан",
+    "period": "1-2"
+  },
+  {
+    "frequency": 1,
+    "route": "внутрь",
+    "dosage": "100.0 мг",
+    "total": "75.0 мг",
+    "name": "Коплавикс",
+    "period": "1-2"
+  },
+  {
+    "frequency": 1,
+    "route": "внутрь",
+    "dosage": "40.0 мг",
+    "total": "40.0 мг",
+    "name": "Липримар",
+    "period": "1-2"
+  },
+  {
+    "frequency": 0,
+    "route": "в/в",
+    "dosage": "10.0 мл",
+    "total": "1.0 мл",
+    "name": "Допамин",
+    "period": "1-1"
+  },
+  {
+    "frequency": 0,
+    "route": "в/в",
+    "dosage": "10.0 мл",
+    "total": "1.0 мл",
+    "name": "Натрия хлорид",
+    "period": "1-1"
+  },
+  {
+    "frequency": 1,
+    "route": "в/м",
+    "dosage": "0 мл",
+    "total": "2.0 мл",
+    "name": "Sol. Tramadoli l",
+    "period": "1-1"
+  },
+  {
+    "frequency": 0,
+    "route": "в/в капельно",
+    "dosage": "60.0 мл",
+    "total": "2.0 мл",
+    "name": "Калия хлорида",
+    "period": "2-2"
+  },
+  {
+    "frequency": 0,
+    "route": "в/в капельно",
+    "dosage": "60.0 мл",
+    "total": "2.0 мл",
+    "name": "Глюкоза",
+    "period": "2-2"
+  },
+  {
+    "route": "в/м",
+    "total": "2.0 мл",
+    "concentration": "50 МГ/мл",
+    "name": "Кетонал",
+    "period": "2-2"
+  },
+  {
+    "frequency": 1,
+    "route": "в/в капельно",
+    "dosage": "0 мл",
+    "total": "0 мл",
+    "name": "Цефтриаксон",
+    "period": "2-2"
+  }
+]

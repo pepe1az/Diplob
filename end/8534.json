@@ -1,0 +1,97 @@
+[
+  {
+    "frequency": 1,
+    "route": "нет",
+    "dosage": "40.0 мг",
+    "total": "40.0 мг",
+    "name": "Аторвастатин",
+    "period": "1-5"
+  },
+  {
+    "frequency": 1,
+    "route": "нет",
+    "dosage": "40.0 мг",
+    "total": "40.0 мг",
+    "name": "Фуросемид",
+    "period": "1-1"
+  },
+  {
+    "frequency": 4,
+    "route": "нет",
+    "dosage": "2.0 мл",
+    "total": "8.0 мл",
+    "name": "Дексамед",
+    "period": "1-1"
+  },
+  {
+    "route": "не указан",
+    "total": "5.0 мл",
+    "concentration": "50 МГ/мл",
+    "name": "Амиодарон",
+    "period": "1-5"
+  },
+  {
+    "frequency": 1,
+    "route": "нет",
+    "dosage": "5.0 мг",
+    "total": "5.0 мг",
+    "name": "Торасемид-СЗ",
+    "period": "2-3"
+  },
+  {
+    "frequency": 1,
+    "route": "нет",
+    "dosage": "100.0 мг",
+    "total": "100.0 мг",
+    "name": "Тромбо АСС",
+    "period": "2-6"
+  },
+  {
+    "frequency": 1,
+    "route": "нет",
+    "dosage": "90.0 мг",
+    "total": "90.0 мг",
+    "name": "Брилинта",
+    "period": "2-6"
+  },
+  {
+    "frequency": 3,
+    "route": "нет",
+    "dosage": "2.0 мл",
+    "total": "6.0 мл",
+    "name": "Дексмедин",
+    "period": "3-3"
+  },
+  {
+    "frequency": 1,
+    "route": "нет",
+    "dosage": "2.0 мл",
+    "total": "2.0 мл",
+    "name": "Дексмедин",
+    "period": "4-4"
+  },
+  {
+    "frequency": 1,
+    "route": "нет",
+    "dosage": "10.0 мг",
+    "total": "10.0 мг",
+    "name": "Торасемид-СЗ",
+    "period": "4-6"
+  },
+  {
+    "frequency": 0,
+    "route": "нет",
+    "dosage": "100.0 мг",
+    "total": "50.0 мг",
+    "name": "Спиронолактон",
+    "period": "5-5"
+  },
+  {
+    "frequency": 0,
+    "route": "нет",
+    "dosage": "200.0 мл",
+    "total": "5.0 мл",
+    "name": "Калия хлорид",
+    "period": "5-6"
+  }
+]

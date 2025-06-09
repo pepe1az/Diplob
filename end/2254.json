@@ -1,0 +1,57 @@
+[
+  {
+    "frequency": 1,
+    "route": "нет",
+    "dosage": "10.0 мг",
+    "total": "10.0 мг",
+    "name": "Лизиноприл",
+    "period": "1-1"
+  },
+  {
+    "frequency": 1,
+    "route": "нет",
+    "dosage": "75.0 мг",
+    "total": "75.0 мг",
+    "name": "Плавикс",
+    "period": "1-1"
+  },
+  {
+    "frequency": 1,
+    "route": "нет",
+    "dosage": "40.0 мг",
+    "total": "40.0 мг",
+    "name": "Аторис",
+    "period": "1-1"
+  },
+  {
+    "route": "не указан",
+    "total": "8.0 мл",
+    "concentration": "250 МГ/мл",
+    "name": "Магния сульфат",
+    "period": "1-1"
+  },
+  {
+    "frequency": 1,
+    "route": "нет",
+    "dosage": "100.0 мг",
+    "total": "100.0 мг",
+    "name": "Тромбо АСС",
+    "period": "2-2"
+  },
+  {
+    "frequency": 1,
+    "route": "нет",
+    "dosage": "5.0 мг",
+    "total": "5.0 мг",
+    "name": "Бисопролол",
+    "period": "2-2"
+  },
+  {
+    "frequency": 0,
+    "route": "нет",
+    "dosage": "5.0 мл",
+    "total": "1.6 мл",
+    "name": "Магния сульфат",
+    "period": "2-2"
+  }
+]

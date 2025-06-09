@@ -1,0 +1,74 @@
+[
+  {
+    "frequency": 0,
+    "route": "нет",
+    "dosage": "200.0 мл",
+    "total": "6.0 мл",
+    "name": "Калия хлорид",
+    "period": "1-1"
+  },
+  {
+    "frequency": 1,
+    "route": "нет",
+    "dosage": "100.0 мг",
+    "total": "100.0 мг",
+    "name": "Тромбо АСС",
+    "period": "1-1"
+  },
+  {
+    "frequency": 1,
+    "route": "нет",
+    "dosage": "40.0 мг",
+    "total": "40.0 мг",
+    "name": "Аторис",
+    "period": "1-8"
+  },
+  {
+    "frequency": 1,
+    "route": "нет",
+    "dosage": "75.0 мг",
+    "total": "75.0 мг",
+    "name": "Плавикс",
+    "period": "1-8"
+  },
+  {
+    "frequency": 0,
+    "route": "нет",
+    "dosage": "200.0 мл",
+    "total": "5.0 мл",
+    "name": "Калия хлорид",
+    "period": "2-2"
+  },
+  {
+    "frequency": 0,
+    "route": "нет",
+    "dosage": "200.0 мл",
+    "total": "5.0 мл",
+    "name": "Калия хлорид",
+    "period": "4-5"
+  },
+  {
+    "frequency": 0,
+    "route": "нет",
+    "dosage": "200.0 мл",
+    "total": "13.0 мл",
+    "name": "Калия хлорид",
+    "period": "3-3"
+  },
+  {
+    "frequency": 1,
+    "route": "нет",
+    "dosage": "10.0 мг",
+    "total": "10.0 мг",
+    "name": "Лизиноприл",
+    "period": "4-6"
+  },
+  {
+    "frequency": 1,
+    "route": "нет",
+    "dosage": "10.0 мг",
+    "total": "10.0 мг",
+    "name": "Лизиноприл",
+    "period": "8-9"
+  }
+]

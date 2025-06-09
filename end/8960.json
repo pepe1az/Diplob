@@ -1,0 +1,97 @@
+[
+  {
+    "route": "п/к",
+    "total": "0.0 ЕД",
+    "concentration": "100 МЕ/мл",
+    "name": "Актрапид НМ",
+    "period": "1-3"
+  },
+  {
+    "frequency": 2,
+    "route": "в/в капельно",
+    "dosage": "250.0 мл",
+    "total": "500.0 мл",
+    "name": "Калия и магния аспарагинат",
+    "period": "1-1"
+  },
+  {
+    "frequency": 1,
+    "route": "внутрь",
+    "dosage": "20.0 мг",
+    "total": "20.0 мг",
+    "name": "Омепразол",
+    "period": "1-3"
+  },
+  {
+    "frequency": 2,
+    "route": "в/в",
+    "dosage": "50.0 мг",
+    "total": "100.0 мг",
+    "name": "Актилизе с растворителем",
+    "period": "1-1"
+  },
+  {
+    "frequency": 1,
+    "route": "внутрь",
+    "dosage": "20.0 мг",
+    "total": "20.0 мг",
+    "name": "Аторвастатин",
+    "period": "2-3"
+  },
+  {
+    "frequency": 2,
+    "route": "внутрь",
+    "dosage": "100.0 мг",
+    "total": "200.0 мг",
+    "name": "Ацекардол",
+    "period": "2-3"
+  },
+  {
+    "frequency": 1,
+    "route": "внутрь",
+    "dosage": "5.0 мг",
+    "total": "5.0 мг",
+    "name": "Бисопролол",
+    "period": "2-3"
+  },
+  {
+    "frequency": 0,
+    "route": "в/в капельно",
+    "dosage": "200.0 мл",
+    "total": "1.0 мл",
+    "name": "Натрия хлорид",
+    "period": "2-3"
+  },
+  {
+    "frequency": 0,
+    "route": "в/в капельно",
+    "dosage": "200.0 мл",
+    "total": "1.0 мл",
+    "name": "Цитофлавин",
+    "period": "2-3"
+  },
+  {
+    "frequency": 1,
+    "route": "внутрипузырно",
+    "dosage": "200.0 мл",
+    "total": "200.0 мл",
+    "name": "Натрия хлорид",
+    "period": "2-3"
+  },
+  {
+    "frequency": 1,
+    "route": "внутрь",
+    "dosage": "5.0 мг",
+    "total": "5.0 мг",
+    "name": "Амлодипин",
+    "period": "2-3"
+  },
+  {
+    "frequency": 1,
+    "route": "внутрь",
+    "dosage": "100.0 мг",
+    "total": "100.0 мг",
+    "name": "Лозартан",
+    "period": "2-3"
+  }
+]

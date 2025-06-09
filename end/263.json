@@ -1,0 +1,90 @@
+[
+  {
+    "frequency": 3,
+    "route": "в/в капельно",
+    "dosage": "60.0 мл",
+    "total": "180.0 мл",
+    "name": "Калия хлорида",
+    "period": "1-1"
+  },
+  {
+    "frequency": 3,
+    "route": "в/в капельно",
+    "dosage": "60.0 мл",
+    "total": "180.0 мл",
+    "name": "Магния сульфат",
+    "period": "1-1"
+  },
+  {
+    "frequency": 3,
+    "route": "в/в капельно",
+    "dosage": "60.0 мл",
+    "total": "180.0 мл",
+    "name": "Натрия хлорид",
+    "period": "1-1"
+  },
+  {
+    "frequency": 4,
+    "route": "в/в капельно",
+    "dosage": "500.0 мл",
+    "total": "2000.0 мл",
+    "name": "Натрия хлорид",
+    "period": "1-1"
+  },
+  {
+    "frequency": 1,
+    "route": "в/м",
+    "dosage": "0 мл",
+    "total": "0 мл",
+    "name": "Цефабол",
+    "period": "1-2"
+  },
+  {
+    "frequency": 1,
+    "route": "в/м",
+    "dosage": "2.0 мл",
+    "total": "2.0 мл",
+    "name": "сибазон",
+    "period": "1-2"
+  },
+  {
+    "frequency": 4,
+    "route": "в/в капельно",
+    "dosage": "60.0 мл",
+    "total": "240.0 мл",
+    "name": "Калия хлорида",
+    "period": "2-2"
+  },
+  {
+    "frequency": 4,
+    "route": "в/в капельно",
+    "dosage": "60.0 мл",
+    "total": "240.0 мл",
+    "name": "Магния сульфат",
+    "period": "2-2"
+  },
+  {
+    "frequency": 4,
+    "route": "в/в капельно",
+    "dosage": "60.0 мл",
+    "total": "240.0 мл",
+    "name": "Натрия хлорид",
+    "period": "2-2"
+  },
+  {
+    "frequency": 5,
+    "route": "в/в капельно",
+    "dosage": "500.0 мл",
+    "total": "2500.0 мл",
+    "name": "Натрия хлорид",
+    "period": "2-2"
+  },
+  {
+    "frequency": 2,
+    "route": "п/к",
+    "dosage": "2.0 мл",
+    "total": "4.0 мл",
+    "name": "Трамадол",
+    "period": "2-2"
+  }
+]

@@ -1,0 +1,98 @@
+[
+  {
+    "frequency": 1,
+    "route": "в/м",
+    "dosage": "0 мл",
+    "total": "2.0 мл",
+    "name": "Sol. Tramadoli l",
+    "period": "1-1"
+  },
+  {
+    "frequency": 2,
+    "route": "в/м",
+    "dosage": "3.0 мл",
+    "total": "6.0 мл",
+    "name": "Диклофенак",
+    "period": "1-2"
+  },
+  {
+    "frequency": 4,
+    "route": "в/в",
+    "dosage": "2.0 мл",
+    "total": "8.0 мл",
+    "name": "Этамзилат",
+    "period": "1-2"
+  },
+  {
+    "frequency": 3,
+    "route": "в/в капельно",
+    "dosage": "500.0 мл",
+    "total": "1500.0 мл",
+    "name": "Натрия хлорид",
+    "period": "1-2"
+  },
+  {
+    "frequency": 3,
+    "route": "в/в капельно",
+    "dosage": "5.0 мл",
+    "total": "15.0 мл",
+    "name": "Магния сульфат",
+    "period": "1-2"
+  },
+  {
+    "frequency": 0,
+    "route": "в/в капельно",
+    "dosage": "200.0 мл",
+    "total": "90.0 мл",
+    "name": "Калия хлорид",
+    "period": "1-2"
+  },
+  {
+    "frequency": 0,
+    "route": "в/м",
+    "dosage": "1.0 мл",
+    "total": "0.0 мл",
+    "name": "Феназепам",
+    "period": "1-2"
+  },
+  {
+    "frequency": 1,
+    "route": "в/в капельно",
+    "dosage": "500.0 мл",
+    "total": "500.0 мл",
+    "name": "Рингера-ацетат",
+    "period": "1-1"
+  },
+  {
+    "frequency": 1,
+    "route": "в/в",
+    "dosage": "0 мл",
+    "total": "0 мл",
+    "name": "Аксетин",
+    "period": "1-2"
+  },
+  {
+    "frequency": 1,
+    "route": "внутрь",
+    "dosage": "10.0 мг",
+    "total": "10.0 мг",
+    "name": "Ксарелто",
+    "period": "1-2"
+  },
+  {
+    "frequency": 1,
+    "route": "в/м",
+    "dosage": "0 мл",
+    "total": "6.0 мл",
+    "name": "Sol. Tramadoli l",
+    "period": "2-2"
+  },
+  {
+    "frequency": 2,
+    "route": "в/в капельно",
+    "dosage": "500.0 мл",
+    "total": "1000.0 мл",
+    "name": "Рингера-ацетат",
+    "period": "2-2"
+  }
+]

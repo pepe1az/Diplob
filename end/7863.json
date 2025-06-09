@@ -1,0 +1,78 @@
+[
+  {
+    "frequency": 2,
+    "route": "нет",
+    "dosage": "90.0 мг",
+    "total": "180.0 мг",
+    "name": "Брилинта",
+    "period": "1-1"
+  },
+  {
+    "frequency": 1,
+    "route": "нет",
+    "dosage": "40.0 мг",
+    "total": "40.0 мг",
+    "name": "Аторвастатин",
+    "period": "1-1"
+  },
+  {
+    "route": "не указан",
+    "total": "5.0 мл",
+    "concentration": "50 МГ/мл",
+    "name": "Амиодарон",
+    "period": "1-1"
+  },
+  {
+    "route": "не указан",
+    "total": "5.0 мл",
+    "concentration": "50 МГ/мл",
+    "name": "Амиодарон",
+    "period": "3-3"
+  },
+  {
+    "frequency": 1,
+    "route": "нет",
+    "dosage": "100.0 мг",
+    "total": "100.0 мг",
+    "name": "Тромбо АСС",
+    "period": "1-2"
+  },
+  {
+    "frequency": 1,
+    "route": "нет",
+    "dosage": "90.0 мг",
+    "total": "90.0 мг",
+    "name": "Брилинта",
+    "period": "2-3"
+  },
+  {
+    "frequency": 1,
+    "route": "нет",
+    "dosage": "200.0 мг",
+    "total": "200.0 мг",
+    "name": "Амиодарон",
+    "period": "2-2"
+  },
+  {
+    "route": "не указан",
+    "total": "3.0 мл",
+    "concentration": "2 МГ/мл",
+    "name": "Норадреналин Агетан",
+    "period": "2-2"
+  },
+  {
+    "route": "не указан",
+    "total": "200.0 мл",
+    "concentration": "5 МГ/мл",
+    "name": "Левофлоксацин",
+    "period": "3-3"
+  },
+  {
+    "frequency": 4,
+    "route": "нет",
+    "dosage": "5.0 мг",
+    "total": "20.0 мг",
+    "name": "Торасемид-СЗ",
+    "period": "3-3"
+  }
+]

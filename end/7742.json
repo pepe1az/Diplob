@@ -1,0 +1,165 @@
+[
+  {
+    "frequency": 1,
+    "route": "в/м",
+    "dosage": "0 мл",
+    "total": "4.0 мл",
+    "name": "Sol. Tramadoli l",
+    "period": "1-1"
+  },
+  {
+    "frequency": 0,
+    "route": "в/в",
+    "dosage": "200.0 мл",
+    "total": "45.0 мл",
+    "name": "Калия хлорид",
+    "period": "1-1"
+  },
+  {
+    "frequency": 2,
+    "route": "в/в",
+    "dosage": "20.0 мг",
+    "total": "40.0 мг",
+    "name": "Квамател с растворителем",
+    "period": "1-3"
+  },
+  {
+    "route": "в/м",
+    "total": "2.0 мл",
+    "concentration": "50 МГ/мл",
+    "name": "Кетонал",
+    "period": "1-1"
+  },
+  {
+    "route": "не указан",
+    "total": "20.0 мл",
+    "concentration": "10 МГ/мл",
+    "name": "Наропин",
+    "period": "1-2"
+  },
+  {
+    "frequency": 3,
+    "route": "в/в капельно",
+    "dosage": "500.0 мл",
+    "total": "1500.0 мл",
+    "name": "Стерофундин изотонический",
+    "period": "1-1"
+  },
+  {
+    "frequency": 3,
+    "route": "в/в капельно",
+    "dosage": "500.0 мл",
+    "total": "1500.0 мл",
+    "name": "Стерофундин изотонический",
+    "period": "3-3"
+  },
+  {
+    "frequency": 1,
+    "route": "в/в",
+    "dosage": "0 мл",
+    "total": "0 мл",
+    "name": "Цефтриаксон",
+    "period": "1-2"
+  },
+  {
+    "frequency": 2,
+    "route": "в/м",
+    "dosage": "1.0 мл",
+    "total": "2.0 мл",
+    "name": "Элзепам",
+    "period": "1-1"
+  },
+  {
+    "route": "в/м",
+    "total": "8.0 мл",
+    "concentration": "125 МГ/мл",
+    "name": "Этамзилат-Ферейн",
+    "period": "1-2"
+  },
+  {
+    "frequency": 1,
+    "route": "в/м",
+    "dosage": "0 мл",
+    "total": "0.0 мл",
+    "name": "Sol. Tramadoli l",
+    "period": "2-3"
+  },
+  {
+    "frequency": 0,
+    "route": "в/в",
+    "dosage": "200.0 мл",
+    "total": "50.0 мл",
+    "name": "Калия хлорид",
+    "period": "2-2"
+  },
+  {
+    "route": "в/м",
+    "total": "4.0 мл",
+    "concentration": "50 МГ/мл",
+    "name": "Кетонал",
+    "period": "2-2"
+  },
+  {
+    "frequency": 2,
+    "route": "в/в капельно",
+    "dosage": "500.0 мл",
+    "total": "1000.0 мл",
+    "name": "Стерофундин изотонический",
+    "period": "2-2"
+  },
+  {
+    "frequency": 0,
+    "route": "в/м",
+    "dosage": "1.0 мл",
+    "total": "0.0 мл",
+    "name": "Элзепам",
+    "period": "2-2"
+  },
+  {
+    "frequency": 0,
+    "route": "в/в капельно",
+    "dosage": "200.0 мл",
+    "total": "60.0 мл",
+    "name": "Калия хлорид",
+    "period": "3-3"
+  },
+  {
+    "frequency": 1,
+    "route": "в/в",
+    "dosage": "1.0 мл",
+    "total": "1.0 мл",
+    "name": "Элзепам",
+    "period": "3-3"
+  },
+  {
+    "frequency": 2,
+    "route": "в/м",
+    "dosage": "3.0 мл",
+    "total": "6.0 мл",
+    "name": "Диклофенак",
+    "period": "3-3"
+  },
+  {
+    "route": "п/к",
+    "total": "0.3 мл",
+    "concentration": "9500 МЕ/мл",
+    "name": "Фраксипарин",
+    "period": "3-3"
+  },
+  {
+    "frequency": 3,
+    "route": "в/в капельно",
+    "dosage": "1000.0 мг",
+    "total": "3000.0 мг",
+    "name": "Дженем",
+    "period": "3-3"
+  },
+  {
+    "frequency": 3,
+    "route": "в/в капельно",
+    "dosage": "100.0 мл",
+    "total": "300.0 мл",
+    "name": "Натрия хлорид",
+    "period": "3-3"
+  }
+]

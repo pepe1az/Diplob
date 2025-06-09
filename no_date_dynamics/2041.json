@@ -1,0 +1,51 @@
+{
+    "treatment": {
+        "day_1": {
+            "Sol. Tramadoli l": {
+                "frequency": 1,
+                "route": "в/м",
+                "dosage": "0 мл",
+                "total": "6.0 мл"
+            },
+            "Окситоцин-Рихтер": {
+                "frequency": 1,
+                "route": "в/м",
+                "dosage": "0 мл",
+                "total": "10.0 мл"
+            },
+            "Кетонал": {
+                "route": "в/м",
+                "total": "4.0 мл",
+                "concentration": "50 МГ/мл"
+            },
+            "Фраксипарин": {
+                "route": "п/к",
+                "total": "0.3 мл",
+                "concentration": "9500 МЕ/мл"
+            },
+            "Ифимол": {
+                "route": "в/в",
+                "total": "200.0 мл",
+                "concentration": "10 МГ/мл"
+            },
+            "Калия и магния аспарагинат": {
+                "frequency": 2,
+                "route": "в/в капельно",
+                "dosage": "250.0 мл",
+                "total": "500.0 мл"
+            },
+            "Амоксиклав": {
+                "frequency": 1,
+                "route": "в/в",
+                "dosage": "0 мл",
+                "total": "0 мл"
+            },
+            "Рингера-ацетат": {
+                "frequency": 2,
+                "route": "в/в капельно",
+                "dosage": "500.0 мл",
+                "total": "1000.0 мл"
+            }
+        }
+    }
+}

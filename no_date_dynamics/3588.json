@@ -1,0 +1,44 @@
+{
+    "treatment": {
+        "day_1": {
+            "Аторис": {
+                "frequency": 1,
+                "route": "нет",
+                "dosage": "40.0 мг",
+                "total": "40.0 мг"
+            },
+            "Изокет": {
+                "frequency": 0,
+                "route": "нет",
+                "dosage": "10.0 мл",
+                "total": "1.0 мл"
+            },
+            "Тромбо АСС": {
+                "frequency": 1,
+                "route": "нет",
+                "dosage": "100.0 мг",
+                "total": "100.0 мг"
+            },
+            "Плавикс": {
+                "frequency": 1,
+                "route": "нет",
+                "dosage": "75.0 мг",
+                "total": "75.0 мг"
+            }
+        },
+        "day_2": {
+            "Изокет": {
+                "frequency": 0,
+                "route": "нет",
+                "dosage": "10.0 мл",
+                "total": "1.0 мл"
+            },
+            "Лизиноприл": {
+                "frequency": 1,
+                "route": "нет",
+                "dosage": "10.0 мг",
+                "total": "10.0 мг"
+            }
+        }
+    }
+}

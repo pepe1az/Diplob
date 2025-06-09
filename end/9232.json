@@ -1,0 +1,318 @@
+[
+  {
+    "route": "не указан",
+    "total": "3.0 мл",
+    "concentration": "2 МГ/мл",
+    "name": "Норадреналин Агетан",
+    "period": "1-1"
+  },
+  {
+    "route": "не указан",
+    "total": "7.0 мл",
+    "concentration": "2 МГ/мл",
+    "name": "Норадреналин Агетан",
+    "period": "2-2"
+  },
+  {
+    "frequency": 1,
+    "route": "нет",
+    "dosage": "5.0 мг",
+    "total": "5.0 мг",
+    "name": "Бисопролол",
+    "period": "2-2"
+  },
+  {
+    "frequency": 1,
+    "route": "нет",
+    "dosage": "100.0 мг",
+    "total": "100.0 мг",
+    "name": "Тромбо АСС",
+    "period": "2-3"
+  },
+  {
+    "frequency": 0,
+    "route": "нет",
+    "dosage": "250.0 мг",
+    "total": "7.0 мг",
+    "name": "Добутамин",
+    "period": "2-7"
+  },
+  {
+    "route": "не указан",
+    "total": "2.5 мл",
+    "concentration": "50 МГ/мл",
+    "name": "Амиодарон",
+    "period": "2-3"
+  },
+  {
+    "route": "не указан",
+    "total": "2.5 мл",
+    "concentration": "50 МГ/мл",
+    "name": "Амиодарон",
+    "period": "11-11"
+  },
+  {
+    "frequency": 1,
+    "route": "нет",
+    "dosage": "40.0 мг",
+    "total": "40.0 мг",
+    "name": "Аторвастатин",
+    "period": "2-2"
+  },
+  {
+    "frequency": 1,
+    "route": "нет",
+    "dosage": "75.0 мг",
+    "total": "75.0 мг",
+    "name": "Плавикс",
+    "period": "2-13"
+  },
+  {
+    "frequency": 1,
+    "route": "нет",
+    "dosage": "75.0 мг",
+    "total": "75.0 мг",
+    "name": "Плавикс",
+    "period": "16-18"
+  },
+  {
+    "frequency": 0,
+    "route": "нет",
+    "dosage": "200.0 мл",
+    "total": "4.0 мл",
+    "name": "Калия хлорид",
+    "period": "3-4"
+  },
+  {
+    "route": "не указан",
+    "total": "9.0 мл",
+    "concentration": "2 МГ/мл",
+    "name": "Норадреналин Агетан",
+    "period": "3-3"
+  },
+  {
+    "frequency": 1,
+    "route": "нет",
+    "dosage": "20.0 мг",
+    "total": "20.0 мг",
+    "name": "Омез",
+    "period": "3-11"
+  },
+  {
+    "frequency": 1,
+    "route": "нет",
+    "dosage": "20.0 мг",
+    "total": "20.0 мг",
+    "name": "Омез",
+    "period": "13-13"
+  },
+  {
+    "frequency": 1,
+    "route": "нет",
+    "dosage": "20.0 мг",
+    "total": "20.0 мг",
+    "name": "Омез",
+    "period": "16-18"
+  },
+  {
+    "frequency": 1,
+    "route": "нет",
+    "dosage": "400.0 мг",
+    "total": "400.0 мг",
+    "name": "Моксифло",
+    "period": "3-6"
+  },
+  {
+    "route": "не указан",
+    "total": "5.0 мл",
+    "concentration": "2 МГ/мл",
+    "name": "Норадреналин Агетан",
+    "period": "4-4"
+  },
+  {
+    "frequency": 1,
+    "route": "нет",
+    "dosage": "200.0 мг",
+    "total": "200.0 мг",
+    "name": "Амиодарон",
+    "period": "4-4"
+  },
+  {
+    "frequency": 1,
+    "route": "нет",
+    "dosage": "200.0 мг",
+    "total": "200.0 мг",
+    "name": "Амиодарон",
+    "period": "6-10"
+  },
+  {
+    "frequency": 1,
+    "route": "нет",
+    "dosage": "200.0 мг",
+    "total": "200.0 мг",
+    "name": "Амиодарон",
+    "period": "12-13"
+  },
+  {
+    "frequency": 1,
+    "route": "нет",
+    "dosage": "200.0 мг",
+    "total": "200.0 мг",
+    "name": "Амиодарон",
+    "period": "16-16"
+  },
+  {
+    "route": "не указан",
+    "total": "6.0 мл",
+    "concentration": "2 МГ/мл",
+    "name": "Норадреналин Агетан",
+    "period": "5-5"
+  },
+  {
+    "route": "не указан",
+    "total": "5.0 мл",
+    "concentration": "50 МГ/мл",
+    "name": "Амиодарон",
+    "period": "5-5"
+  },
+  {
+    "route": "не указан",
+    "total": "4.0 мл",
+    "concentration": "2 МГ/мл",
+    "name": "Норадреналин Агетан",
+    "period": "6-7"
+  },
+  {
+    "frequency": 2,
+    "route": "нет",
+    "dosage": "40.0 мг",
+    "total": "60.0 мг",
+    "name": "Фуросемид",
+    "period": "8-8"
+  },
+  {
+    "frequency": 1,
+    "route": "нет",
+    "dosage": "40.0 мг",
+    "total": "40.0 мг",
+    "name": "Фуросемид",
+    "period": "9-9"
+  },
+  {
+    "frequency": 0,
+    "route": "нет",
+    "dosage": "100.0 мг",
+    "total": "50.0 мг",
+    "name": "Спиронолактон",
+    "period": "10-11"
+  },
+  {
+    "frequency": 1,
+    "route": "нет",
+    "dosage": "10.0 мг",
+    "total": "10.0 мг",
+    "name": "Торасемид-СЗ",
+    "period": "10-11"
+  },
+  {
+    "frequency": 0,
+    "route": "нет",
+    "dosage": "5.0 мг",
+    "total": "2.5 мг",
+    "name": "Бисопролол",
+    "period": "10-12"
+  },
+  {
+    "frequency": 0,
+    "route": "нет",
+    "dosage": "400.0 мл",
+    "total": "7.0 мл",
+    "name": "Калия хлорид",
+    "period": "10-10"
+  },
+  {
+    "frequency": 1,
+    "route": "нет",
+    "dosage": "40.0 мг",
+    "total": "40.0 мг",
+    "name": "Лосек",
+    "period": "10-10"
+  },
+  {
+    "route": "не указан",
+    "total": "3.0 мл",
+    "concentration": "40 МГ/мл",
+    "name": "Калия хлорид",
+    "period": "11-13"
+  },
+  {
+    "frequency": 1,
+    "route": "нет",
+    "dosage": "10.0 мг",
+    "total": "10.0 мг",
+    "name": "Метоклопрамид",
+    "period": "11-11"
+  },
+  {
+    "frequency": 2,
+    "route": "нет",
+    "dosage": "40.0 мг",
+    "total": "80.0 мг",
+    "name": "Фуросемид",
+    "period": "11-11"
+  },
+  {
+    "frequency": 1,
+    "route": "нет",
+    "dosage": "400.0 мг",
+    "total": "400.0 мг",
+    "name": "Гептрал",
+    "period": "11-15"
+  },
+  {
+    "frequency": 1,
+    "route": "нет",
+    "dosage": "400.0 мг",
+    "total": "400.0 мг",
+    "name": "Гептрал",
+    "period": "17-19"
+  },
+  {
+    "frequency": 4,
+    "route": "нет",
+    "dosage": "5.0 мг",
+    "total": "20.0 мг",
+    "name": "Торасемид-СЗ",
+    "period": "12-13"
+  },
+  {
+    "frequency": 4,
+    "route": "нет",
+    "dosage": "5.0 мг",
+    "total": "20.0 мг",
+    "name": "Торасемид-СЗ",
+    "period": "16-18"
+  },
+  {
+    "frequency": 2,
+    "route": "нет",
+    "dosage": "200.0 мг",
+    "total": "400.0 мг",
+    "name": "Амиодарон",
+    "period": "14-14"
+  },
+  {
+    "route": "не указан",
+    "total": "5.0 мл",
+    "concentration": "40 МГ/мл",
+    "name": "Калия хлорид",
+    "period": "16-19"
+  },
+  {
+    "route": "не указан",
+    "total": "2.0 мл",
+    "concentration": "250 МГ/мл",
+    "name": "Магния сульфат",
+    "period": "17-19"
+  }
+]

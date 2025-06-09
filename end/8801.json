@@ -1,0 +1,156 @@
+[
+  {
+    "route": "п/к",
+    "total": "12.0 ЕД",
+    "concentration": "100 МЕ/мл",
+    "name": "Актрапид НМ",
+    "period": "1-1"
+  },
+  {
+    "frequency": 3,
+    "route": "внутрь",
+    "dosage": "100.0 мг",
+    "total": "325.0 мг",
+    "name": "Ацекардол",
+    "period": "1-2"
+  },
+  {
+    "frequency": 1,
+    "route": "внутрь",
+    "dosage": "20.0 мг",
+    "total": "20.0 мг",
+    "name": "Аторвастатин-К",
+    "period": "1-2"
+  },
+  {
+    "frequency": 1,
+    "route": "внутрь",
+    "dosage": "20.0 мг",
+    "total": "20.0 мг",
+    "name": "Омепразол",
+    "period": "1-2"
+  },
+  {
+    "frequency": 1,
+    "route": "внутрь",
+    "dosage": "1.0 мг",
+    "total": "1.0 мг",
+    "name": "Транквезипам",
+    "period": "1-2"
+  },
+  {
+    "route": "в/в капельно",
+    "total": "15.0 мл",
+    "concentration": "75 МГ/мл",
+    "name": "Калия хлорид",
+    "period": "1-1"
+  },
+  {
+    "frequency": 1,
+    "route": "в/в капельно",
+    "dosage": "250.0 мл",
+    "total": "250.0 мл",
+    "name": "Калия и магния аспарагинат",
+    "period": "1-1"
+  },
+  {
+    "route": "в/в капельно",
+    "total": "10.0 мл",
+    "concentration": "250 МГ/мл",
+    "name": "Магния сульфат",
+    "period": "1-1"
+  },
+  {
+    "frequency": 1,
+    "route": "в/в капельно",
+    "dosage": "100.0 мл",
+    "total": "100.0 мл",
+    "name": "Натрия хлорид",
+    "period": "1-1"
+  },
+  {
+    "frequency": 1,
+    "route": "в/в капельно",
+    "dosage": "10.0 мл",
+    "total": "10.0 мл",
+    "name": "Цитофлавин",
+    "period": "1-2"
+  },
+  {
+    "frequency": 1,
+    "route": "внутрь",
+    "dosage": "5.0 мг",
+    "total": "5.0 мг",
+    "name": "Бисопролол",
+    "period": "1-2"
+  },
+  {
+    "frequency": 1,
+    "route": "внутрь",
+    "dosage": "10.0 мг",
+    "total": "10.0 мг",
+    "name": "Лизиноприл",
+    "period": "1-1"
+  },
+  {
+    "frequency": 1,
+    "route": "внутрь",
+    "dosage": "2.5 мг",
+    "total": "2.5 мг",
+    "name": "Индапамид",
+    "period": "1-2"
+  },
+  {
+    "frequency": 2,
+    "route": "внутрь",
+    "dosage": "5.0 мг",
+    "total": "10.0 мг",
+    "name": "Амлодипин",
+    "period": "1-1"
+  },
+  {
+    "route": "п/к",
+    "total": "0.0 ЕД",
+    "concentration": "100 МЕ/мл",
+    "name": "Актрапид НМ",
+    "period": "2-2"
+  },
+  {
+    "route": "в/в капельно",
+    "total": "20.0 мл",
+    "concentration": "75 МГ/мл",
+    "name": "Калия хлорид",
+    "period": "2-2"
+  },
+  {
+    "route": "в/в капельно",
+    "total": "20.0 мл",
+    "concentration": "250 МГ/мл",
+    "name": "Магния сульфат",
+    "period": "2-2"
+  },
+  {
+    "frequency": 2,
+    "route": "в/в капельно",
+    "dosage": "250.0 мл",
+    "total": "500.0 мл",
+    "name": "Натрия хлорид",
+    "period": "2-2"
+  },
+  {
+    "frequency": 2,
+    "route": "внутрь",
+    "dosage": "10.0 мг",
+    "total": "20.0 мг",
+    "name": "Лизиноприл",
+    "period": "2-2"
+  },
+  {
+    "frequency": 1,
+    "route": "внутрь",
+    "dosage": "5.0 мг",
+    "total": "5.0 мг",
+    "name": "Амлодипин",
+    "period": "2-2"
+  }
+]

@@ -1,0 +1,153 @@
+[
+  {
+    "frequency": 1,
+    "route": "в/м",
+    "dosage": "0 мл",
+    "total": "4.0 мл",
+    "name": "Sol. Sibasoni l",
+    "period": "1-1"
+  },
+  {
+    "frequency": 1,
+    "route": "в/в капельно",
+    "dosage": "400.0 мл",
+    "total": "400.0 мл",
+    "name": "Натрия хлорид",
+    "period": "1-1"
+  },
+  {
+    "frequency": 1,
+    "route": "внутрь",
+    "dosage": "5.0 мг",
+    "total": "5.0 мг",
+    "name": "Амлодипин",
+    "period": "2-4"
+  },
+  {
+    "frequency": 1,
+    "route": "внутрь",
+    "dosage": "5.0 мг",
+    "total": "5.0 мг",
+    "name": "Амприлан",
+    "period": "2-4"
+  },
+  {
+    "frequency": 1,
+    "route": "внутрь",
+    "dosage": "25.0 мг",
+    "total": "25.0 мг",
+    "name": "Верошпилактон",
+    "period": "2-4"
+  },
+  {
+    "frequency": 1,
+    "route": "внутрь",
+    "dosage": "5.0 мг",
+    "total": "5.0 мг",
+    "name": "Диувер",
+    "period": "2-4"
+  },
+  {
+    "frequency": 1,
+    "route": "внутрь",
+    "dosage": "75.0 мг",
+    "total": "75.0 мг",
+    "name": "Кардиомагнил",
+    "period": "2-4"
+  },
+  {
+    "route": "в/в",
+    "total": "4.0 мл",
+    "concentration": "50 МГ/мл",
+    "name": "Кетонал раствор для и в введения",
+    "period": "2-4"
+  },
+  {
+    "frequency": 2,
+    "route": "внутрь",
+    "dosage": "20.0 мг",
+    "total": "40.0 мг",
+    "name": "Омепразол",
+    "period": "2-4"
+  },
+  {
+    "frequency": 1,
+    "route": "п/к",
+    "dosage": "0.2 мл",
+    "total": "0.2 мл",
+    "name": "Фрагмин Е",
+    "period": "2-4"
+  },
+  {
+    "frequency": 1,
+    "route": "в/в",
+    "dosage": "0 мл",
+    "total": "0 мл",
+    "name": "Цефоперазон и Сульбактам Джодас",
+    "period": "2-4"
+  },
+  {
+    "frequency": 1,
+    "route": "внутрь",
+    "dosage": "0 мл",
+    "total": "1.0 мл",
+    "name": "Tab. Phenasepami g",
+    "period": "2-4"
+  },
+  {
+    "frequency": 1,
+    "route": "в/в капельно",
+    "dosage": "40.0 мл",
+    "total": "40.0 мл",
+    "name": "Калия хлорида",
+    "period": "2-4"
+  },
+  {
+    "frequency": 1,
+    "route": "в/в капельно",
+    "dosage": "40.0 мл",
+    "total": "40.0 мл",
+    "name": "Магния сульфат",
+    "period": "2-4"
+  },
+  {
+    "frequency": 1,
+    "route": "в/в капельно",
+    "dosage": "40.0 мл",
+    "total": "40.0 мл",
+    "name": "Натрия хлорид",
+    "period": "2-4"
+  },
+  {
+    "frequency": 1,
+    "route": "Местно",
+    "dosage": "400.0 мл",
+    "total": "400.0 мл",
+    "name": "Натрия хлорид",
+    "period": "2-4"
+  },
+  {
+    "frequency": 1,
+    "route": "Местно",
+    "dosage": "400.0 мл",
+    "total": "400.0 мл",
+    "name": "Бетадин р-р",
+    "period": "2-4"
+  },
+  {
+    "frequency": 1,
+    "route": "в/в капельно",
+    "dosage": "500.0 мл",
+    "total": "500.0 мл",
+    "name": "Рингера р-р",
+    "period": "2-4"
+  },
+  {
+    "frequency": 1,
+    "route": "в/м",
+    "dosage": "0 мл",
+    "total": "4.0 мл",
+    "name": "Sol. Tramadoli l",
+    "period": "3-4"
+  }
+]

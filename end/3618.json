@@ -1,0 +1,39 @@
+[
+  {
+    "route": "в/в",
+    "total": "1.0 дозсмеси",
+    "concentration": "50 МГ/мл",
+    "name": "Кордарон",
+    "period": "1-1"
+  },
+  {
+    "route": "в/в",
+    "total": "1.0 дозсмеси",
+    "concentration": "50 МГ/мл",
+    "name": "Глюкоза",
+    "period": "1-1"
+  },
+  {
+    "route": "п/к",
+    "total": "0.5 мл",
+    "concentration": "5 МГ/мл",
+    "name": "Арикстра",
+    "period": "1-1"
+  },
+  {
+    "frequency": 0,
+    "route": "в/в",
+    "dosage": "30.0 мл",
+    "total": "2.0 мл",
+    "name": "Калия хлорида",
+    "period": "1-1"
+  },
+  {
+    "frequency": 0,
+    "route": "в/в",
+    "dosage": "30.0 мл",
+    "total": "2.0 мл",
+    "name": "Глюкоза",
+    "period": "1-1"
+  }
+]

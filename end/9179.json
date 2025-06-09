@@ -1,0 +1,190 @@
+[
+  {
+    "frequency": 0,
+    "route": "внутрь",
+    "dosage": "100.0 мг",
+    "total": "0.0 мг",
+    "name": "Ацекардол",
+    "period": "1-1"
+  },
+  {
+    "frequency": 0,
+    "route": "внутрь",
+    "dosage": "10.0 мг",
+    "total": "5.0 мг",
+    "name": "Лизиноприл",
+    "period": "1-1"
+  },
+  {
+    "frequency": 0,
+    "route": "внутрь",
+    "dosage": "75.0 мг",
+    "total": "0.0 мг",
+    "name": "Плавикс",
+    "period": "1-1"
+  },
+  {
+    "frequency": 0,
+    "route": "в/в капельно",
+    "dosage": "20.0 мл",
+    "total": "3.0 мл",
+    "name": "Изокет",
+    "period": "1-1"
+  },
+  {
+    "frequency": 0,
+    "route": "в/в капельно",
+    "dosage": "20.0 мл",
+    "total": "3.0 мл",
+    "name": "Натрия хлорид",
+    "period": "1-1"
+  },
+  {
+    "frequency": 1,
+    "route": "внутрь",
+    "dosage": "5.0 мг",
+    "total": "5.0 мг",
+    "name": "Бисопролол - Прана",
+    "period": "1-1"
+  },
+  {
+    "frequency": 4,
+    "route": "промыв катетера",
+    "dosage": "50.0 мл",
+    "total": "200.0 мл",
+    "name": "Натрия хлорид",
+    "period": "1-12"
+  },
+  {
+    "route": "промыв катетера",
+    "total": "4.0 дозсмеси",
+    "concentration": "5000 ЕД/мл",
+    "name": "Гепарин",
+    "period": "1-12"
+  },
+  {
+    "route": "промыв катетера",
+    "total": "4.0 дозсмеси",
+    "concentration": "5000 ЕД/мл",
+    "name": "Натрия хлорид",
+    "period": "1-12"
+  },
+  {
+    "frequency": 4,
+    "route": "внутрь",
+    "dosage": "10.0 мг",
+    "total": "40.0 мг",
+    "name": "Аторвастатин",
+    "period": "1-8"
+  },
+  {
+    "frequency": 1,
+    "route": "п/к",
+    "dosage": "0.7 мл",
+    "total": "0.7 мл",
+    "name": "Эниксум нти-Ха",
+    "period": "1-1"
+  },
+  {
+    "frequency": 1,
+    "route": "внутрь",
+    "dosage": "75.0 мг",
+    "total": "75.0 мг",
+    "name": "Плавикс",
+    "period": "2-12"
+  },
+  {
+    "frequency": 1,
+    "route": "внутрь",
+    "dosage": "20.0 мг",
+    "total": "20.0 мг",
+    "name": "Омепразол",
+    "period": "2-8"
+  },
+  {
+    "frequency": 1,
+    "route": "внутрь",
+    "dosage": "10.0 мг",
+    "total": "10.0 мг",
+    "name": "Торасемид",
+    "period": "2-12"
+  },
+  {
+    "frequency": 1,
+    "route": "внутрь",
+    "dosage": "100.0 мг",
+    "total": "100.0 мг",
+    "name": "Спиронолактон",
+    "period": "2-12"
+  },
+  {
+    "frequency": 1,
+    "route": "внутрь",
+    "dosage": "500.0 мл",
+    "total": "500.0 мл",
+    "name": "Изосурс Стандарт",
+    "period": "3-12"
+  },
+  {
+    "frequency": 0,
+    "route": "п/к",
+    "dosage": "2.0 мл",
+    "total": "0.2 мл",
+    "name": "Эниксум нти-Ха",
+    "period": "3-12"
+  },
+  {
+    "frequency": 2,
+    "route": "внутрь",
+    "dosage": "0.25 мг",
+    "total": "0.5 мг",
+    "name": "Дигоксин",
+    "period": "4-9"
+  },
+  {
+    "route": "в/в",
+    "total": "2.0 дозсмеси",
+    "concentration": "6 МГ/мл",
+    "name": "Коргликард",
+    "period": "4-7"
+  },
+  {
+    "route": "в/в",
+    "total": "2.0 дозсмеси",
+    "concentration": "6 МГ/мл",
+    "name": "Натрия хлорид",
+    "period": "4-7"
+  },
+  {
+    "frequency": 2,
+    "route": "внутрь",
+    "dosage": "500.0 мг",
+    "total": "1000.0 мг",
+    "name": "Левофлоксацин",
+    "period": "6-12"
+  },
+  {
+    "frequency": 1,
+    "route": "внутрь",
+    "dosage": "0.25 мг",
+    "total": "0.25 мг",
+    "name": "Дигоксин",
+    "period": "10-12"
+  },
+  {
+    "frequency": 0,
+    "route": "в/в",
+    "dosage": "50.0 мл",
+    "total": "2.0 мл",
+    "name": "Глюкоза",
+    "period": "11-12"
+  },
+  {
+    "frequency": 0,
+    "route": "в/в",
+    "dosage": "50.0 мл",
+    "total": "2.0 мл",
+    "name": "Самеликс",
+    "period": "11-12"
+  }
+]

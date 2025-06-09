@@ -1,0 +1,80 @@
+[
+  {
+    "route": "п/к",
+    "total": "0.5 мл",
+    "concentration": "5 МГ/мл",
+    "name": "Арикстра",
+    "period": "1-1"
+  },
+  {
+    "frequency": 0,
+    "route": "в/в капельно",
+    "dosage": "10.0 мл",
+    "total": "3.0 мл",
+    "name": "Изокет",
+    "period": "1-1"
+  },
+  {
+    "frequency": 0,
+    "route": "в/в капельно",
+    "dosage": "10.0 мл",
+    "total": "3.0 мл",
+    "name": "Натрия хлорид",
+    "period": "1-1"
+  },
+  {
+    "frequency": 3,
+    "route": "в/в",
+    "dosage": "25.0 мл",
+    "total": "75.0 мл",
+    "name": "Натрия хлорид",
+    "period": "1-1"
+  },
+  {
+    "frequency": 1,
+    "route": "внутрь",
+    "dosage": "40.0 мг",
+    "total": "40.0 мг",
+    "name": "Аторис",
+    "period": "1-1"
+  },
+  {
+    "frequency": 6,
+    "route": "промыв катетера",
+    "dosage": "0.5 мл",
+    "total": "3.0 мл",
+    "name": "Гепарин-натрий Браун .",
+    "period": "1-1"
+  },
+  {
+    "frequency": 6,
+    "route": "промыв катетера",
+    "dosage": "0.5 мл",
+    "total": "3.0 мл",
+    "name": "Натрия хлорид",
+    "period": "1-1"
+  },
+  {
+    "frequency": 1,
+    "route": "внутрь",
+    "dosage": "100.0 мг",
+    "total": "100.0 мг",
+    "name": "Ацекардол",
+    "period": "1-1"
+  },
+  {
+    "frequency": 1,
+    "route": "ингаляционно",
+    "dosage": "0 мл",
+    "total": "0 мл",
+    "name": "Спирива с ингалятором кг",
+    "period": "1-1"
+  },
+  {
+    "route": "в/в",
+    "total": "5.0 мл",
+    "concentration": "5 МГ/мл",
+    "name": "Эбрантил",
+    "period": "1-1"
+  }
+]

@@ -1,0 +1,85 @@
+[
+  {
+    "route": "в/м",
+    "total": "4.0 мл",
+    "concentration": "50 МГ/мл",
+    "name": "Кетонал",
+    "period": "1-1"
+  },
+  {
+    "frequency": 1,
+    "route": "в/м",
+    "dosage": "0 мл",
+    "total": "5.0 мл",
+    "name": "Окситоцин-Рихтер",
+    "period": "1-1"
+  },
+  {
+    "route": "промыв катетера",
+    "total": "1.0 дозсмеси",
+    "concentration": "5000 ЕД/мл",
+    "name": "Гепарин",
+    "period": "1-1"
+  },
+  {
+    "route": "промыв катетера",
+    "total": "1.0 дозсмеси",
+    "concentration": "5000 ЕД/мл",
+    "name": "Натрия хлорид",
+    "period": "1-1"
+  },
+  {
+    "route": "п/к",
+    "total": "0.3 мл",
+    "concentration": "9500 МЕ/мл",
+    "name": "Фраксипарин",
+    "period": "1-1"
+  },
+  {
+    "frequency": 1,
+    "route": "в/м",
+    "dosage": "0 мл",
+    "total": "4.0 мл",
+    "name": "Sol. Tramadoli l",
+    "period": "1-1"
+  },
+  {
+    "route": "в/в капельно",
+    "total": "300.0 мл",
+    "concentration": "10 МГ/мл",
+    "name": "Парацетамол",
+    "period": "1-1"
+  },
+  {
+    "frequency": 1,
+    "route": "парентерально",
+    "dosage": "0 мл",
+    "total": "0 мл",
+    "name": "Амоксициллинклавулановая кислота",
+    "period": "1-1"
+  },
+  {
+    "frequency": 1,
+    "route": "в/в капельно",
+    "dosage": "1000.0 мл",
+    "total": "1000.0 мл",
+    "name": "Плазма-Лит одный раствор",
+    "period": "1-1"
+  },
+  {
+    "frequency": 3,
+    "route": "внутрь",
+    "dosage": "250.0 мг",
+    "total": "750.0 мг",
+    "name": "Допегит",
+    "period": "1-1"
+  },
+  {
+    "frequency": 8,
+    "route": "в/в капельно",
+    "dosage": "2.0 мл",
+    "total": "16.0 мл",
+    "name": "Магния сульфат",
+    "period": "1-1"
+  }
+]

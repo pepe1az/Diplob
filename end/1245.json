@@ -1,0 +1,73 @@
+[
+  {
+    "frequency": 1,
+    "route": "в/м",
+    "dosage": "0 мл",
+    "total": "0.0 мл",
+    "name": "Sol. Tramadoli l",
+    "period": "1-1"
+  },
+  {
+    "frequency": 1,
+    "route": "внутрь",
+    "dosage": "1.0 мг",
+    "total": "1.0 мг",
+    "name": "Фенорелаксан",
+    "period": "1-1"
+  },
+  {
+    "route": "в/м",
+    "total": "0.0 мл",
+    "concentration": "50 МГ/мл",
+    "name": "Кетонал",
+    "period": "1-1"
+  },
+  {
+    "frequency": 0,
+    "route": "в/м",
+    "dosage": "1.0 мл",
+    "total": "0.0 мл",
+    "name": "Элзепам",
+    "period": "1-1"
+  },
+  {
+    "frequency": 1,
+    "route": "внутрь",
+    "dosage": "0 мл",
+    "total": "0 мл",
+    "name": "L-тироксин кг",
+    "period": "1-1"
+  },
+  {
+    "frequency": 1,
+    "route": "внутрь",
+    "dosage": "80.0 мг",
+    "total": "80.0 мг",
+    "name": "Вальсакор",
+    "period": "1-1"
+  },
+  {
+    "frequency": 1,
+    "route": "внутрь",
+    "dosage": "0.25 мг",
+    "total": "0.25 мг",
+    "name": "Дигоксин",
+    "period": "1-1"
+  },
+  {
+    "frequency": 1,
+    "route": "внутрь",
+    "dosage": "20.0 мг",
+    "total": "20.0 мг",
+    "name": "Омепразол",
+    "period": "1-1"
+  },
+  {
+    "frequency": 2,
+    "route": "внутрь",
+    "dosage": "5.0 мг",
+    "total": "10.0 мг",
+    "name": "Преднизолон",
+    "period": "1-1"
+  }
+]

@@ -1,0 +1,80 @@
+{
+    "treatment": {
+        "day_1": {
+            "Sol. Tramadoli l": {
+                "frequency": 1,
+                "route": "в/м",
+                "dosage": "0 мл",
+                "total": "0.0 мл"
+            },
+            "Фензитат": {
+                "frequency": 1,
+                "route": "внутрь",
+                "dosage": "1.0 мг",
+                "total": "1.0 мг"
+            },
+            "Аторис": {
+                "frequency": 1,
+                "route": "внутрь",
+                "dosage": "40.0 мг",
+                "total": "40.0 мг"
+            },
+            "Бисопролол - Прана": {
+                "frequency": 0,
+                "route": "внутрь",
+                "dosage": "5.0 мг",
+                "total": "0.0 мг"
+            },
+            "Кардикет ретард": {
+                "frequency": 1,
+                "route": "внутрь",
+                "dosage": "20.0 мг",
+                "total": "20.0 мг"
+            },
+            "Коплавикс": {
+                "frequency": 0,
+                "route": "внутрь",
+                "dosage": "100.0 мг",
+                "total": "0.0 мг"
+            },
+            "Омепразол": {
+                "frequency": 1,
+                "route": "внутрь",
+                "dosage": "20.0 мг",
+                "total": "20.0 мг"
+            }
+        },
+        "day_2": {
+            "Фензитат": {
+                "frequency": 1,
+                "route": "внутрь",
+                "dosage": "1.0 мг",
+                "total": "1.0 мг"
+            },
+            "Аторис": {
+                "frequency": 1,
+                "route": "внутрь",
+                "dosage": "40.0 мг",
+                "total": "40.0 мг"
+            },
+            "Кардикет ретард": {
+                "frequency": 1,
+                "route": "внутрь",
+                "dosage": "20.0 мг",
+                "total": "20.0 мг"
+            },
+            "Коплавикс": {
+                "frequency": 1,
+                "route": "внутрь",
+                "dosage": "100.0 мг",
+                "total": "75.0 мг"
+            },
+            "Омепразол": {
+                "frequency": 1,
+                "route": "внутрь",
+                "dosage": "20.0 мг",
+                "total": "20.0 мг"
+            }
+        }
+    }
+}

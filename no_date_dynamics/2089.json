@@ -1,0 +1,128 @@
+{
+    "treatment": {
+        "day_1": {
+            "Sol. Tramadoli l": {
+                "frequency": 1,
+                "route": "в/м",
+                "dosage": "0 мл",
+                "total": "2.0 мл"
+            },
+            "Диклофенак": {
+                "frequency": 2,
+                "route": "в/м",
+                "dosage": "3.0 мл",
+                "total": "6.0 мл"
+            },
+            "Этамзилат": {
+                "frequency": 4,
+                "route": "в/в",
+                "dosage": "2.0 мл",
+                "total": "8.0 мл"
+            },
+            "Натрия хлорид": {
+                "frequency": 3,
+                "route": "в/в капельно",
+                "dosage": "500.0 мл",
+                "total": "1500.0 мл"
+            },
+            "Магния сульфат": {
+                "frequency": 3,
+                "route": "в/в капельно",
+                "dosage": "5.0 мл",
+                "total": "15.0 мл"
+            },
+            "Калия хлорид": {
+                "frequency": 0,
+                "route": "в/в капельно",
+                "dosage": "200.0 мл",
+                "total": "90.0 мл"
+            },
+            "Феназепам": {
+                "frequency": 0,
+                "route": "в/м",
+                "dosage": "1.0 мл",
+                "total": "0.0 мл"
+            },
+            "Рингера-ацетат": {
+                "frequency": 1,
+                "route": "в/в капельно",
+                "dosage": "500.0 мл",
+                "total": "500.0 мл"
+            },
+            "Аксетин": {
+                "frequency": 1,
+                "route": "в/в",
+                "dosage": "0 мл",
+                "total": "0 мл"
+            },
+            "Ксарелто": {
+                "frequency": 1,
+                "route": "внутрь",
+                "dosage": "10.0 мг",
+                "total": "10.0 мг"
+            }
+        },
+        "day_2": {
+            "Sol. Tramadoli l": {
+                "frequency": 1,
+                "route": "в/м",
+                "dosage": "0 мл",
+                "total": "6.0 мл"
+            },
+            "Диклофенак": {
+                "frequency": 2,
+                "route": "в/м",
+                "dosage": "3.0 мл",
+                "total": "6.0 мл"
+            },
+            "Этамзилат": {
+                "frequency": 4,
+                "route": "в/в",
+                "dosage": "2.0 мл",
+                "total": "8.0 мл"
+            },
+            "Натрия хлорид": {
+                "frequency": 3,
+                "route": "в/в капельно",
+                "dosage": "500.0 мл",
+                "total": "1500.0 мл"
+            },
+            "Магния сульфат": {
+                "frequency": 3,
+                "route": "в/в капельно",
+                "dosage": "5.0 мл",
+                "total": "15.0 мл"
+            },
+            "Калия хлорид": {
+                "frequency": 0,
+                "route": "в/в капельно",
+                "dosage": "200.0 мл",
+                "total": "90.0 мл"
+            },
+            "Феназепам": {
+                "frequency": 0,
+                "route": "в/м",
+                "dosage": "1.0 мл",
+                "total": "0.0 мл"
+            },
+            "Рингера-ацетат": {
+                "frequency": 2,
+                "route": "в/в капельно",
+                "dosage": "500.0 мл",
+                "total": "1000.0 мл"
+            },
+            "Аксетин": {
+                "frequency": 1,
+                "route": "в/в",
+                "dosage": "0 мл",
+                "total": "0 мл"
+            },
+            "Ксарелто": {
+                "frequency": 1,
+                "route": "внутрь",
+                "dosage": "10.0 мг",
+                "total": "10.0 мг"
+            }
+        }
+    }
+}

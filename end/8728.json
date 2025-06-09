@@ -1,0 +1,194 @@
+[
+  {
+    "frequency": 1,
+    "route": "внутрь",
+    "dosage": "300.0 мг",
+    "total": "300.0 мг",
+    "name": "Плавикс",
+    "period": "1-1"
+  },
+  {
+    "frequency": 1,
+    "route": "в/в",
+    "dosage": "10.0 мл",
+    "total": "10.0 мл",
+    "name": "Изокет",
+    "period": "1-1"
+  },
+  {
+    "frequency": 1,
+    "route": "в/в",
+    "dosage": "10.0 мл",
+    "total": "10.0 мл",
+    "name": "Натрия хлорид",
+    "period": "1-1"
+  },
+  {
+    "frequency": 1,
+    "route": "внутрь",
+    "dosage": "5.0 мг",
+    "total": "5.0 мг",
+    "name": "Лизиноприл",
+    "period": "1-9"
+  },
+  {
+    "frequency": 8,
+    "route": "промыв катетера",
+    "dosage": "25.0 мл",
+    "total": "200.0 мл",
+    "name": "Натрия хлорид",
+    "period": "1-6"
+  },
+  {
+    "frequency": 2,
+    "route": "п/к",
+    "dosage": "0.4 мл",
+    "total": "0.8 мл",
+    "name": "Клексан",
+    "period": "1-8"
+  },
+  {
+    "frequency": 1,
+    "route": "внутрь",
+    "dosage": "80.0 мг",
+    "total": "80.0 мг",
+    "name": "Торвакард",
+    "period": "1-1"
+  },
+  {
+    "frequency": 1,
+    "route": "внутрь",
+    "dosage": "5.0 мг",
+    "total": "5.0 мг",
+    "name": "Тригрим",
+    "period": "1-9"
+  },
+  {
+    "route": "в/в",
+    "total": "2.0 мл",
+    "concentration": "4 МГ/мл",
+    "name": "Дексаметазон",
+    "period": "1-1"
+  },
+  {
+    "frequency": 2,
+    "route": "в/м",
+    "dosage": "2.0 мл",
+    "total": "4.0 мл",
+    "name": "Метоклопрамид",
+    "period": "1-1"
+  },
+  {
+    "frequency": 1,
+    "route": "внутрь",
+    "dosage": "40.0 мг",
+    "total": "40.0 мг",
+    "name": "Торвакард",
+    "period": "2-9"
+  },
+  {
+    "frequency": 1,
+    "route": "внутрь",
+    "dosage": "100.0 мг",
+    "total": "75.0 мг",
+    "name": "Коплавикс",
+    "period": "2-9"
+  },
+  {
+    "frequency": 2,
+    "route": "внутрь",
+    "dosage": "25.0 мг",
+    "total": "50.0 мг",
+    "name": "Инспра",
+    "period": "2-9"
+  },
+  {
+    "frequency": 0,
+    "route": "внутрь",
+    "dosage": "1000.0 мл",
+    "total": "500.0 мл",
+    "name": "Нутризон Эдванст Диазон смесь питания",
+    "period": "2-9"
+  },
+  {
+    "route": "в/м",
+    "total": "4.0 мл",
+    "concentration": "50 МГ/мл",
+    "name": "Кетонал",
+    "period": "3-3"
+  },
+  {
+    "frequency": 2,
+    "route": "внутрь",
+    "dosage": "20.0 мг",
+    "total": "40.0 мг",
+    "name": "Омепразол",
+    "period": "3-9"
+  },
+  {
+    "route": "в/в",
+    "total": "4.0 мл",
+    "concentration": "50 МГ/мл",
+    "name": "Кетонал",
+    "period": "4-5"
+  },
+  {
+    "route": "в/в",
+    "total": "600.0 мг",
+    "concentration": "50 МГ/мл",
+    "name": "Кордарон",
+    "period": "5-5"
+  },
+  {
+    "route": "в/в",
+    "total": "2.0 мл",
+    "concentration": "50 МГ/мл",
+    "name": "Кетонал",
+    "period": "6-9"
+  },
+  {
+    "frequency": 1,
+    "route": "внутрь",
+    "dosage": "200.0 мг",
+    "total": "200.0 мг",
+    "name": "Кордарон",
+    "period": "6-9"
+  },
+  {
+    "route": "п/к",
+    "total": "20.0 ед",
+    "concentration": "100 ЕД/мл",
+    "name": "Левемир Пенфилл",
+    "period": "6-8"
+  },
+  {
+    "route": "п/к",
+    "total": "12.0 МЕ",
+    "concentration": "100 ЕД/мл",
+    "name": "НовоРапид Пенфилл Е",
+    "period": "6-9"
+  },
+  {
+    "frequency": 4,
+    "route": "промыв катетера",
+    "dosage": "25.0 мл",
+    "total": "100.0 мл",
+    "name": "Натрия хлорид",
+    "period": "7-9"
+  },
+  {
+    "frequency": 1,
+    "route": "п/к",
+    "dosage": "0.4 мл",
+    "total": "0.4 мл",
+    "name": "Клексан",
+    "period": "9-9"
+  },
+  {
+    "route": "п/к",
+    "total": "24.0 ед",
+    "concentration": "100 ЕД/мл",
+    "name": "Левемир Пенфилл",
+    "period": "9-9"
+  }
+]

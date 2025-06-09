@@ -1,0 +1,139 @@
+[
+  {
+    "frequency": 4,
+    "route": "промыв катетера",
+    "dosage": "50.0 мл",
+    "total": "200.0 мл",
+    "name": "Натрия хлорид",
+    "period": "1-1"
+  },
+  {
+    "route": "промыв катетера",
+    "total": "4.0 дозсмеси",
+    "concentration": "5000 ЕД/мл",
+    "name": "Гепарин",
+    "period": "1-1"
+  },
+  {
+    "route": "промыв катетера",
+    "total": "4.0 дозсмеси",
+    "concentration": "5000 ЕД/мл",
+    "name": "Натрия хлорид",
+    "period": "1-1"
+  },
+  {
+    "frequency": 0,
+    "route": "п/к",
+    "dosage": "6.0 мл",
+    "total": "0.6 мл",
+    "name": "Эноксапарин натрия нти-Ха",
+    "period": "1-1"
+  },
+  {
+    "route": "в/в",
+    "total": "6.0 мл",
+    "concentration": "1 МГ/мл",
+    "name": "Адреналин",
+    "period": "1-1"
+  },
+  {
+    "route": "в/в",
+    "total": "5.0 мл",
+    "concentration": "20 МГ/мл",
+    "name": "Листенон",
+    "period": "1-1"
+  },
+  {
+    "route": "в/в",
+    "total": "10.0 мл",
+    "concentration": "2 МГ/мл",
+    "name": "Интегрилин",
+    "period": "1-1"
+  },
+  {
+    "route": "в/в капельно",
+    "total": "1000.0 мл",
+    "concentration": "40 МГ/мл",
+    "name": "Натрия гидрокарбонат",
+    "period": "1-1"
+  },
+  {
+    "route": "в/в",
+    "total": "5.0 дозсмеси",
+    "concentration": "2 МГ/мл",
+    "name": "Норадреналин Агетан",
+    "period": "1-1"
+  },
+  {
+    "route": "в/в",
+    "total": "5.0 дозсмеси",
+    "concentration": "2 МГ/мл",
+    "name": "Натрия хлорид",
+    "period": "1-1"
+  },
+  {
+    "route": "в/в",
+    "total": "5.0 дозсмеси",
+    "concentration": "1 МГ/мл",
+    "name": "Натрия хлорид",
+    "period": "1-1"
+  },
+  {
+    "route": "в/в",
+    "total": "5.0 дозсмеси",
+    "concentration": "1 МГ/мл",
+    "name": "Адреналин",
+    "period": "1-1"
+  },
+  {
+    "frequency": 0,
+    "route": "в/в",
+    "dosage": "250.0 мг",
+    "total": "5.0 мг",
+    "name": "Добутамин Гексал",
+    "period": "1-1"
+  },
+  {
+    "frequency": 0,
+    "route": "в/в",
+    "dosage": "250.0 мг",
+    "total": "5.0 мг",
+    "name": "Натрия хлорид",
+    "period": "1-1"
+  },
+  {
+    "route": "в/в",
+    "total": "5.0 дозсмеси",
+    "concentration": "100 МЕ/мл",
+    "name": "Актрапид НМ",
+    "period": "1-1"
+  },
+  {
+    "route": "в/в",
+    "total": "5.0 дозсмеси",
+    "concentration": "100 МЕ/мл",
+    "name": "Натрия хлорид",
+    "period": "1-1"
+  },
+  {
+    "route": "в/в",
+    "total": "9.0 мл",
+    "concentration": "50 МГ/мл",
+    "name": "Амиодарон",
+    "period": "1-1"
+  },
+  {
+    "route": "в/в",
+    "total": "2.0 дозсмеси",
+    "concentration": "50 МГ/мл",
+    "name": "Амиодарон",
+    "period": "1-1"
+  },
+  {
+    "route": "в/в",
+    "total": "2.0 дозсмеси",
+    "concentration": "50 МГ/мл",
+    "name": "Глюкоза",
+    "period": "1-1"
+  }
+]

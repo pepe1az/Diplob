@@ -1,0 +1,47 @@
+[
+  {
+    "route": "не указан",
+    "total": "3.0 мл",
+    "concentration": "2 МГ/мл",
+    "name": "Норадреналин",
+    "period": "1-1"
+  },
+  {
+    "route": "не указан",
+    "total": "1.0 мл",
+    "concentration": "2 МГ/мл",
+    "name": "Норадреналин",
+    "period": "2-3"
+  },
+  {
+    "frequency": 1,
+    "route": "нет",
+    "dosage": "90.0 мг",
+    "total": "90.0 мг",
+    "name": "Брилинта",
+    "period": "2-3"
+  },
+  {
+    "route": "не указан",
+    "total": "5.0 мл",
+    "concentration": "50 МГ/мл",
+    "name": "Амиодарон",
+    "period": "2-3"
+  },
+  {
+    "frequency": 1,
+    "route": "нет",
+    "dosage": "100.0 мг",
+    "total": "100.0 мг",
+    "name": "Тромбо АСС",
+    "period": "3-3"
+  },
+  {
+    "frequency": 2,
+    "route": "нет",
+    "dosage": "25.0 мг",
+    "total": "50.0 мг",
+    "name": "Спиронолактон",
+    "period": "3-3"
+  }
+]

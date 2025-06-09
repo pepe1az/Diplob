@@ -1,0 +1,65 @@
+[
+  {
+    "frequency": 6,
+    "route": "промыв катетера",
+    "dosage": "25.0 мл",
+    "total": "150.0 мл",
+    "name": "Натрия хлорид",
+    "period": "1-1"
+  },
+  {
+    "frequency": 25,
+    "route": "в/в",
+    "dosage": "1.0 мл",
+    "total": "25.0 мл",
+    "name": "Адреналин",
+    "period": "1-1"
+  },
+  {
+    "route": "в/в",
+    "total": "10.0 мл",
+    "concentration": "2 МГ/мл",
+    "name": "Интегрилин",
+    "period": "1-1"
+  },
+  {
+    "frequency": 3,
+    "route": "в/в",
+    "dosage": "5.0 мл",
+    "total": "15.0 мл",
+    "name": "Листенон",
+    "period": "1-1"
+  },
+  {
+    "frequency": 2,
+    "route": "в/в капельно",
+    "dosage": "200.0 мл",
+    "total": "400.0 мл",
+    "name": "Натрия гидрокарбонат",
+    "period": "1-1"
+  },
+  {
+    "frequency": 3,
+    "route": "в/в",
+    "dosage": "5.0 мл",
+    "total": "15.0 мл",
+    "name": "Тракриум",
+    "period": "1-1"
+  },
+  {
+    "frequency": 1,
+    "route": "в/в",
+    "dosage": "5.0 мл",
+    "total": "5.0 мл",
+    "name": "Адреналин",
+    "period": "1-1"
+  },
+  {
+    "frequency": 1,
+    "route": "в/в",
+    "dosage": "5.0 мл",
+    "total": "5.0 мл",
+    "name": "Натрия хлорид",
+    "period": "1-1"
+  }
+]

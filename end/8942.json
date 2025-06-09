@@ -1,0 +1,209 @@
+[
+  {
+    "frequency": 1,
+    "route": "внутрь",
+    "dosage": "100.0 мг",
+    "total": "100.0 мг",
+    "name": "Ацекардол",
+    "period": "1-5"
+  },
+  {
+    "frequency": 2,
+    "route": "внутрь",
+    "dosage": "90.0 мг",
+    "total": "180.0 мг",
+    "name": "Брилинта",
+    "period": "1-5"
+  },
+  {
+    "frequency": 4,
+    "route": "промыв катетера",
+    "dosage": "50.0 мл",
+    "total": "200.0 мл",
+    "name": "Натрия хлорид",
+    "period": "1-1"
+  },
+  {
+    "route": "промыв катетера",
+    "total": "4.0 дозсмеси",
+    "concentration": "5000 ЕД/мл",
+    "name": "Гепарин",
+    "period": "1-1"
+  },
+  {
+    "route": "промыв катетера",
+    "total": "4.0 дозсмеси",
+    "concentration": "5000 ЕД/мл",
+    "name": "Натрия хлорид",
+    "period": "1-1"
+  },
+  {
+    "frequency": 1,
+    "route": "внутрь",
+    "dosage": "40.0 мг",
+    "total": "40.0 мг",
+    "name": "Аторвастатин",
+    "period": "1-5"
+  },
+  {
+    "frequency": 0,
+    "route": "п/к",
+    "dosage": "8.0 мл",
+    "total": "1.6 мл",
+    "name": "Эноксапарин натрия нти-Ха",
+    "period": "1-1"
+  },
+  {
+    "route": "в/в капельно",
+    "total": "300.0 мл",
+    "concentration": "5 МГ/мл",
+    "name": "Метронидазол",
+    "period": "1-5"
+  },
+  {
+    "frequency": 2,
+    "route": "в/в",
+    "dosage": "100.0 мл",
+    "total": "200.0 мл",
+    "name": "Ципрофлоксацин",
+    "period": "1-2"
+  },
+  {
+    "frequency": 0,
+    "route": "п/к",
+    "dosage": "8.0 мл",
+    "total": "0.4 мл",
+    "name": "Эноксапарин натрия нти-Ха",
+    "period": "2-5"
+  },
+  {
+    "frequency": 1,
+    "route": "внутрь",
+    "dosage": "5.0 мг",
+    "total": "5.0 мг",
+    "name": "Бисопролол - Прана",
+    "period": "2-4"
+  },
+  {
+    "frequency": 1,
+    "route": "внутрь",
+    "dosage": "5.0 мг",
+    "total": "5.0 мг",
+    "name": "Лизиноприл",
+    "period": "2-4"
+  },
+  {
+    "frequency": 1,
+    "route": "в/м",
+    "dosage": "0 мл",
+    "total": "6.0 мл",
+    "name": "Sol. Tramadoli l",
+    "period": "2-4"
+  },
+  {
+    "route": "в/м",
+    "total": "4.0 мл",
+    "concentration": "50 МГ/мл",
+    "name": "Кетонал",
+    "period": "2-4"
+  },
+  {
+    "route": "в/в капельно",
+    "total": "2.0 мл",
+    "concentration": "20 МГ/мл",
+    "name": "Дротаверин Велфарм",
+    "period": "2-5"
+  },
+  {
+    "frequency": 1,
+    "route": "в/в капельно",
+    "dosage": "250.0 мл",
+    "total": "250.0 мл",
+    "name": "Натрия хлорид",
+    "period": "2-5"
+  },
+  {
+    "route": "в/в капельно",
+    "total": "2.0 мл",
+    "concentration": "2 МГ/мл",
+    "name": "Платифиллина гидротартрат",
+    "period": "2-4"
+  },
+  {
+    "frequency": 1,
+    "route": "в/в капельно",
+    "dosage": "250.0 мл",
+    "total": "250.0 мл",
+    "name": "Калия и магния аспарагинат",
+    "period": "2-2"
+  },
+  {
+    "route": "в/в капельно",
+    "total": "4.0 мл",
+    "concentration": "2 МГ/мл",
+    "name": "Норадреналин",
+    "period": "2-5"
+  },
+  {
+    "frequency": 1,
+    "route": "в/в капельно",
+    "dosage": "500.0 мл",
+    "total": "500.0 мл",
+    "name": "Стерофундин изотонический",
+    "period": "2-4"
+  },
+  {
+    "frequency": 2,
+    "route": "в/в капельно",
+    "dosage": "100.0 мл",
+    "total": "200.0 мл",
+    "name": "Ципрофлоксацин",
+    "period": "3-5"
+  },
+  {
+    "route": "в/в капельно",
+    "total": "30.0 мл",
+    "concentration": "75 МГ/мл",
+    "name": "Калия хлорид",
+    "period": "3-4"
+  },
+  {
+    "frequency": 0,
+    "route": "внутрь",
+    "dosage": "5.0 мг",
+    "total": "0.0 мг",
+    "name": "Бисопролол - Прана",
+    "period": "5-5"
+  },
+  {
+    "frequency": 0,
+    "route": "внутрь",
+    "dosage": "5.0 мг",
+    "total": "0.0 мг",
+    "name": "Лизиноприл",
+    "period": "5-5"
+  },
+  {
+    "frequency": 1,
+    "route": "в/м",
+    "dosage": "0 мл",
+    "total": "4.0 мл",
+    "name": "Sol. Tramadoli l",
+    "period": "5-5"
+  },
+  {
+    "route": "в/в капельно",
+    "total": "20.0 мл",
+    "concentration": "75 МГ/мл",
+    "name": "Калия хлорид",
+    "period": "5-5"
+  },
+  {
+    "frequency": 2,
+    "route": "внутрь",
+    "dosage": "20.0 мг",
+    "total": "40.0 мг",
+    "name": "Омепразол",
+    "period": "5-5"
+  }
+]

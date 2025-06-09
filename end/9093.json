@@ -1,0 +1,152 @@
+[
+  {
+    "frequency": 5,
+    "route": "в/в капельно",
+    "dosage": "250.0 мл",
+    "total": "1250.0 мл",
+    "name": "Натрия хлорид",
+    "period": "1-1"
+  },
+  {
+    "route": "в/в капельно",
+    "total": "100.0 мл",
+    "concentration": "40 МГ/мл",
+    "name": "Калия хлорид",
+    "period": "1-1"
+  },
+  {
+    "route": "в/в капельно",
+    "total": "40.0 мл",
+    "concentration": "250 МГ/мл",
+    "name": "Магния сульфат",
+    "period": "1-1"
+  },
+  {
+    "frequency": 1,
+    "route": "внутрь",
+    "dosage": "5.0 мг",
+    "total": "5.0 мг",
+    "name": "Амлодипин-Прана",
+    "period": "1-16"
+  },
+  {
+    "frequency": 2,
+    "route": "внутрь",
+    "dosage": "20.0 мг",
+    "total": "40.0 мг",
+    "name": "Аторвастатин",
+    "period": "1-1"
+  },
+  {
+    "frequency": 1,
+    "route": "внутрь",
+    "dosage": "100.0 мг",
+    "total": "100.0 мг",
+    "name": "Ацекардол",
+    "period": "1-16"
+  },
+  {
+    "frequency": 2,
+    "route": "внутрь",
+    "dosage": "5.0 мг",
+    "total": "10.0 мг",
+    "name": "Лизиноприл",
+    "period": "1-12"
+  },
+  {
+    "frequency": 1,
+    "route": "внутрь",
+    "dosage": "20.0 мг",
+    "total": "20.0 мг",
+    "name": "Омепразол",
+    "period": "1-16"
+  },
+  {
+    "frequency": 2,
+    "route": "в/в капельно",
+    "dosage": "10.0 мл",
+    "total": "20.0 мл",
+    "name": "Цитофлавин",
+    "period": "1-1"
+  },
+  {
+    "frequency": 1,
+    "route": "внутрь",
+    "dosage": "5.0 мг",
+    "total": "5.0 мг",
+    "name": "Бисопролол",
+    "period": "1-16"
+  },
+  {
+    "frequency": 1,
+    "route": "внутрь",
+    "dosage": "25.0 мг",
+    "total": "25.0 мг",
+    "name": "Спиронолактон",
+    "period": "1-16"
+  },
+  {
+    "frequency": 1,
+    "route": "внутрь",
+    "dosage": "5.0 мг",
+    "total": "5.0 мг",
+    "name": "Торасемид-СЗ",
+    "period": "1-16"
+  },
+  {
+    "frequency": 1,
+    "route": "внутрь",
+    "dosage": "20.0 мг",
+    "total": "20.0 мг",
+    "name": "Аторвастатин",
+    "period": "2-4"
+  },
+  {
+    "frequency": 0,
+    "route": "в/в капельно",
+    "dosage": "250.0 мл",
+    "total": "1.0 мл",
+    "name": "Натрия хлорид",
+    "period": "2-4"
+  },
+  {
+    "frequency": 0,
+    "route": "в/в капельно",
+    "dosage": "250.0 мл",
+    "total": "1.0 мл",
+    "name": "Церебролизин",
+    "period": "2-4"
+  },
+  {
+    "frequency": 1,
+    "route": "п/к",
+    "dosage": "0.6 мл",
+    "total": "0.6 мл",
+    "name": "Фраксипарин Е",
+    "period": "2-16"
+  },
+  {
+    "frequency": 1,
+    "route": "внутрь",
+    "dosage": "100.0 мг",
+    "total": "100.0 мг",
+    "name": "Аллопуринол",
+    "period": "7-16"
+  },
+  {
+    "frequency": 1,
+    "route": "в/в",
+    "dosage": "400.0 мг",
+    "total": "400.0 мг",
+    "name": "Гептрал",
+    "period": "8-9"
+  },
+  {
+    "frequency": 1,
+    "route": "внутрь",
+    "dosage": "5.0 мг",
+    "total": "5.0 мг",
+    "name": "Лизиноприл",
+    "period": "13-16"
+  }
+]

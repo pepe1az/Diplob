@@ -1,0 +1,52 @@
+[
+  {
+    "frequency": 1,
+    "route": "в/в",
+    "dosage": "2000.0 мл",
+    "total": "2000.0 мл",
+    "name": "Натрия хлорид",
+    "period": "1-1"
+  },
+  {
+    "route": "в/в",
+    "total": "1.0 дозсмеси",
+    "concentration": "1 МГ/мл",
+    "name": "Натрия хлорид",
+    "period": "1-1"
+  },
+  {
+    "route": "в/в",
+    "total": "1.0 дозсмеси",
+    "concentration": "1 МГ/мл",
+    "name": "Адреналин",
+    "period": "1-1"
+  },
+  {
+    "route": "в/в",
+    "total": "1.0 дозсмеси",
+    "concentration": "2 МГ/мл",
+    "name": "Натрия хлорид",
+    "period": "1-1"
+  },
+  {
+    "route": "в/в",
+    "total": "1.0 дозсмеси",
+    "concentration": "2 МГ/мл",
+    "name": "Норадреналин",
+    "period": "1-1"
+  },
+  {
+    "route": "в/в",
+    "total": "3.0 мл",
+    "concentration": "1 МГ/мл",
+    "name": "Адреналин",
+    "period": "1-1"
+  },
+  {
+    "route": "в/в капельно",
+    "total": "1200.0 мл",
+    "concentration": "40 МГ/мл",
+    "name": "Натрия гидрокарбонат",
+    "period": "1-1"
+  }
+]

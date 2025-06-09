@@ -1,0 +1,327 @@
+[
+  {
+    "frequency": 2,
+    "route": "внутрь",
+    "dosage": "25.0 мг",
+    "total": "50.0 мг",
+    "name": "Эгилок С",
+    "period": "1-1"
+  },
+  {
+    "frequency": 1,
+    "route": "внутрь",
+    "dosage": "5.0 мг",
+    "total": "5.0 мг",
+    "name": "Лизиноприл",
+    "period": "1-2"
+  },
+  {
+    "frequency": 0,
+    "route": "в/в капельно",
+    "dosage": "10.0 мл",
+    "total": "3.0 мл",
+    "name": "Изокет",
+    "period": "1-2"
+  },
+  {
+    "frequency": 0,
+    "route": "в/в капельно",
+    "dosage": "10.0 мл",
+    "total": "3.0 мл",
+    "name": "Натрия хлорид",
+    "period": "1-2"
+  },
+  {
+    "route": "промыв катетера",
+    "total": "4.0 дозсмеси",
+    "concentration": "5000 ЕД/мл",
+    "name": "Гепарин",
+    "period": "1-8"
+  },
+  {
+    "route": "промыв катетера",
+    "total": "4.0 дозсмеси",
+    "concentration": "5000 ЕД/мл",
+    "name": "Натрия хлорид",
+    "period": "1-8"
+  },
+  {
+    "frequency": 4,
+    "route": "в/в",
+    "dosage": "25.0 мл",
+    "total": "100.0 мл",
+    "name": "Натрия хлорид",
+    "period": "1-8"
+  },
+  {
+    "route": "п/к",
+    "total": "2.0 мл",
+    "concentration": "0 МЕ/мл",
+    "name": "Эниксум",
+    "period": "1-4"
+  },
+  {
+    "frequency": 1,
+    "route": "внутрь",
+    "dosage": "100.0 мг",
+    "total": "100.0 мг",
+    "name": "Тромбо АСС",
+    "period": "1-8"
+  },
+  {
+    "frequency": 1,
+    "route": "внутрь",
+    "dosage": "40.0 мг",
+    "total": "40.0 мг",
+    "name": "Аторис",
+    "period": "1-1"
+  },
+  {
+    "frequency": 1,
+    "route": "внутрь",
+    "dosage": "40.0 мг",
+    "total": "40.0 мг",
+    "name": "Аторис",
+    "period": "3-3"
+  },
+  {
+    "frequency": 1,
+    "route": "внутрь",
+    "dosage": "75.0 мг",
+    "total": "75.0 мг",
+    "name": "Плагрил",
+    "period": "1-8"
+  },
+  {
+    "frequency": 3,
+    "route": "в/в",
+    "dosage": "1.0 мл",
+    "total": "3.0 мл",
+    "name": "Галоперидол",
+    "period": "1-1"
+  },
+  {
+    "frequency": 2,
+    "route": "внутрь",
+    "dosage": "25.0 мг",
+    "total": "50.0 мг",
+    "name": "Эгилок",
+    "period": "2-2"
+  },
+  {
+    "frequency": 2,
+    "route": "внутрь",
+    "dosage": "5.0 мг",
+    "total": "10.0 мг",
+    "name": "Торасемид-СЗ",
+    "period": "2-2"
+  },
+  {
+    "frequency": 2,
+    "route": "в/м",
+    "dosage": "1.0 мл",
+    "total": "2.0 мл",
+    "name": "Галоперидол",
+    "period": "2-2"
+  },
+  {
+    "frequency": 0,
+    "route": "в/в",
+    "dosage": "16.0 мл",
+    "total": "1.0 мл",
+    "name": "Фуросемид",
+    "period": "3-3"
+  },
+  {
+    "frequency": 0,
+    "route": "в/в",
+    "dosage": "16.0 мл",
+    "total": "1.0 мл",
+    "name": "Натрия хлорид",
+    "period": "3-3"
+  },
+  {
+    "route": "в/в",
+    "total": "2.0 дозсмеси",
+    "concentration": "2 МГ/мл",
+    "name": "Натрия хлорид",
+    "period": "3-3"
+  },
+  {
+    "route": "в/в",
+    "total": "2.0 дозсмеси",
+    "concentration": "2 МГ/мл",
+    "name": "Норадреналин",
+    "period": "3-3"
+  },
+  {
+    "route": "в/в капельно",
+    "total": "1.0 дозсмеси",
+    "concentration": "5 МГ/мл",
+    "name": "Симдакс",
+    "period": "3-4"
+  },
+  {
+    "route": "в/в капельно",
+    "total": "1.0 дозсмеси",
+    "concentration": "5 МГ/мл",
+    "name": "Глюкоза",
+    "period": "3-4"
+  },
+  {
+    "frequency": 0,
+    "route": "внутрь",
+    "dosage": "1000.0 мл",
+    "total": "500.0 мл",
+    "name": "Изосурс Энерджи Файбер",
+    "period": "3-3"
+  },
+  {
+    "frequency": 0,
+    "route": "в/в",
+    "dosage": "30.0 мл",
+    "total": "3.0 мл",
+    "name": "Калия хлорида",
+    "period": "3-4"
+  },
+  {
+    "frequency": 0,
+    "route": "в/в",
+    "dosage": "30.0 мл",
+    "total": "3.0 мл",
+    "name": "Глюкоза",
+    "period": "3-4"
+  },
+  {
+    "route": "в/в",
+    "total": "5.0 мл",
+    "concentration": "2 МГ/мл",
+    "name": "Нимбекс",
+    "period": "3-3"
+  },
+  {
+    "route": "в/в",
+    "total": "150.0 мл",
+    "concentration": "20 МГ/мл",
+    "name": "Пропофол Каби",
+    "period": "3-3"
+  },
+  {
+    "route": "в/в",
+    "total": "4.0 дозсмеси",
+    "concentration": "2 МГ/мл",
+    "name": "Натрия хлорид",
+    "period": "4-5"
+  },
+  {
+    "route": "в/в",
+    "total": "4.0 дозсмеси",
+    "concentration": "2 МГ/мл",
+    "name": "Норадреналин",
+    "period": "4-5"
+  },
+  {
+    "frequency": 2,
+    "route": "внутрь",
+    "dosage": "1000.0 мл",
+    "total": "2000.0 мл",
+    "name": "Изосурс Энерджи Файбер",
+    "period": "4-4"
+  },
+  {
+    "frequency": 2,
+    "route": "внутрь",
+    "dosage": "1000.0 мл",
+    "total": "2000.0 мл",
+    "name": "Изосурс Энерджи Файбер",
+    "period": "8-8"
+  },
+  {
+    "route": "в/в",
+    "total": "250.0 мл",
+    "concentration": "20 МГ/мл",
+    "name": "Пропофол Каби",
+    "period": "4-4"
+  },
+  {
+    "route": "п/к",
+    "total": "1.2 мл",
+    "concentration": "0 МЕ/мл",
+    "name": "Эниксум",
+    "period": "5-8"
+  },
+  {
+    "frequency": 1,
+    "route": "внутрь",
+    "dosage": "1000.0 мл",
+    "total": "1000.0 мл",
+    "name": "Изосурс Энерджи Файбер",
+    "period": "5-7"
+  },
+  {
+    "frequency": 1,
+    "route": "в/в",
+    "dosage": "0 мл",
+    "total": "0 мл",
+    "name": "Амоксиклав",
+    "period": "5-7"
+  },
+  {
+    "route": "в/в",
+    "total": "5.0 дозсмеси",
+    "concentration": "2 МГ/мл",
+    "name": "Натрия хлорид",
+    "period": "6-8"
+  },
+  {
+    "route": "в/в",
+    "total": "5.0 дозсмеси",
+    "concentration": "2 МГ/мл",
+    "name": "Норадреналин",
+    "period": "6-8"
+  },
+  {
+    "route": "в/в",
+    "total": "2.0 дозсмеси",
+    "concentration": "50 МГ/мл",
+    "name": "Кордарон",
+    "period": "6-6"
+  },
+  {
+    "route": "в/в",
+    "total": "2.0 дозсмеси",
+    "concentration": "50 МГ/мл",
+    "name": "Глюкоза",
+    "period": "6-6"
+  },
+  {
+    "route": "в/в",
+    "total": "3.0 дозсмеси",
+    "concentration": "50 МГ/мл",
+    "name": "Кордарон",
+    "period": "7-8"
+  },
+  {
+    "route": "в/в",
+    "total": "3.0 дозсмеси",
+    "concentration": "50 МГ/мл",
+    "name": "Глюкоза",
+    "period": "7-8"
+  },
+  {
+    "frequency": 1,
+    "route": "в/в капельно",
+    "dosage": "0 мл",
+    "total": "0 мл",
+    "name": "Сульмаграф",
+    "period": "8-8"
+  },
+  {
+    "frequency": 15,
+    "route": "в/в",
+    "dosage": "1.0 мл",
+    "total": "15.0 мл",
+    "name": "Адреналин",
+    "period": "8-8"
+  }
+]

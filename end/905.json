@@ -1,0 +1,64 @@
+[
+  {
+    "frequency": 2,
+    "route": "внутрь",
+    "dosage": "300.0 мг",
+    "total": "600.0 мг",
+    "name": "Плавикс",
+    "period": "1-1"
+  },
+  {
+    "frequency": 2,
+    "route": "промыв катетера",
+    "dosage": "25.0 мл",
+    "total": "50.0 мл",
+    "name": "Натрия хлорид",
+    "period": "1-1"
+  },
+  {
+    "frequency": 1,
+    "route": "внутрь",
+    "dosage": "10.0 мг",
+    "total": "10.0 мг",
+    "name": "Крестор",
+    "period": "1-1"
+  },
+  {
+    "route": "в/в",
+    "total": "100.0 мл",
+    "concentration": "75 МГ/мл",
+    "name": "Интегрилин",
+    "period": "1-1"
+  },
+  {
+    "frequency": 0,
+    "route": "п/к",
+    "dosage": "0.8 мл",
+    "total": "0.0 мл",
+    "name": "Клексан",
+    "period": "1-1"
+  },
+  {
+    "route": "не указан",
+    "total": "2.0 мл",
+    "concentration": "2 МГ/мл",
+    "name": "Латран",
+    "period": "1-1"
+  },
+  {
+    "frequency": 2,
+    "route": "в/в капельно",
+    "dosage": "40.0 мг",
+    "total": "80.0 мг",
+    "name": "Нексиум",
+    "period": "1-1"
+  },
+  {
+    "frequency": 1,
+    "route": "в/в капельно",
+    "dosage": "500.0 мл",
+    "total": "500.0 мл",
+    "name": "Рингера-ацетат",
+    "period": "1-1"
+  }
+]

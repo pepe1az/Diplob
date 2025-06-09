@@ -1,0 +1,57 @@
+[
+  {
+    "frequency": 1,
+    "route": "нет",
+    "dosage": "100.0 мг",
+    "total": "100.0 мг",
+    "name": "Тромбо АСС",
+    "period": "1-4"
+  },
+  {
+    "frequency": 0,
+    "route": "нет",
+    "dosage": "200.0 мл",
+    "total": "50.0 мл",
+    "name": "Калия хлорид",
+    "period": "2-2"
+  },
+  {
+    "frequency": 1,
+    "route": "нет",
+    "dosage": "90.0 мг",
+    "total": "90.0 мг",
+    "name": "Брилинта",
+    "period": "2-5"
+  },
+  {
+    "frequency": 4,
+    "route": "нет",
+    "dosage": "25.0 мг",
+    "total": "100.0 мг",
+    "name": "Спиронолактон",
+    "period": "2-4"
+  },
+  {
+    "frequency": 1,
+    "route": "нет",
+    "dosage": "5.0 мг",
+    "total": "5.0 мг",
+    "name": "Торасемид-СЗ",
+    "period": "2-4"
+  },
+  {
+    "route": "не указан",
+    "total": "5.0 мл",
+    "concentration": "40 МГ/мл",
+    "name": "Калия хлорид",
+    "period": "3-4"
+  },
+  {
+    "frequency": 1,
+    "route": "нет",
+    "dosage": "5.0 мг",
+    "total": "5.0 мг",
+    "name": "Кораксан",
+    "period": "3-4"
+  }
+]

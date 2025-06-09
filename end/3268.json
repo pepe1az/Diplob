@@ -1,0 +1,64 @@
+[
+  {
+    "frequency": 1,
+    "route": "в/м",
+    "dosage": "0 мл",
+    "total": "0.0 мл",
+    "name": "Sol. Tramadoli l",
+    "period": "1-1"
+  },
+  {
+    "route": "п/к",
+    "total": "0.0 МЕ",
+    "concentration": "100 МЕ/мл",
+    "name": "Актрапид НМ Е",
+    "period": "1-1"
+  },
+  {
+    "route": "в/м",
+    "total": "0.0 мл",
+    "concentration": "50 МГ/мл",
+    "name": "Кетопрофен",
+    "period": "1-1"
+  },
+  {
+    "frequency": 2,
+    "route": "внутрь",
+    "dosage": "20.0 мг",
+    "total": "40.0 мг",
+    "name": "Омепразол",
+    "period": "1-1"
+  },
+  {
+    "frequency": 1,
+    "route": "внутрь",
+    "dosage": "75.0 мг",
+    "total": "75.0 мг",
+    "name": "Зилт",
+    "period": "1-1"
+  },
+  {
+    "frequency": 1,
+    "route": "внутрь",
+    "dosage": "100.0 мг",
+    "total": "100.0 мг",
+    "name": "Ацекардол",
+    "period": "1-1"
+  },
+  {
+    "frequency": 1,
+    "route": "внутрь",
+    "dosage": "0 мл",
+    "total": "1.0 мл",
+    "name": "Tab.Trankvezipami g",
+    "period": "1-1"
+  },
+  {
+    "frequency": 1,
+    "route": "п/к",
+    "dosage": "0.3 мл",
+    "total": "0.3 мл",
+    "name": "Эноксапарин натрия нти-Ха",
+    "period": "1-1"
+  }
+]

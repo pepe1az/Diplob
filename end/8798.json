@@ -1,0 +1,142 @@
+[
+  {
+    "frequency": 2,
+    "route": "нет",
+    "dosage": "40.0 мг",
+    "total": "60.0 мг",
+    "name": "Фуросемид",
+    "period": "1-1"
+  },
+  {
+    "frequency": 1,
+    "route": "нет",
+    "dosage": "20.0 мг",
+    "total": "20.0 мг",
+    "name": "Омез",
+    "period": "1-5"
+  },
+  {
+    "frequency": 1,
+    "route": "нет",
+    "dosage": "40.0 мг",
+    "total": "40.0 мг",
+    "name": "Аторис",
+    "period": "1-5"
+  },
+  {
+    "frequency": 1,
+    "route": "нет",
+    "dosage": "75.0 мг",
+    "total": "75.0 мг",
+    "name": "Плавикс",
+    "period": "1-5"
+  },
+  {
+    "frequency": 1,
+    "route": "нет",
+    "dosage": "100.0 мг",
+    "total": "100.0 мг",
+    "name": "Тромбо АСС",
+    "period": "1-5"
+  },
+  {
+    "route": "не указан",
+    "total": "10.0 мл",
+    "concentration": "2 МГ/мл",
+    "name": "Норадреналин Агетан",
+    "period": "1-1"
+  },
+  {
+    "route": "не указан",
+    "total": "3.0 мл",
+    "concentration": "2 МГ/мл",
+    "name": "Норадреналин Агетан",
+    "period": "2-2"
+  },
+  {
+    "frequency": 0,
+    "route": "нет",
+    "dosage": "200.0 мл",
+    "total": "8.0 мл",
+    "name": "Калия хлорид",
+    "period": "2-2"
+  },
+  {
+    "frequency": 1,
+    "route": "нет",
+    "dosage": "25.0 мг",
+    "total": "25.0 мг",
+    "name": "Спиронолактон",
+    "period": "2-6"
+  },
+  {
+    "frequency": 1,
+    "route": "нет",
+    "dosage": "10.0 мг",
+    "total": "10.0 мг",
+    "name": "Торасемид-СЗ",
+    "period": "2-3"
+  },
+  {
+    "frequency": 1,
+    "route": "нет",
+    "dosage": "10.0 мг",
+    "total": "10.0 мг",
+    "name": "Торасемид-СЗ",
+    "period": "5-6"
+  },
+  {
+    "route": "не указан",
+    "total": "2.4 мл",
+    "concentration": "2 МГ/мл",
+    "name": "Норадреналин Агетан",
+    "period": "3-3"
+  },
+  {
+    "frequency": 0,
+    "route": "нет",
+    "dosage": "200.0 мл",
+    "total": "4.0 мл",
+    "name": "Калия хлорид",
+    "period": "3-3"
+  },
+  {
+    "route": "не указан",
+    "total": "1.5 мл",
+    "concentration": "2 МГ/мл",
+    "name": "Норадреналин Агетан",
+    "period": "4-4"
+  },
+  {
+    "frequency": 0,
+    "route": "нет",
+    "dosage": "200.0 мл",
+    "total": "5.0 мл",
+    "name": "Калия хлорид",
+    "period": "4-4"
+  },
+  {
+    "frequency": 24,
+    "route": "нет",
+    "dosage": "0.5 мг",
+    "total": "12.0 мг",
+    "name": "Дексаметазон",
+    "period": "4-5"
+  },
+  {
+    "frequency": 1,
+    "route": "нет",
+    "dosage": "500.0 мл",
+    "total": "500.0 мл",
+    "name": "Стерофундин изотонический",
+    "period": "5-5"
+  },
+  {
+    "frequency": 4,
+    "route": "нет",
+    "dosage": "2.0 мл",
+    "total": "8.0 мл",
+    "name": "Дексамед",
+    "period": "6-6"
+  }
+]

@@ -1,0 +1,273 @@
+[
+  {
+    "frequency": 0,
+    "route": "п/к",
+    "dosage": "0.8 мл",
+    "total": "0.0 мл",
+    "name": "Клексан",
+    "period": "1-1"
+  },
+  {
+    "frequency": 1,
+    "route": "внутрь",
+    "dosage": "100.0 мг",
+    "total": "75.0 мг",
+    "name": "Коплавикс",
+    "period": "1-7"
+  },
+  {
+    "frequency": 2,
+    "route": "промыв катетера",
+    "dosage": "25.0 мл",
+    "total": "50.0 мл",
+    "name": "Натрия хлорид",
+    "period": "1-5"
+  },
+  {
+    "frequency": 1,
+    "route": "в/в",
+    "dosage": "10.0 мл",
+    "total": "10.0 мл",
+    "name": "Адреналина гидрохлорид",
+    "period": "1-1"
+  },
+  {
+    "frequency": 2,
+    "route": "в/в",
+    "dosage": "200.0 мл",
+    "total": "400.0 мл",
+    "name": "Натрия гидрокарбонат",
+    "period": "1-1"
+  },
+  {
+    "frequency": 1,
+    "route": "в/в капельно",
+    "dosage": "1000.0 мл",
+    "total": "1000.0 мл",
+    "name": "Плазма-Лит одный раствор",
+    "period": "1-2"
+  },
+  {
+    "frequency": 1,
+    "route": "в/в",
+    "dosage": "5.0 мл",
+    "total": "5.0 мл",
+    "name": "Адреналин",
+    "period": "1-1"
+  },
+  {
+    "frequency": 1,
+    "route": "в/в",
+    "dosage": "5.0 мл",
+    "total": "5.0 мл",
+    "name": "Натрия хлорид",
+    "period": "1-1"
+  },
+  {
+    "frequency": 2,
+    "route": "в/в",
+    "dosage": "50.0 мл",
+    "total": "100.0 мл",
+    "name": "Калия хлорида",
+    "period": "1-1"
+  },
+  {
+    "frequency": 2,
+    "route": "в/в",
+    "dosage": "5.0 мл",
+    "total": "10.0 мл",
+    "name": "Тракриум",
+    "period": "1-1"
+  },
+  {
+    "route": "в/в",
+    "total": "100.0 мл",
+    "concentration": "10 МГ/мл",
+    "name": "Пропофол Каби",
+    "period": "1-1"
+  },
+  {
+    "route": "в/в",
+    "total": "20.0 мл",
+    "concentration": "100 ЕД/мл",
+    "name": "НовоРапид Пенфилл Е",
+    "period": "1-1"
+  },
+  {
+    "route": "в/в",
+    "total": "20.0 мл",
+    "concentration": "100 ЕД/мл",
+    "name": "Натрия хлорид",
+    "period": "1-1"
+  },
+  {
+    "frequency": 3,
+    "route": "в/в",
+    "dosage": "5.0 мл",
+    "total": "15.0 мл",
+    "name": "Адреналин",
+    "period": "2-3"
+  },
+  {
+    "frequency": 3,
+    "route": "в/в",
+    "dosage": "5.0 мл",
+    "total": "15.0 мл",
+    "name": "Натрия хлорид",
+    "period": "2-3"
+  },
+  {
+    "frequency": 3,
+    "route": "в/в",
+    "dosage": "50.0 мл",
+    "total": "150.0 мл",
+    "name": "Калия хлорида",
+    "period": "2-2"
+  },
+  {
+    "route": "в/в",
+    "total": "150.0 мл",
+    "concentration": "10 МГ/мл",
+    "name": "Пропофол Каби",
+    "period": "2-4"
+  },
+  {
+    "frequency": 5,
+    "route": "в/в капельно",
+    "dosage": "1000.0 мл",
+    "total": "5000.0 мл",
+    "name": "Плазма-Лит одный раствор",
+    "period": "3-5"
+  },
+  {
+    "frequency": 1,
+    "route": "внутрь",
+    "dosage": "1000.0 мл",
+    "total": "1000.0 мл",
+    "name": "Нутризон Эдванст Диазон смесь питания",
+    "period": "3-5"
+  },
+  {
+    "frequency": 2,
+    "route": "в/в",
+    "dosage": "20.0 мг",
+    "total": "40.0 мг",
+    "name": "Квамател",
+    "period": "3-7"
+  },
+  {
+    "frequency": 6,
+    "route": "местно",
+    "dosage": "100.0 мл",
+    "total": "600.0 мл",
+    "name": "Хлоргексидин",
+    "period": "3-7"
+  },
+  {
+    "route": "в/в",
+    "total": "600.0 мг",
+    "concentration": "50 МГ/мл",
+    "name": "Кордарон",
+    "period": "3-7"
+  },
+  {
+    "route": "в/в капельно",
+    "total": "4.0 мл",
+    "concentration": "2 МГ/мл",
+    "name": "Натрия хлорид",
+    "period": "3-4"
+  },
+  {
+    "route": "в/в капельно",
+    "total": "4.0 мл",
+    "concentration": "2 МГ/мл",
+    "name": "Норадреналин",
+    "period": "3-4"
+  },
+  {
+    "frequency": 1,
+    "route": "п/к",
+    "dosage": "0.4 мл",
+    "total": "0.4 мл",
+    "name": "Клексан",
+    "period": "4-4"
+  },
+  {
+    "frequency": 1,
+    "route": "в/в",
+    "dosage": "400.0 мл",
+    "total": "400.0 мл",
+    "name": "Маннит",
+    "period": "4-4"
+  },
+  {
+    "frequency": 5,
+    "route": "в/в",
+    "dosage": "50.0 мл",
+    "total": "250.0 мл",
+    "name": "Sol. Thiopentali natrii",
+    "period": "4-5"
+  },
+  {
+    "frequency": 5,
+    "route": "в/в",
+    "dosage": "50.0 мл",
+    "total": "250.0 мл",
+    "name": "Натрия хлорид",
+    "period": "4-5"
+  },
+  {
+    "route": "в/в",
+    "total": "50.0 мл",
+    "concentration": "10 МГ/мл",
+    "name": "Пропофол Каби",
+    "period": "5-5"
+  },
+  {
+    "frequency": 2,
+    "route": "п/к",
+    "dosage": "0.4 мл",
+    "total": "0.8 мл",
+    "name": "Клексан",
+    "period": "5-5"
+  },
+  {
+    "frequency": 3,
+    "route": "в/в",
+    "dosage": "10.0 мл",
+    "total": "30.0 мл",
+    "name": "Допамин",
+    "period": "5-7"
+  },
+  {
+    "frequency": 3,
+    "route": "в/в",
+    "dosage": "10.0 мл",
+    "total": "30.0 мл",
+    "name": "Натрия хлорид",
+    "period": "5-7"
+  },
+  {
+    "frequency": 1,
+    "route": "в/в",
+    "dosage": "0 мл",
+    "total": "0 мл",
+    "name": "Цефограм с растворителем",
+    "period": "5-7"
+  },
+  {
+    "frequency": 4,
+    "route": "в/в капельно",
+    "dosage": "500.0 мл",
+    "total": "2000.0 мл",
+    "name": "Натрия хлорид",
+    "period": "6-7"
+  },
+  {
+    "route": "п/к",
+    "total": "0.8 мл",
+    "concentration": "0 МЕ/мл",
+    "name": "Эниксум",
+    "period": "6-7"
+  }
+]

@@ -1,0 +1,128 @@
+[
+  {
+    "frequency": 0,
+    "route": "в/м",
+    "dosage": "75.0 мг",
+    "total": "6.0 мг",
+    "name": "Диклофенак",
+    "period": "1-1"
+  },
+  {
+    "frequency": 1,
+    "route": "в/м",
+    "dosage": "0 мл",
+    "total": "4.0 мл",
+    "name": "Sol. Tramadoli l",
+    "period": "1-1"
+  },
+  {
+    "frequency": 1,
+    "route": "в/в капельно",
+    "dosage": "1000.0 мл",
+    "total": "1000.0 мл",
+    "name": "Плазма-Лит одный раствор",
+    "period": "1-1"
+  },
+  {
+    "frequency": 9,
+    "route": "в/в",
+    "dosage": "2.0 мл",
+    "total": "18.0 мл",
+    "name": "Дицинон",
+    "period": "1-1"
+  },
+  {
+    "frequency": 0,
+    "route": "в/в капельно",
+    "dosage": "10.0 мл",
+    "total": "0.0 мл",
+    "name": "Калия хлорида",
+    "period": "1-1"
+  },
+  {
+    "frequency": 5,
+    "route": "в/в капельно",
+    "dosage": "500.0 мл",
+    "total": "2500.0 мл",
+    "name": "Натрия хлорид",
+    "period": "1-4"
+  },
+  {
+    "frequency": 2,
+    "route": "в/в капельно",
+    "dosage": "5.0 мл",
+    "total": "10.0 мл",
+    "name": "Магния сульфат",
+    "period": "1-4"
+  },
+  {
+    "route": "в/в капельно",
+    "total": "400.0 мл",
+    "concentration": "2 МГ/мл",
+    "name": "Цифран",
+    "period": "1-4"
+  },
+  {
+    "route": "в/в",
+    "total": "6.0 мл",
+    "concentration": "50 МГ/мл",
+    "name": "Кетонал раствор для и в введения",
+    "period": "1-1"
+  },
+  {
+    "frequency": 1,
+    "route": "в/м",
+    "dosage": "0 мл",
+    "total": "2.0 мл",
+    "name": "Sol. Sibasoni l",
+    "period": "1-4"
+  },
+  {
+    "frequency": 0,
+    "route": "в/в капельно",
+    "dosage": "400.0 мл",
+    "total": "60.0 мл",
+    "name": "Калия хлорид",
+    "period": "1-1"
+  },
+  {
+    "frequency": 1,
+    "route": "в/м",
+    "dosage": "0 мл",
+    "total": "6.0 мл",
+    "name": "Sol. Tramadoli l",
+    "period": "2-3"
+  },
+  {
+    "frequency": 4,
+    "route": "в/в",
+    "dosage": "2.0 мл",
+    "total": "8.0 мл",
+    "name": "Дицинон",
+    "period": "2-4"
+  },
+  {
+    "frequency": 0,
+    "route": "в/в капельно",
+    "dosage": "400.0 мл",
+    "total": "30.0 мл",
+    "name": "Калия хлорид",
+    "period": "2-4"
+  },
+  {
+    "frequency": 1,
+    "route": "в/в капельно",
+    "dosage": "10.0 мл",
+    "total": "10.0 мл",
+    "name": "Изокет",
+    "period": "3-4"
+  },
+  {
+    "frequency": 1,
+    "route": "в/м",
+    "dosage": "0 мл",
+    "total": "0.0 мл",
+    "name": "Sol. Tramadoli l",
+    "period": "4-4"
+  }
+]

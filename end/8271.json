@@ -1,0 +1,340 @@
+[
+  {
+    "frequency": 1,
+    "route": "внутрь",
+    "dosage": "300.0 мг",
+    "total": "300.0 мг",
+    "name": "Плавикс",
+    "period": "1-1"
+  },
+  {
+    "frequency": 2,
+    "route": "п/к",
+    "dosage": "0.4 мл",
+    "total": "0.8 мл",
+    "name": "Клексан",
+    "period": "1-2"
+  },
+  {
+    "frequency": 1,
+    "route": "внутрь",
+    "dosage": "5.0 мг",
+    "total": "5.0 мг",
+    "name": "Лизиноприл",
+    "period": "1-1"
+  },
+  {
+    "frequency": 0,
+    "route": "в/в капельно",
+    "dosage": "10.0 мл",
+    "total": "3.0 мл",
+    "name": "Изокет",
+    "period": "1-1"
+  },
+  {
+    "frequency": 0,
+    "route": "в/в капельно",
+    "dosage": "10.0 мл",
+    "total": "3.0 мл",
+    "name": "Натрия хлорид",
+    "period": "1-1"
+  },
+  {
+    "frequency": 8,
+    "route": "промыв катетера",
+    "dosage": "0.5 мл",
+    "total": "4.0 мл",
+    "name": "Гепарин-натрий Браун .",
+    "period": "1-3"
+  },
+  {
+    "frequency": 8,
+    "route": "промыв катетера",
+    "dosage": "0.5 мл",
+    "total": "4.0 мл",
+    "name": "Натрия хлорид",
+    "period": "1-3"
+  },
+  {
+    "frequency": 0,
+    "route": "в/в капельно",
+    "dosage": "38.0 мл",
+    "total": "2.0 мл",
+    "name": "Глюкоза",
+    "period": "1-1"
+  },
+  {
+    "frequency": 0,
+    "route": "в/в капельно",
+    "dosage": "38.0 мл",
+    "total": "2.0 мл",
+    "name": "Веро-Амиодарон",
+    "period": "1-1"
+  },
+  {
+    "frequency": 0,
+    "route": "в/в капельно",
+    "dosage": "20.0 мл",
+    "total": "3.0 мл",
+    "name": "Калия хлорида",
+    "period": "1-1"
+  },
+  {
+    "frequency": 0,
+    "route": "в/в капельно",
+    "dosage": "20.0 мл",
+    "total": "3.0 мл",
+    "name": "Глюкоза",
+    "period": "1-1"
+  },
+  {
+    "frequency": 1,
+    "route": "внутрь",
+    "dosage": "40.0 мг",
+    "total": "40.0 мг",
+    "name": "Аторис",
+    "period": "1-2"
+  },
+  {
+    "frequency": 4,
+    "route": "внутрь",
+    "dosage": "1.0 мг",
+    "total": "4.0 мг",
+    "name": "Фенорелаксан",
+    "period": "1-2"
+  },
+  {
+    "frequency": 4,
+    "route": "в/в",
+    "dosage": "1.0 мл",
+    "total": "4.0 мл",
+    "name": "Галоперидол",
+    "period": "1-2"
+  },
+  {
+    "route": "в/в",
+    "total": "8.0 мл",
+    "concentration": "50 МГ/мл",
+    "name": "Кетонал",
+    "period": "1-2"
+  },
+  {
+    "route": "в/в капельно",
+    "total": "400.0 мл",
+    "concentration": "10 МГ/мл",
+    "name": "Парацетамол",
+    "period": "1-2"
+  },
+  {
+    "frequency": 2,
+    "route": "внутрь",
+    "dosage": "10.0 мг",
+    "total": "20.0 мг",
+    "name": "Лизиноприл",
+    "period": "2-2"
+  },
+  {
+    "frequency": 1,
+    "route": "внутрь",
+    "dosage": "100.0 мг",
+    "total": "75.0 мг",
+    "name": "Коплавикс",
+    "period": "2-3"
+  },
+  {
+    "frequency": 3,
+    "route": "внутрь",
+    "dosage": "200.0 мг",
+    "total": "600.0 мг",
+    "name": "Амиодарон",
+    "period": "2-2"
+  },
+  {
+    "frequency": 0,
+    "route": "внутрь",
+    "dosage": "5.0 мг",
+    "total": "2.5 мг",
+    "name": "Бисопролол - Прана",
+    "period": "2-2"
+  },
+  {
+    "frequency": 1,
+    "route": "внутрь",
+    "dosage": "10.0 мг",
+    "total": "10.0 мг",
+    "name": "Торасемид-СЗ",
+    "period": "2-2"
+  },
+  {
+    "frequency": 1,
+    "route": "в/в",
+    "dosage": "6.0 мл",
+    "total": "6.0 мл",
+    "name": "Веро-Амиодарон",
+    "period": "2-2"
+  },
+  {
+    "frequency": 0,
+    "route": "в/в",
+    "dosage": "38.0 мл",
+    "total": "1.0 мл",
+    "name": "Глюкоза",
+    "period": "2-2"
+  },
+  {
+    "frequency": 0,
+    "route": "в/в",
+    "dosage": "38.0 мл",
+    "total": "1.0 мл",
+    "name": "Веро-Амиодарон",
+    "period": "2-2"
+  },
+  {
+    "frequency": 1,
+    "route": "в/в",
+    "dosage": "5.0 мл",
+    "total": "3.0 мл",
+    "name": "Адреналин",
+    "period": "2-2"
+  },
+  {
+    "frequency": 1,
+    "route": "в/в",
+    "dosage": "5.0 мл",
+    "total": "3.0 мл",
+    "name": "Натрия хлорид",
+    "period": "2-2"
+  },
+  {
+    "route": "в/в капельно",
+    "total": "400.0 мл",
+    "concentration": "40 МГ/мл",
+    "name": "Натрия гидрокарбонат",
+    "period": "2-2"
+  },
+  {
+    "frequency": 2,
+    "route": "в/в",
+    "dosage": "6.0 мл",
+    "total": "12.0 мл",
+    "name": "Веро-Амиодарон",
+    "period": "3-3"
+  },
+  {
+    "frequency": 0,
+    "route": "в/в",
+    "dosage": "38.0 мл",
+    "total": "2.0 мл",
+    "name": "Глюкоза",
+    "period": "3-3"
+  },
+  {
+    "frequency": 0,
+    "route": "в/в",
+    "dosage": "38.0 мл",
+    "total": "2.0 мл",
+    "name": "Веро-Амиодарон",
+    "period": "3-3"
+  },
+  {
+    "frequency": 1,
+    "route": "в/в",
+    "dosage": "10.0 мл",
+    "total": "6.0 мл",
+    "name": "Адреналин",
+    "period": "3-3"
+  },
+  {
+    "frequency": 1,
+    "route": "в/в",
+    "dosage": "10.0 мл",
+    "total": "6.0 мл",
+    "name": "Натрия хлорид",
+    "period": "3-3"
+  },
+  {
+    "route": "в/в капельно",
+    "total": "1200.0 мл",
+    "concentration": "40 МГ/мл",
+    "name": "Натрия гидрокарбонат",
+    "period": "3-3"
+  },
+  {
+    "route": "в/в",
+    "total": "6.0 дозсмеси",
+    "concentration": "2 МГ/мл",
+    "name": "Натрия хлорид",
+    "period": "3-3"
+  },
+  {
+    "route": "в/в",
+    "total": "6.0 дозсмеси",
+    "concentration": "2 МГ/мл",
+    "name": "Норадреналин",
+    "period": "3-3"
+  },
+  {
+    "frequency": 0,
+    "route": "в/в",
+    "dosage": "5.0 мл",
+    "total": "2.0 мл",
+    "name": "Новокаинамид",
+    "period": "3-3"
+  },
+  {
+    "frequency": 0,
+    "route": "в/в",
+    "dosage": "5.0 мл",
+    "total": "2.0 мл",
+    "name": "Натрия хлорид",
+    "period": "3-3"
+  },
+  {
+    "frequency": 6,
+    "route": "в/в",
+    "dosage": "50.0 мл",
+    "total": "300.0 мл",
+    "name": "Калия хлорида",
+    "period": "3-3"
+  },
+  {
+    "frequency": 3,
+    "route": "в/в капельно",
+    "dosage": "250.0 мл",
+    "total": "750.0 мл",
+    "name": "Глюкоза",
+    "period": "3-3"
+  },
+  {
+    "frequency": 2,
+    "route": "в/в",
+    "dosage": "20.0 мг",
+    "total": "40.0 мг",
+    "name": "Квамател с растворителем",
+    "period": "3-3"
+  },
+  {
+    "frequency": 3,
+    "route": "в/м",
+    "dosage": "2.0 мл",
+    "total": "6.0 мл",
+    "name": "Лидокаин",
+    "period": "3-3"
+  },
+  {
+    "frequency": 0,
+    "route": "в/в",
+    "dosage": "14.0 мл",
+    "total": "1.0 мл",
+    "name": "Лидокаин",
+    "period": "3-3"
+  },
+  {
+    "frequency": 0,
+    "route": "в/в",
+    "dosage": "14.0 мл",
+    "total": "1.0 мл",
+    "name": "Натрия хлорид",
+    "period": "3-3"
+  }
+]

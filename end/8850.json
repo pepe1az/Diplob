@@ -1,0 +1,303 @@
+[
+  {
+    "frequency": 0,
+    "route": "внутрь",
+    "dosage": "5.0 мг",
+    "total": "2.5 мг",
+    "name": "Бисопролол - Прана",
+    "period": "1-2"
+  },
+  {
+    "frequency": 0,
+    "route": "внутрь",
+    "dosage": "5.0 мг",
+    "total": "2.5 мг",
+    "name": "Бисопролол - Прана",
+    "period": "8-10"
+  },
+  {
+    "frequency": 2,
+    "route": "промыв катетера",
+    "dosage": "25.0 мл",
+    "total": "50.0 мл",
+    "name": "Натрия хлорид",
+    "period": "1-2"
+  },
+  {
+    "frequency": 1,
+    "route": "внутрь",
+    "dosage": "10.0 мг",
+    "total": "10.0 мг",
+    "name": "Крестор",
+    "period": "1-10"
+  },
+  {
+    "frequency": 2,
+    "route": "п/к",
+    "dosage": "0.6 мл",
+    "total": "1.0 мл",
+    "name": "Клексан",
+    "period": "1-9"
+  },
+  {
+    "frequency": 1,
+    "route": "внутрь",
+    "dosage": "100.0 мг",
+    "total": "75.0 мг",
+    "name": "Коплавикс",
+    "period": "1-10"
+  },
+  {
+    "frequency": 3,
+    "route": "внутрь",
+    "dosage": "200.0 мг",
+    "total": "600.0 мг",
+    "name": "Кордарон",
+    "period": "1-2"
+  },
+  {
+    "frequency": 3,
+    "route": "внутрь",
+    "dosage": "200.0 мг",
+    "total": "600.0 мг",
+    "name": "Кордарон",
+    "period": "4-5"
+  },
+  {
+    "frequency": 3,
+    "route": "внутрь",
+    "dosage": "200.0 мг",
+    "total": "600.0 мг",
+    "name": "Кордарон",
+    "period": "7-10"
+  },
+  {
+    "frequency": 6,
+    "route": "в/в",
+    "dosage": "1.0 мл",
+    "total": "6.0 мл",
+    "name": "Галоперидол-Рихтер",
+    "period": "2-2"
+  },
+  {
+    "frequency": 1,
+    "route": "в/в капельно",
+    "dosage": "1000.0 мл",
+    "total": "1000.0 мл",
+    "name": "Плазма-Лит одный раствор",
+    "period": "2-2"
+  },
+  {
+    "frequency": 1,
+    "route": "в/в капельно",
+    "dosage": "2.0 мл",
+    "total": "2.0 мл",
+    "name": "Дексдор",
+    "period": "2-2"
+  },
+  {
+    "route": "в/в",
+    "total": "1.0 мл",
+    "concentration": "1 МГ/мл",
+    "name": "Фенорелаксан",
+    "period": "2-2"
+  },
+  {
+    "frequency": 2,
+    "route": "в/в капельно",
+    "dosage": "500.0 мл",
+    "total": "1000.0 мл",
+    "name": "Рингера-ацетат",
+    "period": "2-2"
+  },
+  {
+    "route": "в/в",
+    "total": "2.0 мл",
+    "concentration": "2 МГ/мл",
+    "name": "Натрия хлорид",
+    "period": "2-2"
+  },
+  {
+    "route": "в/в",
+    "total": "2.0 мл",
+    "concentration": "2 МГ/мл",
+    "name": "Норадреналин",
+    "period": "2-2"
+  },
+  {
+    "frequency": 4,
+    "route": "промыв катетера",
+    "dosage": "25.0 мл",
+    "total": "100.0 мл",
+    "name": "Натрия хлорид",
+    "period": "3-10"
+  },
+  {
+    "frequency": 0,
+    "route": "внутрь",
+    "dosage": "1000.0 мл",
+    "total": "500.0 мл",
+    "name": "Изосурс Энерджи Файбер",
+    "period": "3-10"
+  },
+  {
+    "route": "в/в",
+    "total": "300.0 мг",
+    "concentration": "50 МГ/мл",
+    "name": "Кордарон",
+    "period": "3-3"
+  },
+  {
+    "route": "в/в",
+    "total": "38.0 мл",
+    "concentration": "50 МГ/мл",
+    "name": "Кордарон",
+    "period": "3-3"
+  },
+  {
+    "route": "в/в",
+    "total": "38.0 мл",
+    "concentration": "50 МГ/мл",
+    "name": "Глюкоза",
+    "period": "3-3"
+  },
+  {
+    "frequency": 1,
+    "route": "внутрь",
+    "dosage": "5.0 мг",
+    "total": "5.0 мг",
+    "name": "Бисопролол - Прана",
+    "period": "3-4"
+  },
+  {
+    "frequency": 1,
+    "route": "внутрь",
+    "dosage": "5.0 мг",
+    "total": "5.0 мг",
+    "name": "Бисопролол - Прана",
+    "period": "7-7"
+  },
+  {
+    "frequency": 1,
+    "route": "в/в",
+    "dosage": "30.0 мл",
+    "total": "30.0 мл",
+    "name": "Калия хлорида",
+    "period": "3-3"
+  },
+  {
+    "frequency": 1,
+    "route": "в/в",
+    "dosage": "30.0 мл",
+    "total": "30.0 мл",
+    "name": "Глюкоза",
+    "period": "3-3"
+  },
+  {
+    "route": "в/в",
+    "total": "4.0 мл",
+    "concentration": "2 МГ/мл",
+    "name": "Натрия хлорид",
+    "period": "3-3"
+  },
+  {
+    "route": "в/в",
+    "total": "4.0 мл",
+    "concentration": "2 МГ/мл",
+    "name": "Норадреналин",
+    "period": "3-3"
+  },
+  {
+    "frequency": 1,
+    "route": "в/в капельно",
+    "dosage": "500.0 мл",
+    "total": "500.0 мл",
+    "name": "Калия и магния аспарагинат",
+    "period": "3-3"
+  },
+  {
+    "frequency": 2,
+    "route": "внутрь",
+    "dosage": "50.0 мг",
+    "total": "100.0 мг",
+    "name": "Верошпирон",
+    "period": "4-10"
+  },
+  {
+    "frequency": 1,
+    "route": "в/м",
+    "dosage": "1.0 мл",
+    "total": "1.0 мл",
+    "name": "Галоперидол-Рихтер",
+    "period": "4-4"
+  },
+  {
+    "frequency": 1,
+    "route": "в/в",
+    "dosage": "46.0 мл",
+    "total": "46.0 мл",
+    "name": "Натрия хлорид",
+    "period": "4-4"
+  },
+  {
+    "frequency": 1,
+    "route": "в/в",
+    "dosage": "46.0 мл",
+    "total": "46.0 мл",
+    "name": "Дексдор",
+    "period": "4-4"
+  },
+  {
+    "route": "в/в",
+    "total": "46.0 мл",
+    "concentration": "2 МГ/мл",
+    "name": "Норадреналин Агетан",
+    "period": "5-5"
+  },
+  {
+    "route": "в/в",
+    "total": "46.0 мл",
+    "concentration": "2 МГ/мл",
+    "name": "Натрия хлорид",
+    "period": "5-5"
+  },
+  {
+    "route": "в/в капельно",
+    "total": "0.0 мг",
+    "concentration": "50 МГ/мл",
+    "name": "Кордарон",
+    "period": "6-6"
+  },
+  {
+    "frequency": 2,
+    "route": "внутрь",
+    "dosage": "400.0 мг",
+    "total": "800.0 мг",
+    "name": "Церетон",
+    "period": "6-10"
+  },
+  {
+    "frequency": 0,
+    "route": "в/в",
+    "dosage": "20.0 мл",
+    "total": "0.0 мл",
+    "name": "Глюкоза",
+    "period": "9-9"
+  },
+  {
+    "frequency": 0,
+    "route": "в/в",
+    "dosage": "20.0 мл",
+    "total": "0.0 мл",
+    "name": "Магния сульфат",
+    "period": "9-9"
+  },
+  {
+    "frequency": 0,
+    "route": "в/в",
+    "dosage": "20.0 мл",
+    "total": "0.0 мл",
+    "name": "Калия хлорида",
+    "period": "9-9"
+  }
+]

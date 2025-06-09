@@ -1,0 +1,130 @@
+[
+  {
+    "frequency": 2,
+    "route": "нет",
+    "dosage": "90.0 мг",
+    "total": "180.0 мг",
+    "name": "Брилинта",
+    "period": "1-1"
+  },
+  {
+    "frequency": 1,
+    "route": "нет",
+    "dosage": "40.0 мг",
+    "total": "40.0 мг",
+    "name": "Аторвастатин",
+    "period": "1-17"
+  },
+  {
+    "frequency": 1,
+    "route": "нет",
+    "dosage": "5.0 мг",
+    "total": "5.0 мг",
+    "name": "Бисопролол",
+    "period": "1-1"
+  },
+  {
+    "frequency": 1,
+    "route": "нет",
+    "dosage": "100.0 мг",
+    "total": "100.0 мг",
+    "name": "Тромбо АСС",
+    "period": "1-17"
+  },
+  {
+    "frequency": 1,
+    "route": "нет",
+    "dosage": "5.0 мг",
+    "total": "5.0 мг",
+    "name": "Лизиноприл",
+    "period": "1-1"
+  },
+  {
+    "frequency": 1,
+    "route": "нет",
+    "dosage": "90.0 мг",
+    "total": "90.0 мг",
+    "name": "Брилинта",
+    "period": "2-18"
+  },
+  {
+    "frequency": 1,
+    "route": "нет",
+    "dosage": "100.0 мл",
+    "total": "100.0 мл",
+    "name": "Натрия хлорид",
+    "period": "2-2"
+  },
+  {
+    "frequency": 1,
+    "route": "нет",
+    "dosage": "200.0 мл",
+    "total": "200.0 мл",
+    "name": "Натрия хлорид",
+    "period": "3-3"
+  },
+  {
+    "frequency": 1,
+    "route": "нет",
+    "dosage": "400.0 мг",
+    "total": "400.0 мг",
+    "name": "Моксифло",
+    "period": "4-17"
+  },
+  {
+    "frequency": 1,
+    "route": "нет",
+    "dosage": "200.0 мл",
+    "total": "140.0 мл",
+    "name": "Натрия хлорид",
+    "period": "4-5"
+  },
+  {
+    "frequency": 0,
+    "route": "нет",
+    "dosage": "400.0 мл",
+    "total": "80.0 мл",
+    "name": "Натрия хлорид",
+    "period": "6-8"
+  },
+  {
+    "frequency": 0,
+    "route": "нет",
+    "dosage": "5.0 мг",
+    "total": "2.5 мг",
+    "name": "Бисопролол",
+    "period": "8-17"
+  },
+  {
+    "frequency": 0,
+    "route": "нет",
+    "dosage": "500.0 мл",
+    "total": "160.0 мл",
+    "name": "Натрия хлорид",
+    "period": "9-9"
+  },
+  {
+    "frequency": 1,
+    "route": "нет",
+    "dosage": "10000.0 ЕД",
+    "total": "10000.0 ЕД",
+    "name": "Панкреатин",
+    "period": "13-18"
+  },
+  {
+    "frequency": 0,
+    "route": "нет",
+    "dosage": "100.0 мг",
+    "total": "50.0 мг",
+    "name": "Кетопрофен форте",
+    "period": "15-15"
+  },
+  {
+    "frequency": 1,
+    "route": "нет",
+    "dosage": "100.0 мг",
+    "total": "100.0 мг",
+    "name": "Кетопрофен форте",
+    "period": "17-17"
+  }
+]

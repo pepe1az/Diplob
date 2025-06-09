@@ -1,0 +1,167 @@
+[
+  {
+    "frequency": 2,
+    "route": "нет",
+    "dosage": "2.0 мл",
+    "total": "5.0 мл",
+    "name": "Фуросемид",
+    "period": "1-1"
+  },
+  {
+    "frequency": 1,
+    "route": "нет",
+    "dosage": "40.0 мг",
+    "total": "40.0 мг",
+    "name": "Аторис",
+    "period": "1-7"
+  },
+  {
+    "frequency": 1,
+    "route": "нет",
+    "dosage": "20.0 мг",
+    "total": "20.0 мг",
+    "name": "Омез",
+    "period": "1-7"
+  },
+  {
+    "frequency": 1,
+    "route": "нет",
+    "dosage": "90.0 мг",
+    "total": "90.0 мг",
+    "name": "Брилинта",
+    "period": "1-8"
+  },
+  {
+    "route": "не указан",
+    "total": "2.0 мл",
+    "concentration": "2 МГ/мл",
+    "name": "Норадреналин",
+    "period": "2-2"
+  },
+  {
+    "frequency": 5,
+    "route": "нет",
+    "dosage": "2.0 мл",
+    "total": "10.0 мл",
+    "name": "Дексмедетомидин",
+    "period": "2-2"
+  },
+  {
+    "frequency": 1,
+    "route": "нет",
+    "dosage": "100.0 мг",
+    "total": "100.0 мг",
+    "name": "Тромбо АСС",
+    "period": "2-8"
+  },
+  {
+    "frequency": 1,
+    "route": "нет",
+    "dosage": "10.0 мг",
+    "total": "10.0 мг",
+    "name": "Торасемид-СЗ",
+    "period": "2-4"
+  },
+  {
+    "frequency": 2,
+    "route": "нет",
+    "dosage": "25.0 мг",
+    "total": "50.0 мг",
+    "name": "Спиронолактон",
+    "period": "2-4"
+  },
+  {
+    "frequency": 0,
+    "route": "нет",
+    "dosage": "40.0 мг",
+    "total": "20.0 мг",
+    "name": "Фуросемид",
+    "period": "2-2"
+  },
+  {
+    "frequency": 1,
+    "route": "нет",
+    "dosage": "100.0 мг",
+    "total": "100.0 мг",
+    "name": "Кетопрофен форте",
+    "period": "3-3"
+  },
+  {
+    "route": "не указан",
+    "total": "5.0 мл",
+    "concentration": "40 МГ/мл",
+    "name": "Калия хлорид",
+    "period": "3-3"
+  },
+  {
+    "route": "не указан",
+    "total": "6.0 мл",
+    "concentration": "40 МГ/мл",
+    "name": "Калия хлорид",
+    "period": "4-5"
+  },
+  {
+    "route": "не указан",
+    "total": "5.0 мл",
+    "concentration": "50 МГ/мл",
+    "name": "Амиодарон",
+    "period": "4-5"
+  },
+  {
+    "route": "не указан",
+    "total": "3.0 мл",
+    "concentration": "2 МГ/мл",
+    "name": "Норадреналин",
+    "period": "5-5"
+  },
+  {
+    "route": "не указан",
+    "total": "1.0 мл",
+    "concentration": "2 МГ/мл",
+    "name": "Норадреналин",
+    "period": "6-6"
+  },
+  {
+    "route": "не указан",
+    "total": "2.5 мл",
+    "concentration": "50 МГ/мл",
+    "name": "Амиодарон",
+    "period": "6-8"
+  },
+  {
+    "frequency": 1,
+    "route": "нет",
+    "dosage": "400.0 мг",
+    "total": "400.0 мг",
+    "name": "Моксифлоксацин Канон",
+    "period": "6-7"
+  },
+  {
+    "route": "не указан",
+    "total": "4.0 мл",
+    "concentration": "100 МЕ/мл",
+    "name": "Протафан НМ Пенфилл",
+    "period": "6-6"
+  },
+  {
+    "route": "не указан",
+    "total": "2.0 мл",
+    "concentration": "100 МЕ/мл",
+    "name": "Протафан НМ",
+    "period": "6-6"
+  },
+  {
+    "route": "не указан",
+    "total": "8.0 мл",
+    "concentration": "100 МЕ/мл",
+    "name": "Протафан НМ Пенфилл",
+    "period": "7-7"
+  },
+  {
+    "route": "не указан",
+    "total": "6.0 мл",
+    "concentration": "100 МЕ/мл",
+    "name": "Протафан НМ Пенфилл",
+    "period": "8-8"
+  }
+]

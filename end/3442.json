@@ -1,0 +1,95 @@
+[
+  {
+    "frequency": 2,
+    "route": "внутрь",
+    "dosage": "200.0 мг",
+    "total": "400.0 мг",
+    "name": "Гидроксихлорохин",
+    "period": "1-1"
+  },
+  {
+    "frequency": 2,
+    "route": "внутрь",
+    "dosage": "500.0 мг",
+    "total": "1000.0 мг",
+    "name": "Левофлоксацин",
+    "period": "1-2"
+  },
+  {
+    "route": "в/в капельно",
+    "total": "0.0 мл",
+    "concentration": "10 МГ/мл",
+    "name": "Парацетамол",
+    "period": "1-2"
+  },
+  {
+    "route": "в/в",
+    "total": "2.0 мл",
+    "concentration": "4 МГ/мл",
+    "name": "Дексаметазон - Виал",
+    "period": "1-1"
+  },
+  {
+    "frequency": 2,
+    "route": "п/к",
+    "dosage": "0.6 мл",
+    "total": "1.2 мл",
+    "name": "Фраксипарин Е",
+    "period": "1-2"
+  },
+  {
+    "frequency": 0,
+    "route": "внутрь",
+    "dosage": "20.0 мг",
+    "total": "0.0 мг",
+    "name": "Омепразол",
+    "period": "1-2"
+  },
+  {
+    "frequency": 1,
+    "route": "внутрь",
+    "dosage": "20.0 мг",
+    "total": "20.0 мг",
+    "name": "Аторвастатин-СЗ",
+    "period": "1-2"
+  },
+  {
+    "frequency": 1,
+    "route": "внутрь",
+    "dosage": "100.0 мг",
+    "total": "100.0 мг",
+    "name": "Ацекардол",
+    "period": "1-2"
+  },
+  {
+    "frequency": 1,
+    "route": "внутрь",
+    "dosage": "4.0 мг",
+    "total": "4.0 мг",
+    "name": "Олумиант",
+    "period": "1-2"
+  },
+  {
+    "frequency": 1,
+    "route": "внутрь",
+    "dosage": "1.0 мг",
+    "total": "1.0 мг",
+    "name": "Транквезипам",
+    "period": "1-1"
+  },
+  {
+    "frequency": 1,
+    "route": "внутрь",
+    "dosage": "200.0 мг",
+    "total": "200.0 мг",
+    "name": "Гидроксихлорохин",
+    "period": "2-2"
+  },
+  {
+    "route": "в/в",
+    "total": "4.0 мл",
+    "concentration": "4 МГ/мл",
+    "name": "Дексаметазон - Виал",
+    "period": "2-2"
+  }
+]

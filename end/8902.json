@@ -1,0 +1,108 @@
+[
+  {
+    "route": "не указан",
+    "total": "6.0 мл",
+    "concentration": "40 МГ/мл",
+    "name": "Калия хлорид",
+    "period": "1-1"
+  },
+  {
+    "frequency": 1,
+    "route": "нет",
+    "dosage": "10.0 мг",
+    "total": "10.0 мг",
+    "name": "Лизиноприл",
+    "period": "1-1"
+  },
+  {
+    "frequency": 1,
+    "route": "нет",
+    "dosage": "40.0 мг",
+    "total": "40.0 мг",
+    "name": "Аторис",
+    "period": "1-4"
+  },
+  {
+    "frequency": 0,
+    "route": "нет",
+    "dosage": "200.0 мл",
+    "total": "8.0 мл",
+    "name": "Калия хлорид",
+    "period": "2-2"
+  },
+  {
+    "frequency": 1,
+    "route": "нет",
+    "dosage": "100.0 мг",
+    "total": "100.0 мг",
+    "name": "Тромбо АСС",
+    "period": "2-5"
+  },
+  {
+    "frequency": 1,
+    "route": "нет",
+    "dosage": "75.0 мг",
+    "total": "75.0 мг",
+    "name": "Плавикс",
+    "period": "2-5"
+  },
+  {
+    "route": "не указан",
+    "total": "1.0 мл",
+    "concentration": "100 МЕ/мл",
+    "name": "Протафан НМ Пенфилл",
+    "period": "2-2"
+  },
+  {
+    "route": "не указан",
+    "total": "1.0 мл",
+    "concentration": "100 МЕ/мл",
+    "name": "Протафан НМ Пенфилл",
+    "period": "4-4"
+  },
+  {
+    "route": "не указан",
+    "total": "8.0 мл",
+    "concentration": "100 МЕ/мл",
+    "name": "Протафан НМ Пенфилл",
+    "period": "3-3"
+  },
+  {
+    "route": "не указан",
+    "total": "2.0 мл",
+    "concentration": "100 МЕ/мл",
+    "name": "Протафан НМ",
+    "period": "3-3"
+  },
+  {
+    "frequency": 1,
+    "route": "нет",
+    "dosage": "5.0 мг",
+    "total": "5.0 мг",
+    "name": "Бисопролол",
+    "period": "3-4"
+  },
+  {
+    "frequency": 1,
+    "route": "нет",
+    "dosage": "10.0 мг",
+    "total": "10.0 мг",
+    "name": "Торасемид-СЗ",
+    "period": "4-5"
+  },
+  {
+    "route": "не указан",
+    "total": "5.0 мл",
+    "concentration": "40 МГ/мл",
+    "name": "Калия хлорид",
+    "period": "4-5"
+  },
+  {
+    "frequency": 2,
+    "route": "нет",
+    "dosage": "25.0 мг",
+    "total": "50.0 мг",
+    "name": "Спиронолактон",
+    "period": "4-4"
+  }
+]
