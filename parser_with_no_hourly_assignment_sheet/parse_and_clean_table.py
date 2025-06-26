@@ -1,9 +1,6 @@
 import os
 from bs4 import BeautifulSoup
 
-folder = 'C:/Users/Кирилл/Desktop/ConvertHTML/no_table'
-output_file = 'result_parser.txt'
-#отсортировать
 def clean_html_line(line):
     """Очищает строку от HTML и возвращает текст с пробелами между элементами."""
     soup = BeautifulSoup(line, "lxml")
@@ -22,11 +19,10 @@ def parse_table(folder, output_file):
                 tables = soup.find_all("table")
 
                 if not tables:
-                    print(f"⚠️ Таблиц не найдено в файле: {filename}")
+                    print(f"Таблиц не найдено в файле: {filename}")
                     continue
 
                 for table in tables:
-                    # Получаем html каждой строки как текст, потом очищаем
                     raw_rows = table.decode().split("</tr>")
                     for row in raw_rows:
                         row = row.strip()

@@ -1,112 +1,114 @@
 import re
 import json
 import os
+from datetime import datetime
+from typing import List, Optional, Dict, Any
 
-def clean_line(line, extracted_parts):
-    """
-    Удаляет все извлечённые фрагменты из строки, чтобы получить comment.
-    """
-    for part in extracted_parts:
-        if part:
-            # Удаляем только первое вхождение каждого фрагмента
-            line = re.sub(re.escape(part), '', line, count=1)
-    return re.sub(r'\s+', ' ', line).strip(" .,:;–—\n\t")
+method_pattern = r"(внутрь|в/в|в/м|п/к|подкожно|перорально|ингаляц|парабульбарно)"
 
-def parse_medicine_line(line):
-    """
-    Преобразует строку с лекарством в структуру словаря и добавляет всё необработанное в comment.
-    """
-    original_line = line.strip()
-    extracted_parts = []
+def extract_all_dates(text: str) -> List[str]:
+    dates = re.findall(r"\d{2}\.\d{2}\.\d{4}", text)
+    return sorted(set(dates), key=lambda d: datetime.strptime(d, "%d.%m.%Y"))
 
-    # Извлекаем даты
-    date_pattern = r"\d{2}\.\d{2}\.\d{4}"
-    dates = re.findall(date_pattern, line)
+def parse_period(start: str, end: str, min_date_str: str) -> str:
+    date_format = "%d.%m.%Y"
+    min_date = datetime.strptime(min_date_str, date_format)
+    start_date = datetime.strptime(start, date_format)
+    end_date = datetime.strptime(end, date_format)
+    start_day = (start_date - min_date).days + 1
+    end_day = (end_date - min_date).days + 1
+    return f"{start_day}-{end_day}"
+
+def extract_medicine_name(text: str) -> str:
+    pattern = r"([А-ЯЁA-Z][^\d,]*)"
+    match = re.match(pattern, text.strip())
+    if match:
+        name = match.group(1).strip()
+        name = re.split(r"[\d,]", name)[0].strip()
+        return name
+    return "неизвестно"
+
+def parse_medicines_from_line(line: str, min_date_str: str) -> Optional[Dict[str, Any]]:
+    dates = re.findall(r"\d{2}\.\d{2}\.\d{4}", line)
     if len(dates) >= 2:
         date_start, date_end = dates[-2], dates[-1]
-        extracted_parts += [date_start, date_end]
+        period = parse_period(date_start, date_end, min_date_str)
     else:
-        date_start = date_end = ""
+        period = ""
 
-    # Название (всё до первого числа или дозировки)
-    parts = original_line.split()
-    name_parts = []
-    for part in parts:
-        if re.search(r"\d", part) or "мг" in part or "мл" in part or "ЕД" in part:
-            break
-        name_parts.append(part)
-    name = " ".join(name_parts).strip()
-    extracted_parts.append(name)
+    route_match = re.search(method_pattern, line, re.IGNORECASE)
+    route = route_match.group(1).lower() if route_match else ""
 
-    route_match = re.search(
-        r"(в/в(?: капельно| болюсно)?|п/к|инфузомат|внутрь|ингаляционно|наружно|в глаза|перевязка|энтерально|местно|Местно|изотонический гемодиализ|ТБД|внутриплеврально|эпидурально|на кожу|внутрипузырно|парентерально|через зонд|промыв катетера|в/м(?: глубоко)?)",
-        original_line,
-        flags=re.IGNORECASE
-    )
-    route = route_match.group(1) if route_match else ""
-    if route:
-        extracted_parts.append(route)
-    dosage_match = re.search(r"(\d+\.?\d*)\s*(мг|мл|ЕД)", original_line)
-    dosage = f"{dosage_match.group(1)} {dosage_match.group(2)}" if dosage_match else ""
-    if dosage:
-        extracted_parts.append(dosage_match.group(0))  
-    comment = clean_line(original_line, extracted_parts)
+    total_match = re.search(r"(\d+(?:[.,]\d+)?)\s*р/д", line)
+    total = total_match.group(1).replace(',', '.') if total_match else ""
 
-    return {
-        name: {
+    if "Смесь" in line:
+        line_wo_dates = re.sub(r"\d{2}\.\d{2}\.\d{4}", "", line).strip()
+        parts = re.findall(r"(Смесь|[А-ЯЁ][^А-ЯЁ]*)", line_wo_dates)
+        result = {}
+        idx = 1
+        for part in parts:
+            part = part.strip()
+            if not part:
+                continue
+            if part == "Смесь":
+                result["name"] = "Смесь"
+                result["route"] = route
+                result["total"] = total
+                continue
+            name_match = re.match(r"([А-ЯЁ][^0-9%]*)", part)
+            name = name_match.group(1).strip() if name_match else "неизвестно"
+            dose_match = re.search(r"(\d+(?:[.,]\d+)?\s*%?\s*(мг|мл|ед|ЕД))", part, re.IGNORECASE)
+            dosage = dose_match.group(1).strip() if dose_match else ""
+            result[f"name_{idx}"] = name
+            result[f"dosage_{idx}"] = dosage
+            result[f"period_{idx}"] = period
+            idx += 1
+        return result if result else None
+    else:
+        name_match = re.match(r"([А-ЯЁ][^0-9%]*)", line)
+        name = name_match.group(1).strip() if name_match else "неизвестно"
+        dose_match = re.search(r"(\d+(?:[.,]\d+)?\s*%?\s*(мг|мл|ед|ЕД))", line, re.IGNORECASE)
+        dosage = dose_match.group(1).strip() if dose_match else ""
+        return {
+            "name": name,
             "route": route,
             "dosage": dosage,
-            "date_start": date_start,
-            "date_end": date_end,
-            "comment": comment
+            "period": period,
+            "total_day": total
         }
-    }
 
-def split_groups_by_separator(content):
-    pattern = r"====== КОНЕЦ (.*?) ======"
-    matches = list(re.finditer(pattern, content))
+def process_block(block_text: str) -> Optional[List[Dict[str, Any]]]:
+    all_dates = extract_all_dates(block_text)
+    if not all_dates:
+        return None
+    min_date = all_dates[0]
+    result = []
+    for line in block_text.strip().splitlines():
+        if re.search(r"\d{2}\.\d{2}\.\d{4}", line):
+            med = parse_medicines_from_line(line, min_date)
+            if med:
+                result.append(med)
+    return result if result else None
 
-    groups = []
-    start = 0
-    for match in matches:
-        end = match.start()
-        file_name = match.group(1).strip()
-        group_text = content[start:end].strip()
-        groups.append((file_name, group_text))
-        start = match.end()
-    return groups
-
-def process_group(group_text):
-    lines = group_text.strip().splitlines()
-    treatment_dict = {}
-
-    for line in lines:
-        line = line.strip()
-        if not line or not re.search(r"\d{2}\.\d{2}\.\d{4}", line):
-            continue
-        parsed = parse_medicine_line(line)
-        treatment_dict.update(parsed)
-
-    if treatment_dict:
-        return {"treatment": treatment_dict}
-    return None
-
-def main(input_file, output_dir):
+def process_file(input_path: str, output_dir: str = "output"):
     os.makedirs(output_dir, exist_ok=True)
-
-    with open(input_file, "r", encoding="utf-8") as f:
+    with open(input_path, "r", encoding="utf-8") as f:
         content = f.read()
-
-    groups = split_groups_by_separator(content)
-    print(f"Найдено групп: {len(groups)}")
-
-    for file_name, group_text in groups:
-        parsed_group = process_group(group_text)
-        if parsed_group:
-            json_path = os.path.join(output_dir, file_name.replace(".html", ".json"))
-            with open(json_path, "w", encoding="utf-8") as out_f:
-                json.dump(parsed_group, out_f, ensure_ascii=False, indent=2)
-            print(f"Сохранено: {json_path} ({len(parsed_group['treatment'])} записей)")
+    pattern = r"====== КОНЕЦ (\d+)\.html ======"
+    matches = list(re.finditer(pattern, content))
+    prev_pos = 0
+    for match in matches:
+        file_number = match.group(1)
+        end_pos = match.start()
+        block_text = content[prev_pos:end_pos]
+        parsed = process_block(block_text)
+        if parsed:
+            output_path = os.path.join(output_dir, f"{file_number}.json")
+            with open(output_path, "w", encoding="utf-8") as out:
+                json.dump({"treatment": parsed}, out, ensure_ascii=False, indent=2)
+                print(f"[+] Успешно записаны данные для файла {file_number}.json")
+        prev_pos = match.end()
 
 if __name__ == "__main__":
-    main("new_parser/end/drugs_with_date.txt")
+    process_file("parser_with_no_hourly_assignment_sheet/medicine_with_date.txt", output_dir="end")

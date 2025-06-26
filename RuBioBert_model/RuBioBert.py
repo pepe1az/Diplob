@@ -1,6 +1,6 @@
 from transformers import BertTokenizer, BertForSequenceClassification
 import torch
-model_path = 'RuBioBert_model/rubio_bert_classifier'  # Путь к распакованной модели
+model_path = 'RuBioBert_model/rubio_bert_classifier'
 tokenizer = BertTokenizer.from_pretrained(model_path)
 model = BertForSequenceClassification.from_pretrained(model_path)
 
@@ -13,9 +13,6 @@ def is_drug_in_text(text):
     label = torch.argmax(prob, dim=1).item()
     print(f"строка {text} обработана")
     return label
-
-#input_txt = './result_parser.txt'
-#output_file = './drug_detection_results.txt'
 
 def search_medicine(input_txt, output_file):
     with open(input_txt, 'r', encoding='utf-8') as file:
@@ -35,6 +32,5 @@ def search_medicine(input_txt, output_file):
                     drug_lines += 1
                     output_txt.write(line)
 
-    # Печатаем статистику
     print(f"Общее количество строк в файле: {total_lines}")
     print(f"Количество строк, содержащих лекарства: {drug_lines}")

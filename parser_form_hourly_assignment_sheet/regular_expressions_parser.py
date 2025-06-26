@@ -96,22 +96,17 @@ def parse_medication(text):
     return medications_info
 
 def process_all_files(input_dir, output_dir): 
-    #method_pattern = r"(в/в(?: капельно| болюсно)?|п/к|внутрь|на кожу|местно|внутрипузырно|через зонд|промыв катетера|в/м(?: глубоко)?)"
     dose_pattern = r"\d+(\.\d+)?\s*(мл|мг|ЕД|%|Ед|ед|гр|тыс|.|ME)"
     dataset_entries = []
-
     for filename in os.listdir(input_dir):
         if filename.endswith(".json"):
             file_path = os.path.join(input_dir, filename)
             with open(file_path, "r", encoding="utf-8") as f:
                 data = json.load(f)
-
             result_by_days = {}
-
             for day, prescriptions in data.items():
                 day_key = f"{day}"
                 result_by_days[day_key] = {}
-
                 for name, dose in prescriptions.items():
                     full_text = f"{name}: {dose}"
                     parsed = parse_medication(full_text)
@@ -159,11 +154,4 @@ def process_all_files(input_dir, output_dir):
                 json.dump(final_output, f_out, ensure_ascii=False, indent=4)
 
             print(f"Обработан и сохранён: {cleaned_filename}")
-    """with open(dataset_path, "w", encoding="utf-8") as ds_file:
-        for entry in dataset_entries:
-            ds_file.write(json.dumps(entry, ensure_ascii=False) + "\n")
 
-    print(f"📄 Датасет сохранён в {dataset_path}")"""
-
-if __name__ == "__main__":
-    process_all_files()
