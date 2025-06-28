@@ -1,0 +1,18 @@
+{
+  "treatment": [
+    {
+      "name": "Трамал",
+      "route": "в/м",
+      "dosage": "2 мл",
+      "period": "1-2",
+      "total_day": "1"
+    },
+    {
+      "name": "Кетопрофен",
+      "route": "в/м",
+      "dosage": "2 мл",
+      "period": "7-12",
+      "total_day": "1"
+    }
+  ]
+}

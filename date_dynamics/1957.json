@@ -1,0 +1,39 @@
+{
+  "treatment": [
+    {
+      "name": "Ацекардол",
+      "route": "внутрь",
+      "dosage": "100 мг",
+      "period": "1-15",
+      "total_day": "1"
+    },
+    {
+      "name": "Бисопролол - Прана",
+      "route": "внутрь",
+      "dosage": "5 мг",
+      "period": "1-15",
+      "total_day": "1"
+    },
+    {
+      "name": "Зилт",
+      "route": "внутрь",
+      "dosage": "75 мг",
+      "period": "1-15",
+      "total_day": "1"
+    },
+    {
+      "name": "Лизиноприл",
+      "route": "внутрь",
+      "dosage": "10 мг",
+      "period": "1-15",
+      "total_day": "1"
+    },
+    {
+      "name": "Симвастатин",
+      "route": "внутрь",
+      "dosage": "20 мг",
+      "period": "1-15",
+      "total_day": "1"
+    }
+  ]
+}

@@ -1,0 +1,326 @@
+[
+  {
+    "frequency": 1,
+    "route": "внутрь",
+    "dosage": "300.0 мг",
+    "total": "300.0 мг",
+    "name": "Плавикс",
+    "period": "1-1"
+  },
+  {
+    "frequency": 0,
+    "route": "внутрь",
+    "dosage": "5.0 мг",
+    "total": "0.0 мг",
+    "name": "Бисопролол - Прана",
+    "period": "1-1"
+  },
+  {
+    "frequency": 1,
+    "route": "внутрь",
+    "dosage": "80.0 мг",
+    "total": "80.0 мг",
+    "name": "Липримар",
+    "period": "1-1"
+  },
+  {
+    "frequency": 2,
+    "route": "промыв катетера",
+    "dosage": "25.0 мл",
+    "total": "50.0 мл",
+    "name": "Натрия хлорид",
+    "period": "1-16"
+  },
+  {
+    "frequency": 1,
+    "route": "внутрь",
+    "dosage": "5.0 мг",
+    "total": "5.0 мг",
+    "name": "Лизиноприл",
+    "period": "1-5"
+  },
+  {
+    "frequency": 3,
+    "route": "в/в",
+    "dosage": "10.0 мл",
+    "total": "30.0 мл",
+    "name": "Изокет",
+    "period": "1-1"
+  },
+  {
+    "frequency": 3,
+    "route": "в/в",
+    "dosage": "10.0 мл",
+    "total": "30.0 мл",
+    "name": "Натрия хлорид",
+    "period": "1-1"
+  },
+  {
+    "frequency": 2,
+    "route": "п/к",
+    "dosage": "0.6 мл",
+    "total": "1.2 мл",
+    "name": "Клексан",
+    "period": "1-4"
+  },
+  {
+    "frequency": 3,
+    "route": "в/в",
+    "dosage": "2.0 мл",
+    "total": "6.0 мл",
+    "name": "Фуросемид",
+    "period": "1-1"
+  },
+  {
+    "frequency": 3,
+    "route": "в/в",
+    "dosage": "2.0 мл",
+    "total": "6.0 мл",
+    "name": "Фуросемид",
+    "period": "3-3"
+  },
+  {
+    "frequency": 2,
+    "route": "внутрь",
+    "dosage": "20.0 мг",
+    "total": "40.0 мг",
+    "name": "Омепразол",
+    "period": "1-16"
+  },
+  {
+    "frequency": 1,
+    "route": "внутрь",
+    "dosage": "40.0 мг",
+    "total": "40.0 мг",
+    "name": "Липримар",
+    "period": "2-6"
+  },
+  {
+    "frequency": 1,
+    "route": "внутрь",
+    "dosage": "100.0 мг",
+    "total": "75.0 мг",
+    "name": "Коплавикс",
+    "period": "2-16"
+  },
+  {
+    "frequency": 1,
+    "route": "внутрь",
+    "dosage": "25.0 мг",
+    "total": "25.0 мг",
+    "name": "Верошпирон",
+    "period": "2-2"
+  },
+  {
+    "frequency": 3,
+    "route": "внутрь",
+    "dosage": "10.0 мг",
+    "total": "30.0 мг",
+    "name": "Торасемид-СЗ",
+    "period": "2-2"
+  },
+  {
+    "frequency": 3,
+    "route": "внутрь",
+    "dosage": "25.0 мг",
+    "total": "75.0 мг",
+    "name": "Верошпирон",
+    "period": "3-16"
+  },
+  {
+    "frequency": 1,
+    "route": "внутрь",
+    "dosage": "10.0 мг",
+    "total": "10.0 мг",
+    "name": "Торасемид-СЗ",
+    "period": "3-10"
+  },
+  {
+    "frequency": 4,
+    "route": "в/в",
+    "dosage": "15.0 мл",
+    "total": "60.0 мл",
+    "name": "Калия хлорид буфус",
+    "period": "3-4"
+  },
+  {
+    "frequency": 4,
+    "route": "в/в",
+    "dosage": "15.0 мл",
+    "total": "60.0 мл",
+    "name": "Натрия хлорид",
+    "period": "3-4"
+  },
+  {
+    "frequency": 0,
+    "route": "внутрь",
+    "dosage": "5.0 мг",
+    "total": "2.5 мг",
+    "name": "Бисопролол - Прана",
+    "period": "3-16"
+  },
+  {
+    "route": "в/в",
+    "total": "1200.0 мг",
+    "concentration": "50 МГ/мл",
+    "name": "Кордарон",
+    "period": "3-3"
+  },
+  {
+    "route": "в/в капельно",
+    "total": "1200.0 мг",
+    "concentration": "50 МГ/мл",
+    "name": "Кордарон",
+    "period": "4-5"
+  },
+  {
+    "frequency": 1,
+    "route": "в/м",
+    "dosage": "0 мл",
+    "total": "2.0 мл",
+    "name": "Sol. Tramadoli l",
+    "period": "4-4"
+  },
+  {
+    "frequency": 2,
+    "route": "в/в",
+    "dosage": "15.0 мл",
+    "total": "30.0 мл",
+    "name": "Калия хлорид буфус",
+    "period": "5-5"
+  },
+  {
+    "frequency": 2,
+    "route": "в/в",
+    "dosage": "15.0 мл",
+    "total": "30.0 мл",
+    "name": "Натрия хлорид",
+    "period": "5-5"
+  },
+  {
+    "frequency": 3,
+    "route": "в/в",
+    "dosage": "1.0 мл",
+    "total": "3.0 мл",
+    "name": "Гепарин-натрий Браун .",
+    "period": "5-5"
+  },
+  {
+    "frequency": 3,
+    "route": "в/в",
+    "dosage": "1.0 мл",
+    "total": "3.0 мл",
+    "name": "Натрия хлорид",
+    "period": "5-5"
+  },
+  {
+    "route": "в/в",
+    "total": "20.0 мл",
+    "concentration": "100 ЕД/мл",
+    "name": "НовоРапид Пенфилл Е",
+    "period": "5-14"
+  },
+  {
+    "route": "в/в",
+    "total": "20.0 мл",
+    "concentration": "100 ЕД/мл",
+    "name": "Натрия хлорид",
+    "period": "5-14"
+  },
+  {
+    "frequency": 3,
+    "route": "в/в",
+    "dosage": "1.0 мл",
+    "total": "3.0 мл",
+    "name": "Галоперидол-Рихтер",
+    "period": "5-5"
+  },
+  {
+    "frequency": 6,
+    "route": "в/в",
+    "dosage": "1.0 мл",
+    "total": "6.0 мл",
+    "name": "Гепарин-натрий Браун .",
+    "period": "6-16"
+  },
+  {
+    "frequency": 6,
+    "route": "в/в",
+    "dosage": "1.0 мл",
+    "total": "6.0 мл",
+    "name": "Натрия хлорид",
+    "period": "6-16"
+  },
+  {
+    "frequency": 3,
+    "route": "внутрь",
+    "dosage": "200.0 мг",
+    "total": "600.0 мг",
+    "name": "Кордарон",
+    "period": "6-16"
+  },
+  {
+    "frequency": 2,
+    "route": "внутрь",
+    "dosage": "2.5 мг",
+    "total": "5.0 мг",
+    "name": "Варфарин Никомед",
+    "period": "6-6"
+  },
+  {
+    "frequency": 2,
+    "route": "внутрь",
+    "dosage": "2.5 мг",
+    "total": "5.0 мг",
+    "name": "Варфарин Никомед",
+    "period": "11-11"
+  },
+  {
+    "frequency": 2,
+    "route": "внутрь",
+    "dosage": "2.5 мг",
+    "total": "5.0 мг",
+    "name": "Варфарин Никомед",
+    "period": "15-16"
+  },
+  {
+    "frequency": 1,
+    "route": "внутрь",
+    "dosage": "2.5 мг",
+    "total": "2.5 мг",
+    "name": "Варфарин Никомед",
+    "period": "7-10"
+  },
+  {
+    "frequency": 1,
+    "route": "в/м",
+    "dosage": "3.0 мл",
+    "total": "3.0 мл",
+    "name": "Диклофенак",
+    "period": "8-8"
+  },
+  {
+    "frequency": 2,
+    "route": "внутрь",
+    "dosage": "500.0 мг",
+    "total": "1000.0 мг",
+    "name": "Левофлоксацин",
+    "period": "9-16"
+  },
+  {
+    "frequency": 3,
+    "route": "внутрь",
+    "dosage": "2.5 мг",
+    "total": "7.5 мг",
+    "name": "Варфарин Никомед",
+    "period": "12-14"
+  },
+  {
+    "frequency": 1,
+    "route": "п/к",
+    "dosage": "0 мл",
+    "total": "2.0 мл",
+    "name": "Sol. Tramadoli l",
+    "period": "15-15"
+  }
+]

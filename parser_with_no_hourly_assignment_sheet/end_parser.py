@@ -4,12 +4,15 @@ import os
 from datetime import datetime
 from typing import List, Optional, Dict, Any
 
+# Регулярное выражение для распознавания способов введения лекарств
 method_pattern = r"(внутрь|в/в|в/м|п/к|подкожно|перорально|ингаляц|парабульбарно)"
 
+# Извлечение всех уникальных дат из текста в формате ДД.ММ.ГГГГ и сортировка их
 def extract_all_dates(text: str) -> List[str]:
     dates = re.findall(r"\d{2}\.\d{2}\.\d{4}", text)
     return sorted(set(dates), key=lambda d: datetime.strptime(d, "%d.%m.%Y"))
 
+# Вычисление интервала в днях между двумя датами относительно минимальной даты
 def parse_period(start: str, end: str, min_date_str: str) -> str:
     date_format = "%d.%m.%Y"
     min_date = datetime.strptime(min_date_str, date_format)
@@ -19,6 +22,7 @@ def parse_period(start: str, end: str, min_date_str: str) -> str:
     end_day = (end_date - min_date).days + 1
     return f"{start_day}-{end_day}"
 
+# Попытка извлечь название лекарства из строки
 def extract_medicine_name(text: str) -> str:
     pattern = r"([А-ЯЁA-Z][^\d,]*)"
     match = re.match(pattern, text.strip())
@@ -28,6 +32,8 @@ def extract_medicine_name(text: str) -> str:
         return name
     return "неизвестно"
 
+# Извлечение информации о лекарствах из строки: название, дозировка, период, способ, частота применения
+# Поддерживает как обычные препараты, так и смеси с несколькими компонентами
 def parse_medicines_from_line(line: str, min_date_str: str) -> Optional[Dict[str, Any]]:
     dates = re.findall(r"\d{2}\.\d{2}\.\d{4}", line)
     if len(dates) >= 2:
@@ -42,6 +48,7 @@ def parse_medicines_from_line(line: str, min_date_str: str) -> Optional[Dict[str
     total_match = re.search(r"(\d+(?:[.,]\d+)?)\s*р/д", line)
     total = total_match.group(1).replace(',', '.') if total_match else ""
 
+    # Обработка смеси из нескольких компонентов
     if "Смесь" in line:
         line_wo_dates = re.sub(r"\d{2}\.\d{2}\.\d{4}", "", line).strip()
         parts = re.findall(r"(Смесь|[А-ЯЁ][^А-ЯЁ]*)", line_wo_dates)
@@ -66,6 +73,7 @@ def parse_medicines_from_line(line: str, min_date_str: str) -> Optional[Dict[str
             idx += 1
         return result if result else None
     else:
+        # Обработка обычной строки с единичным препаратом
         name_match = re.match(r"([А-ЯЁ][^0-9%]*)", line)
         name = name_match.group(1).strip() if name_match else "неизвестно"
         dose_match = re.search(r"(\d+(?:[.,]\d+)?\s*%?\s*(мг|мл|ед|ЕД))", line, re.IGNORECASE)
@@ -78,6 +86,8 @@ def parse_medicines_from_line(line: str, min_date_str: str) -> Optional[Dict[str
             "total_day": total
         }
 
+# Обработка одного блока текста (до маркера конца) — построчный разбор строк с датами
+# Возвращает список словарей с извлечённой информацией о лечении
 def process_block(block_text: str) -> Optional[List[Dict[str, Any]]]:
     all_dates = extract_all_dates(block_text)
     if not all_dates:
@@ -91,6 +101,8 @@ def process_block(block_text: str) -> Optional[List[Dict[str, Any]]]:
                 result.append(med)
     return result if result else None
 
+# Главная функция для обработки текстового файла с медицинскими блоками
+# Разбивает файл по маркерам конца, обрабатывает каждый блок и сохраняет результат в JSON
 def process_file(input_path: str, output_dir: str = "output"):
     os.makedirs(output_dir, exist_ok=True)
     with open(input_path, "r", encoding="utf-8") as f:
@@ -109,6 +121,3 @@ def process_file(input_path: str, output_dir: str = "output"):
                 json.dump({"treatment": parsed}, out, ensure_ascii=False, indent=2)
                 print(f"[+] Успешно записаны данные для файла {file_number}.json")
         prev_pos = match.end()
-
-if __name__ == "__main__":
-    process_file("parser_with_no_hourly_assignment_sheet/medicine_with_date.txt", output_dir="end")

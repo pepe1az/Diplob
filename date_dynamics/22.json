@@ -1,0 +1,25 @@
+{
+  "treatment": [
+    {
+      "name": "Калия хлорида",
+      "route": "в/в",
+      "dosage": "30 мл",
+      "period": "1-6",
+      "total_day": "1"
+    },
+    {
+      "name": "Натрия хлорид",
+      "route": "в/в",
+      "dosage": "200 мл",
+      "period": "1-6",
+      "total_day": "1"
+    },
+    {
+      "name": "Эгилок",
+      "route": "внутрь",
+      "dosage": "25 мг",
+      "period": "1-10",
+      "total_day": "2"
+    }
+  ]
+}

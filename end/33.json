@@ -1,0 +1,18 @@
+{
+  "treatment": [
+    {
+      "name": "Кардиомагнил",
+      "route": "внутрь",
+      "dosage": "150 мг",
+      "period": "1-2",
+      "total_day": "1"
+    },
+    {
+      "name": "Эгилок",
+      "route": "внутрь",
+      "dosage": "25 мг",
+      "period": "1-2",
+      "total_day": "2"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "treatment": [
+    {
+      "name": "Дексамед",
+      "route": "парабульбарно",
+      "dosage": "2 мл",
+      "period": "1-11",
+      "total_day": "1"
+    },
+    {
+      "name": "Натрия хлорид",
+      "route": "в/в",
+      "dosage": "200 мл",
+      "period": "1-11",
+      "total_day": "1"
+    },
+    {
+      "name": "Пентоксифиллин",
+      "route": "в/в",
+      "dosage": "5 мл",
+      "period": "1-11",
+      "total_day": "1"
+    }
+  ]
+}

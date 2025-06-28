@@ -1,0 +1,102 @@
+{
+  "treatment": [
+    {
+      "name": "Арикстра",
+      "route": "п/к",
+      "dosage": "2,5 мг",
+      "period": "1-2",
+      "total_day": "1"
+    },
+    {
+      "name": "Гидроксихлорохин",
+      "route": "внутрь",
+      "dosage": "200 мг",
+      "period": "1-2",
+      "total_day": "2"
+    },
+    {
+      "name": "Спиронолактон",
+      "route": "внутрь",
+      "dosage": "25 мг",
+      "period": "1-13",
+      "total_day": "2"
+    },
+    {
+      "name": "Эликвис",
+      "route": "внутрь",
+      "dosage": "5 мг",
+      "period": "1-6",
+      "total_day": "2"
+    },
+    {
+      "name": "Торасемид",
+      "route": "внутрь",
+      "dosage": "5 мг",
+      "period": "1-6",
+      "total_day": "1"
+    },
+    {
+      "name": "Бисопролол",
+      "route": "внутрь",
+      "dosage": "5 мг",
+      "period": "1-8",
+      "total_day": "1"
+    },
+    {
+      "name": "Омепразол",
+      "route": "внутрь",
+      "dosage": "20 мг",
+      "period": "1-13",
+      "total_day": "2"
+    },
+    {
+      "name": "Гидроксихлорохин",
+      "route": "внутрь",
+      "dosage": "200 мг",
+      "period": "1-7",
+      "total_day": "1"
+    },
+    {
+      "name": "Зилт",
+      "route": "внутрь",
+      "dosage": "75 мг",
+      "period": "2-12",
+      "total_day": "1"
+    },
+    {
+      "name": "Левофлоксацин",
+      "route": "внутрь",
+      "dosage": "500 мг",
+      "period": "2-12",
+      "total_day": "2"
+    },
+    {
+      "name": "Эликвис",
+      "route": "внутрь",
+      "dosage": "5 мг",
+      "period": "6-13",
+      "total_day": "2"
+    },
+    {
+      "name": "Метоклопрамид",
+      "route": "в/м",
+      "dosage": "5 мг",
+      "period": "6-9",
+      "total_day": "3"
+    },
+    {
+      "name": "Бисопролол",
+      "route": "внутрь",
+      "dosage": "5 мг",
+      "period": "8-13",
+      "total_day": "1"
+    },
+    {
+      "name": "Диклофенак Велфарм",
+      "route": "в/м",
+      "dosage": "25 мг",
+      "period": "9-12",
+      "total_day": "1"
+    }
+  ]
+}

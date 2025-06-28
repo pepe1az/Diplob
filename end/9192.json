@@ -1,0 +1,462 @@
+[
+  {
+    "frequency": 1,
+    "route": "внутрь",
+    "dosage": "20.0 мг",
+    "total": "20.0 мг",
+    "name": "Омепразол",
+    "period": "1-14"
+  },
+  {
+    "frequency": 0,
+    "route": "внутрь",
+    "dosage": "100.0 мг",
+    "total": "0.0 мг",
+    "name": "Ацекардол",
+    "period": "1-1"
+  },
+  {
+    "frequency": 1,
+    "route": "внутрь",
+    "dosage": "10.0 мг",
+    "total": "10.0 мг",
+    "name": "Лизиноприл",
+    "period": "1-1"
+  },
+  {
+    "frequency": 0,
+    "route": "в/в капельно",
+    "dosage": "20.0 мл",
+    "total": "3.0 мл",
+    "name": "Изокет",
+    "period": "1-1"
+  },
+  {
+    "frequency": 0,
+    "route": "в/в капельно",
+    "dosage": "20.0 мл",
+    "total": "3.0 мл",
+    "name": "Натрия хлорид",
+    "period": "1-1"
+  },
+  {
+    "frequency": 1,
+    "route": "внутрь",
+    "dosage": "5.0 мг",
+    "total": "5.0 мг",
+    "name": "Бисопролол - Прана",
+    "period": "1-1"
+  },
+  {
+    "frequency": 3,
+    "route": "промыв катетера",
+    "dosage": "50.0 мл",
+    "total": "150.0 мл",
+    "name": "Натрия хлорид",
+    "period": "1-1"
+  },
+  {
+    "route": "промыв катетера",
+    "total": "3.0 дозсмеси",
+    "concentration": "5000 ЕД/мл",
+    "name": "Гепарин",
+    "period": "1-1"
+  },
+  {
+    "route": "промыв катетера",
+    "total": "3.0 дозсмеси",
+    "concentration": "5000 ЕД/мл",
+    "name": "Натрия хлорид",
+    "period": "1-1"
+  },
+  {
+    "frequency": 0,
+    "route": "внутрь",
+    "dosage": "40.0 мг",
+    "total": "0.0 мг",
+    "name": "Аторвастатин",
+    "period": "1-1"
+  },
+  {
+    "frequency": 0,
+    "route": "п/к",
+    "dosage": "4.0 мл",
+    "total": "0.4 мл",
+    "name": "Эноксапарин натрия нти-ХА",
+    "period": "1-1"
+  },
+  {
+    "frequency": 0,
+    "route": "внутрь",
+    "dosage": "75.0 мг",
+    "total": "0.0 мг",
+    "name": "Плавикс",
+    "period": "1-1"
+  },
+  {
+    "frequency": 1,
+    "route": "внутрь",
+    "dosage": "100.0 мг",
+    "total": "100.0 мг",
+    "name": "Ацекардол",
+    "period": "2-15"
+  },
+  {
+    "frequency": 1,
+    "route": "внутрь",
+    "dosage": "5.0 мг",
+    "total": "5.0 мг",
+    "name": "Лизиноприл",
+    "period": "2-8"
+  },
+  {
+    "frequency": 4,
+    "route": "промыв катетера",
+    "dosage": "50.0 мл",
+    "total": "200.0 мл",
+    "name": "Натрия хлорид",
+    "period": "2-15"
+  },
+  {
+    "route": "промыв катетера",
+    "total": "4.0 дозсмеси",
+    "concentration": "5000 ЕД/мл",
+    "name": "Гепарин",
+    "period": "2-10"
+  },
+  {
+    "route": "промыв катетера",
+    "total": "4.0 дозсмеси",
+    "concentration": "5000 ЕД/мл",
+    "name": "Натрия хлорид",
+    "period": "2-10"
+  },
+  {
+    "frequency": 1,
+    "route": "внутрь",
+    "dosage": "40.0 мг",
+    "total": "40.0 мг",
+    "name": "Аторвастатин",
+    "period": "2-11"
+  },
+  {
+    "frequency": 0,
+    "route": "п/к",
+    "dosage": "4.0 мл",
+    "total": "0.8 мл",
+    "name": "Эноксапарин натрия нти-ХА",
+    "period": "2-8"
+  },
+  {
+    "frequency": 1,
+    "route": "внутрь",
+    "dosage": "75.0 мг",
+    "total": "75.0 мг",
+    "name": "Плавикс",
+    "period": "2-15"
+  },
+  {
+    "route": "в/в",
+    "total": "1.0 дозсмеси",
+    "concentration": "50 МГ/мл",
+    "name": "Амиодарон",
+    "period": "3-4"
+  },
+  {
+    "route": "в/в",
+    "total": "1.0 дозсмеси",
+    "concentration": "50 МГ/мл",
+    "name": "Глюкоза",
+    "period": "3-4"
+  },
+  {
+    "frequency": 3,
+    "route": "внутрь",
+    "dosage": "200.0 мг",
+    "total": "600.0 мг",
+    "name": "Амиодарон",
+    "period": "5-6"
+  },
+  {
+    "frequency": 0,
+    "route": "внутрь",
+    "dosage": "1000.0 мл",
+    "total": "500.0 мл",
+    "name": "Изосурс Энерджи Файбер",
+    "period": "5-7"
+  },
+  {
+    "frequency": 2,
+    "route": "внутрь",
+    "dosage": "25.0 мг",
+    "total": "50.0 мг",
+    "name": "Спиронолактон",
+    "period": "5-14"
+  },
+  {
+    "frequency": 2,
+    "route": "внутрь",
+    "dosage": "10.0 мг",
+    "total": "20.0 мг",
+    "name": "Торасемид-СЗ",
+    "period": "5-5"
+  },
+  {
+    "frequency": 2,
+    "route": "внутрь",
+    "dosage": "5.0 мг",
+    "total": "10.0 мг",
+    "name": "Торасемид-СЗ",
+    "period": "6-8"
+  },
+  {
+    "frequency": 2,
+    "route": "внутрь",
+    "dosage": "5.0 мг",
+    "total": "10.0 мг",
+    "name": "Торасемид-СЗ",
+    "period": "13-14"
+  },
+  {
+    "frequency": 2,
+    "route": "внутрь",
+    "dosage": "200.0 мг",
+    "total": "400.0 мг",
+    "name": "Амиодарон",
+    "period": "7-8"
+  },
+  {
+    "frequency": 2,
+    "route": "внутрь",
+    "dosage": "200.0 мг",
+    "total": "400.0 мг",
+    "name": "Амиодарон",
+    "period": "11-11"
+  },
+  {
+    "frequency": 1,
+    "route": "внутрь",
+    "dosage": "5.0 мг",
+    "total": "5.0 мг",
+    "name": "Меманталь",
+    "period": "7-14"
+  },
+  {
+    "frequency": 2,
+    "route": "внутрь",
+    "dosage": "1000.0 мл",
+    "total": "2000.0 мл",
+    "name": "Изосурс Энерджи Файбер",
+    "period": "8-15"
+  },
+  {
+    "route": "в/в",
+    "total": "6.0 мл",
+    "concentration": "5 МГ/мл",
+    "name": "Метоклопрамид-Виал",
+    "period": "8-15"
+  },
+  {
+    "frequency": 2,
+    "route": "внутрь",
+    "dosage": "500.0 мг",
+    "total": "1000.0 мг",
+    "name": "Левофлоксацин",
+    "period": "8-11"
+  },
+  {
+    "route": "в/в",
+    "total": "1.0 дозсмеси",
+    "concentration": "40 МГ/мл",
+    "name": "Стерофундин изотонический",
+    "period": "8-8"
+  },
+  {
+    "route": "в/в",
+    "total": "1.0 дозсмеси",
+    "concentration": "40 МГ/мл",
+    "name": "Калия хлорид",
+    "period": "8-8"
+  },
+  {
+    "frequency": 1,
+    "route": "внутрь",
+    "dosage": "200.0 мг",
+    "total": "200.0 мг",
+    "name": "Амиодарон",
+    "period": "9-10"
+  },
+  {
+    "frequency": 1,
+    "route": "внутрь",
+    "dosage": "200.0 мг",
+    "total": "200.0 мг",
+    "name": "Амиодарон",
+    "period": "12-15"
+  },
+  {
+    "frequency": 1,
+    "route": "внутрь",
+    "dosage": "5.0 мг",
+    "total": "5.0 мг",
+    "name": "Торасемид-СЗ",
+    "period": "9-12"
+  },
+  {
+    "frequency": 0,
+    "route": "п/к",
+    "dosage": "2.0 мл",
+    "total": "0.2 мл",
+    "name": "Эноксапарин натрия нти-Ха",
+    "period": "9-14"
+  },
+  {
+    "frequency": 3,
+    "route": "внутрь",
+    "dosage": "10000.0 ЕД",
+    "total": "30000.0 ЕД",
+    "name": "Панзинорм",
+    "period": "9-14"
+  },
+  {
+    "frequency": 1,
+    "route": "внутрь",
+    "dosage": "0 мл",
+    "total": "0 мл",
+    "name": "Неосмектин",
+    "period": "9-11"
+  },
+  {
+    "frequency": 1,
+    "route": "внутрь",
+    "dosage": "5.0 мг",
+    "total": "5.0 мг",
+    "name": "Бравадин",
+    "period": "11-14"
+  },
+  {
+    "frequency": 0,
+    "route": "в/в капельно",
+    "dosage": "1000.0 мг",
+    "total": "8.0 мг",
+    "name": "Цераксон",
+    "period": "11-11"
+  },
+  {
+    "frequency": 0,
+    "route": "в/в",
+    "dosage": "49.0 мл",
+    "total": "1.0 мл",
+    "name": "Инванз",
+    "period": "12-15"
+  },
+  {
+    "frequency": 0,
+    "route": "в/в",
+    "dosage": "49.0 мл",
+    "total": "1.0 мл",
+    "name": "Натрия хлорид",
+    "period": "12-15"
+  },
+  {
+    "route": "в/в капельно",
+    "total": "100.0 мл",
+    "concentration": "10 МГ/мл",
+    "name": "Парацетамол",
+    "period": "12-12"
+  },
+  {
+    "route": "в/в капельно",
+    "total": "100.0 мл",
+    "concentration": "10 МГ/мл",
+    "name": "Парацетамол",
+    "period": "14-14"
+  },
+  {
+    "route": "в/в",
+    "total": "4.0 дозсмеси",
+    "concentration": "2 МГ/мл",
+    "name": "Норадреналин Агетан",
+    "period": "13-13"
+  },
+  {
+    "route": "в/в",
+    "total": "4.0 дозсмеси",
+    "concentration": "2 МГ/мл",
+    "name": "Норадреналин Агетан",
+    "period": "15-15"
+  },
+  {
+    "route": "в/в",
+    "total": "4.0 дозсмеси",
+    "concentration": "2 МГ/мл",
+    "name": "Натрия хлорид",
+    "period": "13-13"
+  },
+  {
+    "route": "в/в",
+    "total": "4.0 дозсмеси",
+    "concentration": "2 МГ/мл",
+    "name": "Натрия хлорид",
+    "period": "15-15"
+  },
+  {
+    "route": "в/в",
+    "total": "5.0 мл",
+    "concentration": "20 МГ/мл",
+    "name": "Листенон",
+    "period": "13-13"
+  },
+  {
+    "route": "в/в",
+    "total": "3.0 дозсмеси",
+    "concentration": "2 МГ/мл",
+    "name": "Норадреналин Агетан",
+    "period": "14-14"
+  },
+  {
+    "route": "в/в",
+    "total": "3.0 дозсмеси",
+    "concentration": "2 МГ/мл",
+    "name": "Натрия хлорид",
+    "period": "14-14"
+  },
+  {
+    "frequency": 8,
+    "route": "в/в",
+    "dosage": "0.5 мл",
+    "total": "4.0 мл",
+    "name": "Гепарин-натрий Браун .",
+    "period": "15-15"
+  },
+  {
+    "frequency": 8,
+    "route": "в/в",
+    "dosage": "0.5 мл",
+    "total": "4.0 мл",
+    "name": "Натрия хлорид",
+    "period": "15-15"
+  },
+  {
+    "route": "не указан",
+    "total": "15.0 мл",
+    "concentration": "1 МГ/мл",
+    "name": "Адреналина гидрохлорид-Виал",
+    "period": "15-15"
+  },
+  {
+    "frequency": 5,
+    "route": "в/в",
+    "dosage": "10.0 мл",
+    "total": "50.0 мл",
+    "name": "Кальция хлорид",
+    "period": "15-15"
+  },
+  {
+    "route": "в/в капельно",
+    "total": "200.0 мл",
+    "concentration": "40 МГ/мл",
+    "name": "Натрия гидрокарбонат",
+    "period": "15-15"
+  }
+]

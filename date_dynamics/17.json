@@ -1,0 +1,18 @@
+{
+  "treatment": [
+    {
+      "name": "Феназепам",
+      "route": "внутрь",
+      "dosage": "1 мг",
+      "period": "1-2",
+      "total_day": "2"
+    },
+    {
+      "name": "Дексаметазон",
+      "route": "п/к",
+      "dosage": "0.5 мл",
+      "period": "2-7",
+      "total_day": "1"
+    }
+  ]
+}
